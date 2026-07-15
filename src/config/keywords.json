@@ -1,0 +1,24 @@
+{
+    "allow": [
+        "software engineer",
+        "software development engineer",
+        "associate software engineer",
+        "backend",
+        "frontend",
+        "full stack",
+        "graduate",
+        "new grad",
+        "intern"
+    ],
+
+    "block": [
+        "senior",
+        "staff",
+        "principal",
+        "lead",
+        "manager",
+        "director",
+        "architect",
+        "vp"
+    ]
+}
