@@ -1,12 +1,11 @@
 [
-    {
-        "company": "AMD",
-        "ats": "workday",
-        "url": ""
-    },
-    {
-        "company": "NVIDIA",
-        "ats": "workday",
-        "url": ""
-    }
+   {
+    "company":"GE HealthCare",
+
+    "ats":"workday",
+
+    "baseUrl":"https://gehc.wd5.myworkdayjobs.com",
+
+    "endpoint":"https://gehc.wd5.myworkdayjobs.com/wday/cxs/gehc/GEHC_ExternalSite/jobs"
+}
 ]
