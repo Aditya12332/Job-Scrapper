@@ -1,26 +1,42 @@
-const mongoose=require("mongoose");
+const mongoose = require("mongoose");
 
-const JobSchema=new mongoose.Schema({
+const jobSchema = new mongoose.Schema(
+    {
+        jobId: {
+            type: String,
+            required: true,
+            unique: true,
+            index: true
+        },
 
-    jobId:{
-        type:String,
-        unique:true
+        company: {
+            type: String,
+            required: true
+        },
+
+        title: {
+            type: String,
+            required: true
+        },
+
+        url: {
+            type: String,
+            required: true
+        },
+
+        ats: {
+            type: String,
+            required: true
+        },
+
+        createdAt: {
+            type: Date,
+            default: Date.now
+        }
     },
-
-    company:String,
-
-    title:String,
-
-    ats:String,
-
-    detectedAt:{
-
-        type:Date,
-
-        default:Date.now
-
+    {
+        versionKey: false
     }
+);
 
-});
-
-module.exports=mongoose.model("Job",JobSchema);
+module.exports = mongoose.model("Job", jobSchema);
