@@ -1,23 +1,11 @@
 function validateCompany(company) {
-
-    const required = [
-        "company",
-        "ats",
-        "url"
-    ];
+    const required = ["company", "ats", "baseUrl", "endpoint"];
 
     for (const key of required) {
-
         if (!(key in company)) {
-
-            throw new Error(
-                `${company.company || "Unknown"} missing ${key}`
-            );
-
+            throw new Error(`${company.company || "Unknown"} missing ${key}`);
         }
-
     }
-
 }
 
 module.exports = validateCompany;

@@ -1,31 +1,26 @@
-const Job=require("../database/jobs");
+const Job = require("../db/jobs");
 
-async function isNewJob(job){
+async function isNewJob(job) {
+    try {
+        const result = await Job.findOneAndUpdate(
+    { jobId: job.id },
+    {
+        $setOnInsert: {
+            jobId: job.id,
+            company: job.company,
+            title: job.title,
+            url: job.url,
+            ats: job.ats
+        }
+    },
+    { upsert: true, returnDocument: "before" }
+);
 
-    const existing=await Job.findOne({
-
-        jobId:job.id
-
-    });
-
-    if(existing)
-
+return result === null;    
+} catch (err) {
+        console.error("Deduplication Error:", err.message);
         return false;
-
-    await Job.create({
-
-        jobId:job.id,
-
-        company:job.company,
-
-        title:job.title,
-
-        ats:job.ats
-
-    });
-
-    return true;
-
+    }
 }
 
-module.exports=isNewJob;
+module.exports = isNewJob;
