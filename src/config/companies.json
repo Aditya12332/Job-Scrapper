@@ -1,0 +1,852 @@
+[
+  {
+    "company": "NVIDIA",
+    "ats": "workday",
+    "board": "NVIDIAExternalCareerSite",
+    "baseUrl": "https://nvidia.wd5.myworkdayjobs.com",
+    "endpoint": "https://nvidia.wd5.myworkdayjobs.com/wday/cxs/nvidia/NVIDIAExternalCareerSite/jobs"
+  },
+  {
+    "company": "Airbus",
+    "ats": "workday",
+    "board": "Airbus",
+    "baseUrl": "https://ag.wd3.myworkdayjobs.com",
+    "endpoint": "https://ag.wd3.myworkdayjobs.com/wday/cxs/ag/Airbus/jobs"
+  },
+  {
+    "company": "Dell",
+    "ats": "workday",
+    "board": "External",
+    "baseUrl": "https://dell.wd1.myworkdayjobs.com",
+    "endpoint": "https://dell.wd1.myworkdayjobs.com/wday/cxs/dell/External/jobs"
+  },
+  {
+    "company": "ZEISS",
+    "ats": "workday",
+    "board": "External",
+    "baseUrl": "https://zeissgroup.wd3.myworkdayjobs.com",
+    "endpoint": "https://zeissgroup.wd3.myworkdayjobs.com/wday/cxs/zeissgroup/External/jobs"
+  },
+  {
+    "company": "GoTo",
+    "ats": "workday",
+    "board": "gotocareers",
+    "baseUrl": "https://goto.wd5.myworkdayjobs.com",
+    "endpoint": "https://goto.wd5.myworkdayjobs.com/wday/cxs/goto/gotocareers/jobs"
+  },
+  {
+    "company": "Warner Bros. Discovery",
+    "ats": "workday",
+    "board": "global",
+    "baseUrl": "https://warnerbros.wd5.myworkdayjobs.com",
+    "endpoint": "https://warnerbros.wd5.myworkdayjobs.com/wday/cxs/warnerbros/global/jobs"
+  },
+  {
+    "company": "Amadeus",
+    "ats": "workday",
+    "board": "jobs",
+    "baseUrl": "https://amadeus.wd502.myworkdayjobs.com",
+    "endpoint": "https://amadeus.wd502.myworkdayjobs.com/wday/cxs/amadeus/jobs/jobs"
+  },
+  {
+    "company": "Aptiv",
+    "ats": "workday",
+    "board": "APTIV_CAREERS",
+    "baseUrl": "https://aptiv.wd5.myworkdayjobs.com",
+    "endpoint": "https://aptiv.wd5.myworkdayjobs.com/wday/cxs/aptiv/APTIV_CAREERS/jobs"
+  },
+  {
+    "company": "Comcast",
+    "ats": "workday",
+    "board": "Comcast_Careers",
+    "baseUrl": "https://comcast.wd5.myworkdayjobs.com",
+    "endpoint": "https://comcast.wd5.myworkdayjobs.com/wday/cxs/comcast/Comcast_Careers/jobs"
+  },
+  {
+    "company": "ICF",
+    "ats": "workday",
+    "board": "ICFExternal_Career_Site",
+    "baseUrl": "https://icf.wd5.myworkdayjobs.com",
+    "endpoint": "https://icf.wd5.myworkdayjobs.com/wday/cxs/icf/ICFExternal_Career_Site/jobs"
+  },
+  {
+    "company": "Empower",
+    "ats": "workday",
+    "board": "empower",
+    "baseUrl": "https://empower.wd12.myworkdayjobs.com",
+    "endpoint": "https://empower.wd12.myworkdayjobs.com/wday/cxs/empower/empower/jobs"
+  },
+  {
+    "company": "Calix",
+    "ats": "workday",
+    "board": "ExternalInternational",
+    "baseUrl": "https://calix.wd1.myworkdayjobs.com",
+    "endpoint": "https://calix.wd1.myworkdayjobs.com/wday/cxs/calix/ExternalInternational/jobs"
+  },
+  {
+    "company": "Boeing",
+    "ats": "workday",
+    "board": "INTERN",
+    "baseUrl": "https://boeing.wd1.myworkdayjobs.com",
+    "endpoint": "https://boeing.wd1.myworkdayjobs.com/wday/cxs/boeing/INTERN/jobs"
+  },
+  {
+    "company": "Amgen",
+    "ats": "workday",
+    "board": "Careers",
+    "baseUrl": "https://amgen.wd1.myworkdayjobs.com",
+    "endpoint": "https://amgen.wd1.myworkdayjobs.com/wday/cxs/amgen/Careers/jobs"
+  },
+  {
+    "company": "Cisco",
+    "ats": "workday",
+    "board": "Cisco_Careers",
+    "baseUrl": "https://cisco.wd5.myworkdayjobs.com",
+    "endpoint": "https://cisco.wd5.myworkdayjobs.com/wday/cxs/cisco/Cisco_Careers/jobs"
+  },
+  {
+    "company": "Dentsu",
+    "ats": "workday",
+    "board": "DAN_GLOBAL",
+    "baseUrl": "https://dentsuaegis.wd3.myworkdayjobs.com",
+    "endpoint": "https://dentsuaegis.wd3.myworkdayjobs.com/wday/cxs/dentsuaegis/DAN_GLOBAL/jobs"
+  },
+  {
+    "company": "Deutsche Bank",
+    "ats": "workday",
+    "board": "DBWebsite",
+    "baseUrl": "https://db.wd3.myworkdayjobs.com",
+    "endpoint": "https://db.wd3.myworkdayjobs.com/wday/cxs/db/DBWebsite/jobs"
+  },
+  {
+    "company": "State Street",
+    "ats": "workday",
+    "board": "Global",
+    "baseUrl": "https://statestreet.wd1.myworkdayjobs.com",
+    "endpoint": "https://statestreet.wd1.myworkdayjobs.com/wday/cxs/statestreet/Global/jobs"
+  },
+  {
+    "company": "BlackRock",
+    "ats": "workday",
+    "board": "blackrock_professional",
+    "baseUrl": "https://blackrock.wd1.myworkdayjobs.com",
+    "endpoint": "https://blackrock.wd1.myworkdayjobs.com/wday/cxs/blackrock/blackrock_professional/jobs"
+  },
+  {
+    "company": "Genpact",
+    "ats": "workday",
+    "board": "External_Careers",
+    "baseUrl": "https://genpact.wd108.myworkdayjobs.com",
+    "endpoint": "https://genpact.wd108.myworkdayjobs.com/wday/cxs/genpact/External_Careers/jobs"
+  },
+  {
+    "company": "GlobalFoundries",
+    "ats": "workday",
+    "board": "External",
+    "baseUrl": "https://globalfoundries.wd1.myworkdayjobs.com",
+    "endpoint": "https://globalfoundries.wd1.myworkdayjobs.com/wday/cxs/globalfoundries/External/jobs"
+  },
+  {
+    "company": "Thomson Reuters",
+    "ats": "workday",
+    "board": "External_Career_Site",
+    "baseUrl": "https://thomsonreuters.wd5.myworkdayjobs.com",
+    "endpoint": "https://thomsonreuters.wd5.myworkdayjobs.com/wday/cxs/thomsonreuters/External_Career_Site/jobs"
+  },
+  {
+    "company": "EVS",
+    "ats": "workday",
+    "board": "evsengineeringcareers",
+    "baseUrl": "https://evs.wd108.myworkdayjobs.com",
+    "endpoint": "https://evs.wd108.myworkdayjobs.com/wday/cxs/evs/evsengineeringcareers/jobs"
+  },
+  {
+    "company": "Nationwide",
+    "ats": "workday",
+    "board": "Nationwide_Career_India",
+    "baseUrl": "https://nationwide.wd1.myworkdayjobs.com",
+    "endpoint": "https://nationwide.wd1.myworkdayjobs.com/wday/cxs/nationwide/Nationwide_Career_India/jobs"
+  },
+  {
+    "company": "Zendesk",
+    "ats": "workday",
+    "board": "zendesk",
+    "baseUrl": "https://zendesk.wd1.myworkdayjobs.com",
+    "endpoint": "https://zendesk.wd1.myworkdayjobs.com/wday/cxs/zendesk/zendesk/jobs"
+  },
+  {
+    "company": "Adient",
+    "ats": "workday",
+    "board": "External",
+    "baseUrl": "https://adient.wd3.myworkdayjobs.com",
+    "endpoint": "https://adient.wd3.myworkdayjobs.com/wday/cxs/adient/External/jobs"
+  },
+  {
+    "company": "Analog Devices",
+    "ats": "workday",
+    "board": "External",
+    "baseUrl": "https://analogdevices.wd1.myworkdayjobs.com",
+    "endpoint": "https://analogdevices.wd1.myworkdayjobs.com/wday/cxs/analogdevices/External/jobs"
+  },
+  {
+    "company": "Convatec",
+    "ats": "workday",
+    "board": "convatec",
+    "baseUrl": "https://convatec.wd1.myworkdayjobs.com",
+    "endpoint": "https://convatec.wd1.myworkdayjobs.com/wday/cxs/convatec/convatec/jobs"
+  },
+  {
+    "company": "Quantiphi",
+    "ats": "workday",
+    "board": "Careers_at_Quantiphi",
+    "baseUrl": "https://quantiphi.wd1.myworkdayjobs.com",
+    "endpoint": "https://quantiphi.wd1.myworkdayjobs.com/wday/cxs/quantiphi/Careers_at_Quantiphi/jobs"
+  },
+  {
+    "company": "PwC",
+    "ats": "workday",
+    "board": "Global_Experienced_Careers",
+    "baseUrl": "https://pwc.wd3.myworkdayjobs.com",
+    "endpoint": "https://pwc.wd3.myworkdayjobs.com/wday/cxs/pwc/Global_Experienced_Careers/jobs"
+  },
+  {
+    "company": "Guidehouse",
+    "ats": "workday",
+    "board": "External",
+    "baseUrl": "https://guidehouse.wd1.myworkdayjobs.com",
+    "endpoint": "https://guidehouse.wd1.myworkdayjobs.com/wday/cxs/guidehouse/External/jobs"
+  },
+  {
+    "company": "CSG",
+    "ats": "workday",
+    "board": "CSGCareers",
+    "baseUrl": "https://csgi.wd5.myworkdayjobs.com",
+    "endpoint": "https://csgi.wd5.myworkdayjobs.com/wday/cxs/csgi/CSGCareers/jobs"
+  },
+  {
+    "company": "Unisys",
+    "ats": "workday",
+    "board": "External",
+    "baseUrl": "https://unisys.wd5.myworkdayjobs.com",
+    "endpoint": "https://unisys.wd5.myworkdayjobs.com/wday/cxs/unisys/External/jobs"
+  },
+  {
+    "company": "Visa",
+    "ats": "workday",
+    "board": "Visa",
+    "baseUrl": "https://visa.wd5.myworkdayjobs.com",
+    "endpoint": "https://visa.wd5.myworkdayjobs.com/wday/cxs/visa/Visa/jobs"
+  },
+  {
+    "company": "Pinnacle Group",
+    "ats": "workday",
+    "board": "pinnaclegroup",
+    "baseUrl": "https://pinnaclegroup.wd1.myworkdayjobs.com",
+    "endpoint": "https://pinnaclegroup.wd1.myworkdayjobs.com/wday/cxs/pinnaclegroup/pinnaclegroup/jobs"
+  },
+  {
+    "company": "Nordson",
+    "ats": "workday",
+    "board": "nordsoncareers",
+    "baseUrl": "https://nordsonhcm.wd501.myworkdayjobs.com",
+    "endpoint": "https://nordsonhcm.wd501.myworkdayjobs.com/wday/cxs/nordsonhcm/nordsoncareers/jobs"
+  },
+  {
+    "company": "Adobe",
+    "ats": "workday",
+    "board": "external_experienced",
+    "baseUrl": "https://adobe.wd5.myworkdayjobs.com",
+    "endpoint": "https://adobe.wd5.myworkdayjobs.com/wday/cxs/adobe/external_experienced/jobs"
+  },
+  {
+    "company": "Autodesk",
+    "ats": "workday",
+    "board": "Ext",
+    "baseUrl": "https://autodesk.wd1.myworkdayjobs.com",
+    "endpoint": "https://autodesk.wd1.myworkdayjobs.com/wday/cxs/autodesk/Ext/jobs"
+  },
+  {
+    "company": "Lloyds Technology Centre",
+    "ats": "workday",
+    "board": "Lloyds_Technology_Centre",
+    "baseUrl": "https://lbg.wd3.myworkdayjobs.com",
+    "endpoint": "https://lbg.wd3.myworkdayjobs.com/wday/cxs/lbg/Lloyds_Technology_Centre/jobs"
+  },
+  {
+    "company": "JDA (Blue Yonder)",
+    "ats": "workday",
+    "board": "JDA_Careers",
+    "baseUrl": "https://jda.wd5.myworkdayjobs.com",
+    "endpoint": "https://jda.wd5.myworkdayjobs.com/wday/cxs/jda/JDA_Careers/jobs"
+  },
+  {
+    "company": "Mastercard",
+    "ats": "workday",
+    "board": "CorporateCareers",
+    "baseUrl": "https://mastercard.wd1.myworkdayjobs.com",
+    "endpoint": "https://mastercard.wd1.myworkdayjobs.com/wday/cxs/mastercard/CorporateCareers/jobs"
+  },
+  {
+    "company": "CME Group",
+    "ats": "workday",
+    "board": "cme_careers",
+    "baseUrl": "https://cmegroup.wd1.myworkdayjobs.com",
+    "endpoint": "https://cmegroup.wd1.myworkdayjobs.com/wday/cxs/cmegroup/cme_careers/jobs"
+  },
+  {
+    "company": "SEI",
+    "ats": "workday",
+    "board": "sei_global_services",
+    "baseUrl": "https://seic.wd1.myworkdayjobs.com",
+    "endpoint": "https://seic.wd1.myworkdayjobs.com/wday/cxs/seic/sei_global_services/jobs"
+  },
+  {
+    "company": "Zebra Technologies",
+    "ats": "workday",
+    "board": "Zebra_careers",
+    "baseUrl": "https://zebra.wd501.myworkdayjobs.com",
+    "endpoint": "https://zebra.wd501.myworkdayjobs.com/wday/cxs/zebra/Zebra_careers/jobs"
+  },
+  {
+    "company": "SailPoint",
+    "ats": "workday",
+    "board": "SailPoint",
+    "baseUrl": "https://sailpoint.wd1.myworkdayjobs.com",
+    "endpoint": "https://sailpoint.wd1.myworkdayjobs.com/wday/cxs/sailpoint/SailPoint/jobs"
+  },
+  {
+    "company": "CrowdStrike",
+    "ats": "workday",
+    "board": "crowdstrikecareers",
+    "baseUrl": "https://crowdstrike.wd5.myworkdayjobs.com",
+    "endpoint": "https://crowdstrike.wd5.myworkdayjobs.com/wday/cxs/crowdstrike/crowdstrikecareers/jobs"
+  },
+  {
+    "company": "Flexera",
+    "ats": "workday",
+    "board": "FlexeraSoftware",
+    "baseUrl": "https://flexerasoftware.wd1.myworkdayjobs.com",
+    "endpoint": "https://flexerasoftware.wd1.myworkdayjobs.com/wday/cxs/flexerasoftware/FlexeraSoftware/jobs"
+  },
+  {
+    "company": "Concentrix",
+    "ats": "workday",
+    "board": "external_global",
+    "baseUrl": "https://cnx.wd1.myworkdayjobs.com",
+    "endpoint": "https://cnx.wd1.myworkdayjobs.com/wday/cxs/cnx/external_global/jobs"
+  },
+  {
+    "company": "HPE (Hewlett Packard Enterprise)",
+    "ats": "workday",
+    "board": "Jobsathpe",
+    "baseUrl": "https://hpe.wd5.myworkdayjobs.com",
+    "endpoint": "https://hpe.wd5.myworkdayjobs.com/wday/cxs/hpe/Jobsathpe/jobs"
+  },
+  {
+    "company": "Morgan Stanley",
+    "ats": "workday",
+    "board": "External",
+    "baseUrl": "https://ms.wd5.myworkdayjobs.com",
+    "endpoint": "https://ms.wd5.myworkdayjobs.com/wday/cxs/ms/External/jobs"
+  },
+  {
+    "company": "ISS STOXX",
+    "ats": "workday",
+    "board": "isscareers",
+    "baseUrl": "https://issgovernance.wd1.myworkdayjobs.com",
+    "endpoint": "https://issgovernance.wd1.myworkdayjobs.com/wday/cxs/issgovernance/isscareers/jobs"
+  },
+  {
+    "company": "American Express Global Business Travel",
+    "ats": "workday",
+    "board": "Jobs",
+    "baseUrl": "https://travelhrportal.wd1.myworkdayjobs.com",
+    "endpoint": "https://travelhrportal.wd1.myworkdayjobs.com/wday/cxs/travelhrportal/Jobs/jobs"
+  },
+  {
+    "company": "Workday",
+    "ats": "workday",
+    "board": "Workday",
+    "baseUrl": "https://workday.wd5.myworkdayjobs.com",
+    "endpoint": "https://workday.wd5.myworkdayjobs.com/wday/cxs/workday/Workday/jobs"
+  },
+  {
+    "company": "Cadence Design Systems",
+    "ats": "workday",
+    "board": "External_Careers",
+    "baseUrl": "https://cadence.wd1.myworkdayjobs.com",
+    "endpoint": "https://cadence.wd1.myworkdayjobs.com/wday/cxs/cadence/External_Careers/jobs"
+  },
+  {
+    "company": "Wells Fargo",
+    "ats": "workday",
+    "board": "WellsFargoJobs",
+    "baseUrl": "https://wf.wd1.myworkdayjobs.com",
+    "endpoint": "https://wf.wd1.myworkdayjobs.com/wday/cxs/wf/WellsFargoJobs/jobs"
+  },
+  {
+    "company": "Medtronic",
+    "ats": "workday",
+    "board": "MedtronicCareers",
+    "baseUrl": "https://medtronic.wd1.myworkdayjobs.com",
+    "endpoint": "https://medtronic.wd1.myworkdayjobs.com/wday/cxs/medtronic/MedtronicCareers/jobs"
+  },
+  {
+    "company": "Roche",
+    "ats": "workday",
+    "board": "roche-ext",
+    "baseUrl": "https://roche.wd3.myworkdayjobs.com",
+    "endpoint": "https://roche.wd3.myworkdayjobs.com/wday/cxs/roche/roche-ext/jobs"
+  },
+  {
+    "company": "Novartis",
+    "ats": "workday",
+    "board": "Novartis_Careers",
+    "baseUrl": "https://novartis.wd3.myworkdayjobs.com",
+    "endpoint": "https://novartis.wd3.myworkdayjobs.com/wday/cxs/novartis/Novartis_Careers/jobs"
+  },
+  {
+    "company": "AstraZeneca",
+    "ats": "workday",
+    "board": "Careers",
+    "baseUrl": "https://astrazeneca.wd3.myworkdayjobs.com",
+    "endpoint": "https://astrazeneca.wd3.myworkdayjobs.com/wday/cxs/astrazeneca/Careers/jobs"
+  },
+  {
+    "company": "Pfizer",
+    "ats": "workday",
+    "board": "PfizerCareers",
+    "baseUrl": "https://pfizer.wd1.myworkdayjobs.com",
+    "endpoint": "https://pfizer.wd1.myworkdayjobs.com/wday/cxs/pfizer/PfizerCareers/jobs"
+  },
+  {
+    "company": "Kenvue",
+    "ats": "workday",
+    "board": "kenvue",
+    "baseUrl": "https://kenvue.wd5.myworkdayjobs.com",
+    "endpoint": "https://kenvue.wd5.myworkdayjobs.com/wday/cxs/kenvue/kenvue/jobs"
+  },
+  {
+    "company": "Gap Inc.",
+    "ats": "workday",
+    "board": "gapinc",
+    "baseUrl": "https://gapinc.wd1.myworkdayjobs.com",
+    "endpoint": "https://gapinc.wd1.myworkdayjobs.com/wday/cxs/gapinc/gapinc/jobs"
+  },
+  {
+    "company": "CVS Health",
+    "ats": "workday",
+    "board": "CVS_Health_Careers",
+    "baseUrl": "https://cvshealth.wd1.myworkdayjobs.com",
+    "endpoint": "https://cvshealth.wd1.myworkdayjobs.com/wday/cxs/cvshealth/CVS_Health_Careers/jobs"
+  },
+  {
+    "company": "Cigna",
+    "ats": "workday",
+    "board": "cignacareers",
+    "baseUrl": "https://cigna.wd5.myworkdayjobs.com",
+    "endpoint": "https://cigna.wd5.myworkdayjobs.com/wday/cxs/cigna/cignacareers/jobs"
+  },
+  {
+    "company": "Allstate",
+    "ats": "workday",
+    "board": "Allstate_Careers",
+    "baseUrl": "https://allstate.wd5.myworkdayjobs.com",
+    "endpoint": "https://allstate.wd5.myworkdayjobs.com/wday/cxs/allstate/Allstate_Careers/jobs"
+  },
+  {
+    "company": "Trimble",
+    "ats": "workday",
+    "board": "TrimbleCareers",
+    "baseUrl": "https://trimble.wd1.myworkdayjobs.com",
+    "endpoint": "https://trimble.wd1.myworkdayjobs.com/wday/cxs/trimble/TrimbleCareers/jobs"
+  },
+  {
+    "company": "Marvell Technology",
+    "ats": "workday",
+    "board": "MarvellCareers",
+    "baseUrl": "https://marvell.wd1.myworkdayjobs.com",
+    "endpoint": "https://marvell.wd1.myworkdayjobs.com/wday/cxs/marvell/MarvellCareers/jobs"
+  },
+  {
+    "company": "PayPal",
+    "ats": "workday",
+    "board": "jobs",
+    "baseUrl": "https://paypal.wd1.myworkdayjobs.com",
+    "endpoint": "https://paypal.wd1.myworkdayjobs.com/wday/cxs/paypal/jobs/jobs"
+  },
+  {
+    "company": "Stryker",
+    "ats": "workday",
+    "board": "StrykerCareers",
+    "baseUrl": "https://stryker.wd1.myworkdayjobs.com",
+    "endpoint": "https://stryker.wd1.myworkdayjobs.com/wday/cxs/stryker/StrykerCareers/jobs"
+  },
+  {
+    "company": "Everise",
+    "ats": "workday",
+    "board": "EveriseCareers",
+    "baseUrl": "https://weareeverise.wd1.myworkdayjobs.com",
+    "endpoint": "https://weareeverise.wd1.myworkdayjobs.com/wday/cxs/weareeverise/EveriseCareers/jobs"
+  },
+  {
+    "company": "KBR",
+    "ats": "workday",
+    "board": "KBR_Careers",
+    "baseUrl": "https://kbr.wd5.myworkdayjobs.com",
+    "endpoint": "https://kbr.wd5.myworkdayjobs.com/wday/cxs/kbr/KBR_Careers/jobs"
+  },
+  {
+    "company": "Sierra Nevada Corporation",
+    "ats": "workday",
+    "board": "SNC_External_Career_Site",
+    "baseUrl": "https://snc.wd1.myworkdayjobs.com",
+    "endpoint": "https://snc.wd1.myworkdayjobs.com/wday/cxs/snc/SNC_External_Career_Site/jobs"
+  },
+  {
+    "company": "Workiva",
+    "ats": "workday",
+    "board": "careers",
+    "baseUrl": "https://workiva.wd503.myworkdayjobs.com",
+    "endpoint": "https://workiva.wd503.myworkdayjobs.com/wday/cxs/workiva/careers/jobs"
+  },
+  {
+    "company": "Prudential Financial",
+    "ats": "workday",
+    "board": "Careers",
+    "baseUrl": "https://pru.wd5.myworkdayjobs.com",
+    "endpoint": "https://pru.wd5.myworkdayjobs.com/wday/cxs/pru/Careers/jobs"
+  },
+  {
+    "company": "CDW",
+    "ats": "workday",
+    "board": "Careers",
+    "baseUrl": "https://cdw.wd5.myworkdayjobs.com",
+    "endpoint": "https://cdw.wd5.myworkdayjobs.com/wday/cxs/cdw/Careers/jobs"
+  },
+  {
+    "company": "Accenture",
+    "ats": "workday",
+    "board": "AccentureCareers",
+    "baseUrl": "https://accenture.wd103.myworkdayjobs.com",
+    "endpoint": "https://accenture.wd103.myworkdayjobs.com/wday/cxs/accenture/AccentureCareers/jobs"
+  },
+  {
+    "company": "Kyndryl",
+    "ats": "workday",
+    "board": "KyndrylProfessionalCareers",
+    "baseUrl": "https://kyndryl.wd5.myworkdayjobs.com",
+    "endpoint": "https://kyndryl.wd5.myworkdayjobs.com/wday/cxs/kyndryl/KyndrylProfessionalCareers/jobs"
+  },
+  {
+    "company": "Ingram Micro",
+    "ats": "workday",
+    "board": "IngramMicro",
+    "baseUrl": "https://ingrammicro.wd5.myworkdayjobs.com",
+    "endpoint": "https://ingrammicro.wd5.myworkdayjobs.com/wday/cxs/ingrammicro/IngramMicro/jobs"
+  },
+  {
+    "company": "LSEG (London Stock Exchange Group)",
+    "ats": "workday",
+    "board": "Careers",
+    "baseUrl": "https://lseg.wd3.myworkdayjobs.com",
+    "endpoint": "https://lseg.wd3.myworkdayjobs.com/wday/cxs/lseg/Careers/jobs"
+  },
+  {
+    "company": "TD SYNNEX",
+    "ats": "workday",
+    "board": "tdsynnexcareers",
+    "baseUrl": "https://synnex.wd5.myworkdayjobs.com",
+    "endpoint": "https://synnex.wd5.myworkdayjobs.com/wday/cxs/synnex/tdsynnexcareers/jobs"
+  },
+  {
+    "company": "Jabil",
+    "ats": "workday",
+    "board": "Jabil_Careers",
+    "baseUrl": "https://jabil.wd5.myworkdayjobs.com",
+    "endpoint": "https://jabil.wd5.myworkdayjobs.com/wday/cxs/jabil/Jabil_Careers/jobs"
+  },
+  {
+    "company": "Solventum",
+    "ats": "workday",
+    "board": "Search",
+    "baseUrl": "https://healthcare.wd1.myworkdayjobs.com",
+    "endpoint": "https://healthcare.wd1.myworkdayjobs.com/wday/cxs/healthcare/Search/jobs"
+  },
+  {
+    "company": "HARMAN",
+    "ats": "workday",
+    "board": "HARMAN",
+    "baseUrl": "https://harman.wd3.myworkdayjobs.com",
+    "endpoint": "https://harman.wd3.myworkdayjobs.com/wday/cxs/harman/HARMAN/jobs",
+    "evidence_url": "https://harman.wd3.myworkdayjobs.com/id-ID/HARMAN/job/Bangalore---Karnataka-India---EOIZ-Industrial-Area/Full-stack-developer-Java-with-Angular_R-43201-2025"
+  },
+  {
+    "company": "Broadridge",
+    "ats": "workday",
+    "board": "Careers",
+    "baseUrl": "https://broadridge.wd5.myworkdayjobs.com",
+    "endpoint": "https://broadridge.wd5.myworkdayjobs.com/wday/cxs/broadridge/Careers/jobs",
+    "evidence_url": "https://broadridge.wd5.myworkdayjobs.com/en-GB/Careers/job/SrPython-Full-stack-developer---Senior-Member-Technical--Bangalore_JR1075434"
+  },
+  {
+    "company": "Worldpay",
+    "ats": "workday",
+    "board": "Worldpay_External_Careers_Site",
+    "baseUrl": "https://worldpay.wd5.myworkdayjobs.com",
+    "endpoint": "https://worldpay.wd5.myworkdayjobs.com/wday/cxs/worldpay/Worldpay_External_Careers_Site/jobs",
+    "evidence_url": "https://worldpay.wd5.myworkdayjobs.com/en-US/Worldpay_External_Careers_Site/job/Senior-NET-Full-Stack-Developer--C---ASPNET-Core--Angular--7--Yrs-Bangalore-Pune-Indore_JR0609632"
+  },
+  {
+    "company": "FIS",
+    "ats": "workday",
+    "board": "SearchJobs",
+    "baseUrl": "https://fis.wd5.myworkdayjobs.com",
+    "endpoint": "https://fis.wd5.myworkdayjobs.com/wday/cxs/fis/SearchJobs/jobs",
+    "evidence_url": "https://fis.wd5.myworkdayjobs.com/de-DE/SearchJobs/job/IND-BNGL-FL2-3-TWR-3/Full-Stack-Developer--React-and-Node-JS--AWS-_JR0305316"
+  },
+  {
+    "company": "Applied Materials",
+    "ats": "workday",
+    "board": "External",
+    "baseUrl": "https://amat.wd1.myworkdayjobs.com",
+    "endpoint": "https://amat.wd1.myworkdayjobs.com/wday/cxs/amat/External/jobs",
+    "evidence_url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/BangaloreIND/Full-stack-Developer---Java---React_R2517162-1"
+  },
+  {
+    "company": "Fractal Analytics",
+    "ats": "workday",
+    "board": "Careers",
+    "baseUrl": "https://fractal.wd1.myworkdayjobs.com",
+    "endpoint": "https://fractal.wd1.myworkdayjobs.com/wday/cxs/fractal/Careers/jobs",
+    "evidence_url": "https://fractal.wd1.myworkdayjobs.com/Careers"
+  },
+  {
+    "company": "Red Hat",
+    "ats": "workday",
+    "board": "Jobs",
+    "baseUrl": "https://redhat.wd5.myworkdayjobs.com",
+    "endpoint": "https://redhat.wd5.myworkdayjobs.com/wday/cxs/redhat/Jobs/jobs",
+    "evidence_url": "https://redhat.wd5.myworkdayjobs.com/Jobs/job/Pune/Associate-Software-Engineer_R-053402-1"
+  },
+  {
+    "company": "Rolls-Royce",
+    "ats": "workday",
+    "board": "Intern_Graduate",
+    "baseUrl": "https://rollsroyce.wd3.myworkdayjobs.com",
+    "endpoint": "https://rollsroyce.wd3.myworkdayjobs.com/wday/cxs/rollsroyce/Intern_Graduate/jobs",
+    "evidence_url": "https://rollsroyce.wd3.myworkdayjobs.com/de-DE/Intern_Graduate/job/Bangalore/Internship---Data-Engineer_JR6139999-1"
+  },
+  {
+    "company": "Intel",
+    "ats": "workday",
+    "board": "External",
+    "baseUrl": "https://intel.wd1.myworkdayjobs.com",
+    "endpoint": "https://intel.wd1.myworkdayjobs.com/wday/cxs/intel/External/jobs",
+    "evidence_url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/DTCO-Data-Engineer-Intern_JR0285341"
+  },
+  {
+    "company": "McAfee",
+    "ats": "workday",
+    "board": "External",
+    "baseUrl": "https://mcafee.wd1.myworkdayjobs.com",
+    "endpoint": "https://mcafee.wd1.myworkdayjobs.com/wday/cxs/mcafee/External/jobs",
+    "evidence_url": "https://mcafee.wd1.myworkdayjobs.com/External/job/India-Bengaluru/Senior-Applied-ML-Engineer_JR0031837"
+  },
+  {
+    "company": "Huron Consulting",
+    "ats": "workday",
+    "board": "huroncareers",
+    "baseUrl": "https://huron.wd1.myworkdayjobs.com",
+    "endpoint": "https://huron.wd1.myworkdayjobs.com/wday/cxs/huron/huroncareers/jobs",
+    "evidence_url": "https://huron.wd1.myworkdayjobs.com/en-US/huroncareers/job/Bangalore-India---Outer-Ring-Road/ML-Engineer_JR-0013644"
+  },
+  {
+    "company": "Booz Allen Hamilton",
+    "ats": "workday",
+    "board": "BAH_Jobs",
+    "baseUrl": "https://bah.wd1.myworkdayjobs.com",
+    "endpoint": "https://bah.wd1.myworkdayjobs.com/wday/cxs/bah/BAH_Jobs/jobs",
+    "evidence_url": "https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/MLOps-Engineer_R0232550"
+  },
+  {
+    "company": "Boeing",
+    "ats": "workday",
+    "board": "INTERN",
+    "baseUrl": "https://boeing.wd1.myworkdayjobs.com",
+    "endpoint": "https://boeing.wd1.myworkdayjobs.com/wday/cxs/boeing/INTERN/jobs",
+    "evidence_url": "https://boeing.wd1.myworkdayjobs.com/INTERN/job/IND---Bangalore-India/Software-Engineer-Intern_JR2025447578"
+  },
+  {
+    "company": "Boeing",
+    "ats": "workday",
+    "board": "EXTERNAL_CAREERS",
+    "baseUrl": "https://boeing.wd1.myworkdayjobs.com",
+    "endpoint": "https://boeing.wd1.myworkdayjobs.com/wday/cxs/boeing/EXTERNAL_CAREERS/jobs",
+    "evidence_url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/IND---Bangalore-India/Associate-Software-Engineer_JR2025474615-2"
+  },
+  {
+    "company": "LSEG (London Stock Exchange Group)",
+    "ats": "workday",
+    "board": "Careers",
+    "baseUrl": "https://lseg.wd3.myworkdayjobs.com",
+    "endpoint": "https://lseg.wd3.myworkdayjobs.com/wday/cxs/lseg/Careers/jobs",
+    "evidence_url": "https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Data-Scientist_R0113440-1"
+  },
+  {
+    "company": "LSEG (London Stock Exchange Group)",
+    "ats": "workday",
+    "board": "Graduate_Careers",
+    "baseUrl": "https://lseg.wd3.myworkdayjobs.com",
+    "endpoint": "https://lseg.wd3.myworkdayjobs.com/wday/cxs/lseg/Graduate_Careers/jobs",
+    "evidence_url": "https://lseg.wd3.myworkdayjobs.com/en-US/Graduate_Careers/job/Intern---Software-Engineer_R0111293"
+  },
+  {
+    "company": "OutSystems",
+    "ats": "workday",
+    "board": "outsystems",
+    "baseUrl": "https://outsystems.wd503.myworkdayjobs.com",
+    "endpoint": "https://outsystems.wd503.myworkdayjobs.com/wday/cxs/outsystems/outsystems/jobs",
+    "evidence_url": "https://outsystems.wd503.myworkdayjobs.com/outsystems/job/india---remote/lead-ai-engineer_r1004"
+  },
+  {
+    "company": "Hitachi Energy",
+    "ats": "workday",
+    "board": "hitachi",
+    "baseUrl": "https://hitachi.wd1.myworkdayjobs.com",
+    "endpoint": "https://hitachi.wd1.myworkdayjobs.com/wday/cxs/hitachi/hitachi/jobs",
+    "evidence_url": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Chennai-Tamil-Nadu-India/R-D-Senior-Engineer---React-Frontend-Engineer--India-Development-Center_R0127538-1"
+  },
+  {
+    "company": "Itron",
+    "ats": "workday",
+    "board": "Itron",
+    "baseUrl": "https://itron.wd5.myworkdayjobs.com",
+    "endpoint": "https://itron.wd5.myworkdayjobs.com/wday/cxs/itron/Itron/jobs",
+    "evidence_url": "https://itron.wd5.myworkdayjobs.com/en-US/Itron/job/India-Bangalore/Software-Engineer--Front-End-developer-_JR101962-1"
+  },
+  {
+    "company": "GE Vernova",
+    "ats": "workday",
+    "board": "Vernova_ExternalSite",
+    "baseUrl": "https://gevernova.wd5.myworkdayjobs.com",
+    "endpoint": "https://gevernova.wd5.myworkdayjobs.com/wday/cxs/gevernova/Vernova_ExternalSite/jobs",
+    "evidence_url": "https://gevernova.wd5.myworkdayjobs.com/en-US/Vernova_ExternalSite/job/Software-Engineer---Frontend_R5042553-2"
+  },
+  {
+    "company": "Visa (Early Careers)",
+    "ats": "workday",
+    "board": "Visa_Early_Careers",
+    "baseUrl": "https://visa.wd5.myworkdayjobs.com",
+    "endpoint": "https://visa.wd5.myworkdayjobs.com/wday/cxs/visa/Visa_Early_Careers/jobs",
+    "evidence_url": "https://visa.wd5.myworkdayjobs.com/en-US/Visa_Early_Careers/job/SW-Engineer_REF082891W"
+  },
+  {
+    "company": "DWS (Deutsche Bank subsidiary)",
+    "ats": "workday",
+    "board": "DWSWebsite",
+    "baseUrl": "https://db.wd3.myworkdayjobs.com",
+    "endpoint": "https://db.wd3.myworkdayjobs.com/wday/cxs/db/DWSWebsite/jobs",
+    "evidence_url": "https://db.wd3.myworkdayjobs.com/DWSWebsite/job/Backend-Engineer-Java--AS_R0418084-1",
+    "note": "Not confirmed India-specific yet in this search — worth a follow-up query before including in your final fresher list"
+  },
+  {
+    "company": "Rocket Software",
+    "ats": "workday",
+    "board": "rocket_careers",
+    "baseUrl": "https://rocket.wd5.myworkdayjobs.com",
+    "endpoint": "https://rocket.wd5.myworkdayjobs.com/wday/cxs/rocket/rocket_careers/jobs",
+    "evidence_url": "https://rocket.wd5.myworkdayjobs.com/rocket_careers/job/Pune-India/AI-Engineer--Entry-level-_R2026-6278",
+    "note": "Literally titled 'AI Engineer (Entry level)', Pune, India — exact match for your criteria"
+  },
+  {
+    "company": "Jade Global",
+    "ats": "workday",
+    "board": "Jade_Careers",
+    "baseUrl": "https://jadeglobal.wd5.myworkdayjobs.com",
+    "endpoint": "https://jadeglobal.wd5.myworkdayjobs.com/wday/cxs/jadeglobal/Jade_Careers/jobs",
+    "evidence_url": "https://jadeglobal.wd5.myworkdayjobs.com/en-US/Jade_Careers/job/AI-ML-Developer---Python_R-100904",
+    "note": "AI/ML Developer - Python, Pune / Hyderabad"
+  },
+  {
+    "company": "Elevance Health",
+    "ats": "workday",
+    "board": "carelonglobal_in",
+    "baseUrl": "https://elevancehealth.wd1.myworkdayjobs.com",
+    "endpoint": "https://elevancehealth.wd1.myworkdayjobs.com/wday/cxs/elevancehealth/carelonglobal_in/jobs",
+    "evidence_url": "https://elevancehealth.wd1.myworkdayjobs.com/en-US/carelonglobal_in/job/Snowflake---Team-Lead-II---BF---30901-30981---JR193041_JR193041-1",
+    "note": "Board name itself signals India-specific entity (Carelon Global India); Bangalore/Hyderabad/Gurugram AI-engineering-adjacent role"
+  },
+  {
+  "company": "Danaher",
+  "ats": "workday",
+  "board": "DanaherJobs",
+  "baseUrl": "https://danaher.wd1.myworkdayjobs.com",
+  "endpoint": "https://danaher.wd1.myworkdayjobs.com/wday/cxs/danaher/DanaherJobs/jobs",
+  "evidence_url": "https://danaher.wd1.myworkdayjobs.com/en-US/DanaherJobs/job/Software-Engineer-I_R1313632",
+  "note": "Verified. India Workday board with Software Engineer I role in Bengaluru. Includes software engineering opportunities across Danaher operating companies like Radiometer, Beckman Coulter and Cepheid."
+},
+{
+  "company": "Availity",
+  "ats": "workday",
+  "board": "Availity_Careers_India",
+  "baseUrl": "https://availity.wd1.myworkdayjobs.com",
+  "endpoint": "https://availity.wd1.myworkdayjobs.com/wday/cxs/availity/Availity_Careers_India/jobs",
+  "evidence_url": "https://availity.wd1.myworkdayjobs.com/en-US/Availity_Careers_India/job/India/Software-Engineer_R0008000-1",
+  "note": "Verified. Bengaluru engineering center. Posts Software Engineer, backend, React/.NET, AWS and platform engineering roles."
+},
+ {
+    "company": "Procore",
+    "ats": "workday",
+    "board": "Procore_External_Careers",
+    "baseUrl": "https://procore.wd12.myworkdayjobs.com",
+    "endpoint": "https://procore.wd12.myworkdayjobs.com/wday/cxs/procore/Procore_External_Careers/jobs",
+    "evidence_url": "https://procore.wd12.myworkdayjobs.com/en-US/Procore_External_Careers/job/Software-Engineer-II_R0018029",
+    "note": "Verified. Bengaluru/Pune engineering hiring. Posts Software Engineer, Full Stack, Backend, Frontend, Data Platform and AI-enabled engineering roles."
+  },
+  {
+    "company": "RingCentral",
+    "ats": "workday",
+    "board": "RingCentral_Careers",
+    "baseUrl": "https://ringcentral.wd1.myworkdayjobs.com",
+    "endpoint": "https://ringcentral.wd1.myworkdayjobs.com/wday/cxs/ringcentral/RingCentral_Careers/jobs",
+    "evidence_url": "https://ringcentral.wd1.myworkdayjobs.com/en-US/RingCentral_Careers/job/Bangalore-India/Software_R077703",
+    "note": "Verified. Bengaluru engineering center. Posts Software Development Engineer roles focused on distributed systems and AI infrastructure."
+  },
+  {
+  "company": "Salesforce",
+  "ats": "workday",
+  "board": "External_Career_Site",
+  "baseUrl": "https://salesforce.wd12.myworkdayjobs.com",
+  "endpoint": "https://salesforce.wd12.myworkdayjobs.com/wday/cxs/salesforce/External_Career_Site/jobs",
+  "evidence_url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Software-Engineer-SMTS_JR338173",
+  "note": "Verified. Live Workday board. India (Bangalore/Hyderabad) Software Engineering, Backend, ML Engineer and Platform Engineering roles."
+},
+{
+  "company": "Michelin",
+  "ats": "workday",
+  "board": "Michelin",
+  "baseUrl": "https://michelinhr.wd3.myworkdayjobs.com",
+  "endpoint": "https://michelinhr.wd3.myworkdayjobs.com/wday/cxs/michelinhr/Michelin/jobs",
+  "evidence_url": "https://michelinhr.wd3.myworkdayjobs.com/en-US/Michelin/job/Pune/Software-Engineer_R-2024019167",
+  "note": "Verified. Pune Software Engineer roles. Engineering organization posts Software Engineer positions."
+},
+ {
+    "company": "Guidewire",
+    "ats": "workday",
+    "board": "external",
+    "baseUrl": "https://guidewire.wd5.myworkdayjobs.com",
+    "endpoint": "https://guidewire.wd5.myworkdayjobs.com/wday/cxs/guidewire/external/jobs",
+    "evidence_url": "https://guidewire.wd5.myworkdayjobs.com/en-US/external/job/Software-Engineer-II--Java--backend-_JR_14658",
+    "note": "Verified. Bengaluru. Regular Software Engineer, Backend Engineer, Java, Cloud and AI platform engineering roles."
+  },
+  {
+    "company": "Global Payments (TSYS)",
+    "ats": "workday",
+    "board": "TSYS",
+    "baseUrl": "https://tsys.wd1.myworkdayjobs.com",
+    "endpoint": "https://tsys.wd1.myworkdayjobs.com/wday/cxs/tsys/TSYS/jobs",
+    "evidence_url": "https://tsys.wd1.myworkdayjobs.com/en-US/TSYS/job/PUNE--INDIA/Software-Engineer_R0071025-1",
+    "note": "Verified. Pune. Software Engineer roles across Java, backend and payments platform engineering."
+  }
+]

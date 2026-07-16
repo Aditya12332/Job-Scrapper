@@ -1,0 +1,47 @@
+{
+  "allow": [
+    "software engineer",
+    "software developer",
+    "software development engineer",
+    "sde",
+    "associate software engineer",
+    "associate engineer",
+    "application engineer",
+    "backend engineer",
+    "backend developer",
+    "frontend engineer",
+    "frontend developer",
+    "full stack",
+    "fullstack",
+    "full-stack",
+    "web developer",
+    "web engineer",
+    "graduate",
+    "new grad",
+    "new graduate",
+    "entry level",
+    "entry-level",
+    "early career",
+    "intern",
+    "internship",
+    "machine learning engineer",
+    "ml engineer",
+    "ai engineer",
+    "data engineer"
+  ],
+
+  "block": [
+    "senior",
+    "sr.",
+    "staff",
+    "principal",
+    "lead",
+    "manager",
+    "director",
+    "architect",
+    "vp",
+    "vice president",
+    "head",
+    "chief"
+  ]
+}
