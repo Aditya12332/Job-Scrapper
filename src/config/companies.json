@@ -778,24 +778,24 @@
     "note": "Board name itself signals India-specific entity (Carelon Global India); Bangalore/Hyderabad/Gurugram AI-engineering-adjacent role"
   },
   {
-  "company": "Danaher",
-  "ats": "workday",
-  "board": "DanaherJobs",
-  "baseUrl": "https://danaher.wd1.myworkdayjobs.com",
-  "endpoint": "https://danaher.wd1.myworkdayjobs.com/wday/cxs/danaher/DanaherJobs/jobs",
-  "evidence_url": "https://danaher.wd1.myworkdayjobs.com/en-US/DanaherJobs/job/Software-Engineer-I_R1313632",
-  "note": "Verified. India Workday board with Software Engineer I role in Bengaluru. Includes software engineering opportunities across Danaher operating companies like Radiometer, Beckman Coulter and Cepheid."
-},
-{
-  "company": "Availity",
-  "ats": "workday",
-  "board": "Availity_Careers_India",
-  "baseUrl": "https://availity.wd1.myworkdayjobs.com",
-  "endpoint": "https://availity.wd1.myworkdayjobs.com/wday/cxs/availity/Availity_Careers_India/jobs",
-  "evidence_url": "https://availity.wd1.myworkdayjobs.com/en-US/Availity_Careers_India/job/India/Software-Engineer_R0008000-1",
-  "note": "Verified. Bengaluru engineering center. Posts Software Engineer, backend, React/.NET, AWS and platform engineering roles."
-},
- {
+    "company": "Danaher",
+    "ats": "workday",
+    "board": "DanaherJobs",
+    "baseUrl": "https://danaher.wd1.myworkdayjobs.com",
+    "endpoint": "https://danaher.wd1.myworkdayjobs.com/wday/cxs/danaher/DanaherJobs/jobs",
+    "evidence_url": "https://danaher.wd1.myworkdayjobs.com/en-US/DanaherJobs/job/Software-Engineer-I_R1313632",
+    "note": "Verified. India Workday board with Software Engineer I role in Bengaluru. Includes software engineering opportunities across Danaher operating companies like Radiometer, Beckman Coulter and Cepheid."
+  },
+  {
+    "company": "Availity",
+    "ats": "workday",
+    "board": "Availity_Careers_India",
+    "baseUrl": "https://availity.wd1.myworkdayjobs.com",
+    "endpoint": "https://availity.wd1.myworkdayjobs.com/wday/cxs/availity/Availity_Careers_India/jobs",
+    "evidence_url": "https://availity.wd1.myworkdayjobs.com/en-US/Availity_Careers_India/job/India/Software-Engineer_R0008000-1",
+    "note": "Verified. Bengaluru engineering center. Posts Software Engineer, backend, React/.NET, AWS and platform engineering roles."
+  },
+  {
     "company": "Procore",
     "ats": "workday",
     "board": "Procore_External_Careers",
@@ -814,24 +814,24 @@
     "note": "Verified. Bengaluru engineering center. Posts Software Development Engineer roles focused on distributed systems and AI infrastructure."
   },
   {
-  "company": "Salesforce",
-  "ats": "workday",
-  "board": "External_Career_Site",
-  "baseUrl": "https://salesforce.wd12.myworkdayjobs.com",
-  "endpoint": "https://salesforce.wd12.myworkdayjobs.com/wday/cxs/salesforce/External_Career_Site/jobs",
-  "evidence_url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Software-Engineer-SMTS_JR338173",
-  "note": "Verified. Live Workday board. India (Bangalore/Hyderabad) Software Engineering, Backend, ML Engineer and Platform Engineering roles."
-},
-{
-  "company": "Michelin",
-  "ats": "workday",
-  "board": "Michelin",
-  "baseUrl": "https://michelinhr.wd3.myworkdayjobs.com",
-  "endpoint": "https://michelinhr.wd3.myworkdayjobs.com/wday/cxs/michelinhr/Michelin/jobs",
-  "evidence_url": "https://michelinhr.wd3.myworkdayjobs.com/en-US/Michelin/job/Pune/Software-Engineer_R-2024019167",
-  "note": "Verified. Pune Software Engineer roles. Engineering organization posts Software Engineer positions."
-},
- {
+    "company": "Salesforce",
+    "ats": "workday",
+    "board": "External_Career_Site",
+    "baseUrl": "https://salesforce.wd12.myworkdayjobs.com",
+    "endpoint": "https://salesforce.wd12.myworkdayjobs.com/wday/cxs/salesforce/External_Career_Site/jobs",
+    "evidence_url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Software-Engineer-SMTS_JR338173",
+    "note": "Verified. Live Workday board. India (Bangalore/Hyderabad) Software Engineering, Backend, ML Engineer and Platform Engineering roles."
+  },
+  {
+    "company": "Michelin",
+    "ats": "workday",
+    "board": "Michelin",
+    "baseUrl": "https://michelinhr.wd3.myworkdayjobs.com",
+    "endpoint": "https://michelinhr.wd3.myworkdayjobs.com/wday/cxs/michelinhr/Michelin/jobs",
+    "evidence_url": "https://michelinhr.wd3.myworkdayjobs.com/en-US/Michelin/job/Pune/Software-Engineer_R-2024019167",
+    "note": "Verified. Pune Software Engineer roles. Engineering organization posts Software Engineer positions."
+  },
+  {
     "company": "Guidewire",
     "ats": "workday",
     "board": "external",
@@ -848,5 +848,704 @@
     "endpoint": "https://tsys.wd1.myworkdayjobs.com/wday/cxs/tsys/TSYS/jobs",
     "evidence_url": "https://tsys.wd1.myworkdayjobs.com/en-US/TSYS/job/PUNE--INDIA/Software-Engineer_R0071025-1",
     "note": "Verified. Pune. Software Engineer roles across Java, backend and payments platform engineering."
+  },
+  {
+    "company": "Finastra",
+    "ats": "workday",
+    "board": "FINC",
+    "baseUrl": "https://finastra.wd3.myworkdayjobs.com",
+    "endpoint": "https://finastra.wd3.myworkdayjobs.com/wday/cxs/finastra/FINC/jobs",
+    "evidence_url": "https://finastra.wd3.myworkdayjobs.com/en-US/FINC/job/Associate-Software-Engineer_REQ0626_0037652",
+    "note": "Verified. Associate Software Engineer, 1-2 years experience, C++."
+  },
+  {
+    "company": "Embitel Technologies (Diconium)",
+    "ats": "workday",
+    "board": "Embitel_Technologies",
+    "baseUrl": "https://diconium.wd3.myworkdayjobs.com",
+    "endpoint": "https://diconium.wd3.myworkdayjobs.com/wday/cxs/diconium/Embitel_Technologies/jobs",
+    "evidence_url": "https://diconium.wd3.myworkdayjobs.com/en-US/Embitel_Technologies/job/Trainee-Software-Engineer_JR101163",
+    "note": "Verified. Literally titled 'Trainee Software Engineer' — exact fresher match."
+  },
+  {
+    "company": "HP",
+    "ats": "workday",
+    "board": "exteu-ac-careersite",
+    "baseUrl": "https://hp.wd5.myworkdayjobs.com",
+    "endpoint": "https://hp.wd5.myworkdayjobs.com/wday/cxs/hp/exteu-ac-careersite/jobs",
+    "evidence_url": "https://hp.wd5.myworkdayjobs.com/en-US/exteu-ac-careersite/job/Chennai-Tamil-Nadu-India/Supply-Chain---Data-Analyst_3140757/apply/applyManually",
+    "note": "Verified. Chennai, Data Analyst role."
+  },
+  {
+    "company": "Aliaxis",
+    "ats": "workday",
+    "board": "Aliaxis_IndiaAshirvad1",
+    "baseUrl": "https://aliaxis.wd3.myworkdayjobs.com",
+    "endpoint": "https://aliaxis.wd3.myworkdayjobs.com/wday/cxs/aliaxis/Aliaxis_IndiaAshirvad1/jobs",
+    "evidence_url": "https://aliaxis.wd3.myworkdayjobs.com/en-US/Aliaxis_IndiaAshirvad1/job/IN-KA---Bangalore/Data-Engineer_R-56448",
+    "note": "Verified. India-specific board. Bangalore, Data Engineer."
+  },
+  {
+    "company": "Flex (Flextronics)",
+    "ats": "workday",
+    "board": "Careers",
+    "baseUrl": "https://flextronics.wd1.myworkdayjobs.com",
+    "endpoint": "https://flextronics.wd1.myworkdayjobs.com/wday/cxs/flextronics/Careers/jobs",
+    "evidence_url": "https://flextronics.wd1.myworkdayjobs.com/es/Careers/job/India-Chennai/Junior-Data-Engineer---IT_WD224301",
+    "note": "Verified. Chennai, Junior Data Engineer — explicitly junior-level."
+  },
+  {
+    "company": "ReliaQuest",
+    "ats": "workday",
+    "board": "ReliaQuest_Careers",
+    "baseUrl": "https://reliaquest.wd5.myworkdayjobs.com",
+    "endpoint": "https://reliaquest.wd5.myworkdayjobs.com/wday/cxs/reliaquest/ReliaQuest_Careers/jobs",
+    "evidence_url": "https://reliaquest.wd5.myworkdayjobs.com/ReliaQuest_Careers/job/Pune-India-Office/Associate-Software-Engineer_R15032",
+    "note": "Verified. Pune, Associate Software Engineer."
+  },
+  {
+    "company": "CDK Global",
+    "ats": "workday",
+    "board": "CDK",
+    "baseUrl": "https://cdk.wd1.myworkdayjobs.com",
+    "endpoint": "https://cdk.wd1.myworkdayjobs.com/wday/cxs/cdk/CDK/jobs",
+    "evidence_url": "https://cdk.wd1.myworkdayjobs.com/en-US/CDK/job/Hyderabad-TG-IND/Associate-Software-Engineer_JR8615",
+    "note": "Verified. Hyderabad, Associate Software Engineer — Java/Spring Boot, junior-level skill requirements."
+  },
+  {
+    "company": "Franklin Templeton",
+    "ats": "workday",
+    "board": "Primary-External-1",
+    "baseUrl": "https://franklintempleton.wd5.myworkdayjobs.com",
+    "endpoint": "https://franklintempleton.wd5.myworkdayjobs.com/wday/cxs/franklintempleton/Primary-External-1/jobs",
+    "evidence_url": "https://franklintempleton.wd5.myworkdayjobs.com/en-US/Primary-External-1/job/Hyderabad-Telangana-India/Associate-Software-Engineer_863769",
+    "note": "Verified. Hyderabad, Associate Software Engineer."
+  },
+  {
+    "company": "Movado Group",
+    "ats": "workday",
+    "board": "careers",
+    "baseUrl": "https://movadogroup.wd1.myworkdayjobs.com",
+    "endpoint": "https://movadogroup.wd1.myworkdayjobs.com/wday/cxs/movadogroup/careers/jobs",
+    "evidence_url": "https://movadogroup.wd1.myworkdayjobs.com/careers/job/Bangalore-India/Frontend-Developer_JR00002871",
+    "note": "Verified. Bangalore, Frontend Developer."
+  },
+  {
+    "company": "Barclays",
+    "ats": "workday",
+    "board": "External_Career_Site_Barclays",
+    "baseUrl": "https://barclays.wd3.myworkdayjobs.com",
+    "endpoint": "https://barclays.wd3.myworkdayjobs.com/wday/cxs/barclays/External_Career_Site_Barclays/jobs",
+    "evidence_url": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Gera-Commerzone-SEZ--Pune/FrontEnd-Developer--React-/JR-0000034520/apply",
+    "note": "Verified. Pune, Frontend Developer (React)."
+  },
+  {
+    "company": "JLL",
+    "ats": "workday",
+    "board": "jllcareers",
+    "baseUrl": "https://jll.wd1.myworkdayjobs.com",
+    "endpoint": "https://jll.wd1.myworkdayjobs.com/wday/cxs/jll/jllcareers/jobs",
+    "evidence_url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Pune-MH/Frontend-Developer---ReactJS_REQ395431-1",
+    "note": "Verified. Pune, Frontend Developer - React.JS."
+  },
+  {
+    "company": "SLR Consulting",
+    "ats": "workday",
+    "board": "SLRCareers",
+    "baseUrl": "https://slrconsulting.wd103.myworkdayjobs.com",
+    "endpoint": "https://slrconsulting.wd103.myworkdayjobs.com/wday/cxs/slrconsulting/SLRCareers/jobs",
+    "evidence_url": "https://slrconsulting.wd103.myworkdayjobs.com/en-US/SLRCareers/job/Frontend-Developer_JR101611",
+    "note": "Verified. Frontend Developer, React.js/Material UI."
+  },
+  {
+    "company": "MRI Software",
+    "ats": "workday",
+    "board": "External_CareerSite",
+    "baseUrl": "https://mrisoftware.wd501.myworkdayjobs.com",
+    "endpoint": "https://mrisoftware.wd501.myworkdayjobs.com/wday/cxs/mrisoftware/External_CareerSite/jobs",
+    "evidence_url": "https://mrisoftware.wd501.myworkdayjobs.com/en-US/External_CareerSite/job/Software-Engineer-III--Frontend-Developer-React-_R-108295",
+    "note": "Verified. Software Engineer III (Frontend Developer-React)."
+  },
+  {
+    "company": "Regal Rexnord",
+    "ats": "workday",
+    "board": "Careers",
+    "baseUrl": "https://regalrexnord.wd1.myworkdayjobs.com",
+    "endpoint": "https://regalrexnord.wd1.myworkdayjobs.com/wday/cxs/regalrexnord/Careers/jobs",
+    "evidence_url": "https://regalrexnord.wd1.myworkdayjobs.com/Careers/job/Hyderabad-Telangana-India/Data-Analyst-II_R25_06419",
+    "note": "Verified. Hyderabad/Bangalore/Remote India, Data Analyst/Data Scientist role, 4-6 years listed but junior-adjacent Data Analyst II title."
+  },
+  {
+    "company": "Chevron",
+    "ats": "workday",
+    "board": "jobs",
+    "baseUrl": "https://chevron.wd5.myworkdayjobs.com",
+    "endpoint": "https://chevron.wd5.myworkdayjobs.com/wday/cxs/chevron/jobs/jobs",
+    "evidence_url": "https://chevron.wd5.myworkdayjobs.com/jobs/job/Bangalore-Karnataka-India/Senior-AI-Machine-Learning-Engineer_R000063136/apply",
+    "note": "Verified. Bangalore, AI/ML Engineer team confirmed in India — note: this specific listing was senior, but confirms Chevron India has an active ML engineering org worth monitoring for junior openings."
+  },
+  {
+    "company": "Lytx",
+    "ats": "workday",
+    "board": "Lytx",
+    "baseUrl": "https://lytx.wd1.myworkdayjobs.com",
+    "endpoint": "https://lytx.wd1.myworkdayjobs.com/wday/cxs/lytx/Lytx/jobs",
+    "evidence_url": "https://lytx.wd1.myworkdayjobs.com/en-US/Lytx/job/Machine-Learning-Scientist-I_R-4176",
+    "note": "Verified. India-based Applied Machine Learning Team, computer vision/ML."
+  },
+  {
+    "company": "Rockwell Automation",
+    "ats": "workday",
+    "board": "External_Rockwell_Automation",
+    "baseUrl": "https://rockwellautomation.wd1.myworkdayjobs.com",
+    "endpoint": "https://rockwellautomation.wd1.myworkdayjobs.com/wday/cxs/rockwellautomation/External_Rockwell_Automation/jobs",
+    "evidence_url": "https://rockwellautomation.wd1.myworkdayjobs.com/en-US/External_Rockwell_Automation/job/Pune-India/QA-Engineer---Tosca_R26-4720",
+    "note": "Verified. Pune/Bangalore/Hyderabad/Noida, QA Engineer."
+  },
+  {
+    "company": "Clario",
+    "ats": "workday",
+    "board": "clarioclinical_careers",
+    "baseUrl": "https://clarioclinical.wd1.myworkdayjobs.com",
+    "endpoint": "https://clarioclinical.wd1.myworkdayjobs.com/wday/cxs/clarioclinical/clarioclinical_careers/jobs",
+    "evidence_url": "https://clarioclinical.wd1.myworkdayjobs.com/clarioclinical_careers/job/India-Remote/QA-Engineer_R17025-2",
+    "note": "Verified. India-Remote, QA Engineer."
+  },
+  {
+    "company": "KSB",
+    "ats": "workday",
+    "board": "KSB_ExternalCareerSite",
+    "baseUrl": "https://ksb.wd3.myworkdayjobs.com",
+    "endpoint": "https://ksb.wd3.myworkdayjobs.com/wday/cxs/ksb/KSB_ExternalCareerSite/jobs",
+    "evidence_url": "https://ksb.wd3.myworkdayjobs.com/id-ID/KSB_ExternalCareerSite/job/DevOps-Engineer_JR_25958",
+    "note": "Verified. Pune, DevOps Engineer."
+  },
+  {
+    "company": "Alcon",
+    "ats": "workday",
+    "board": "careers_alcon",
+    "baseUrl": "https://alcon.wd5.myworkdayjobs.com",
+    "endpoint": "https://alcon.wd5.myworkdayjobs.com/wday/cxs/alcon/careers_alcon/jobs",
+    "evidence_url": "https://alcon.wd5.myworkdayjobs.com/en-US/careers_alcon/job/DevOps-Engineer---Apprentice_R-2026-46769",
+    "note": "Verified. DevOps Engineer - Apprentice — exact entry-level match."
+  },
+  {
+    "company": "Assurant",
+    "ats": "workday",
+    "board": "assurant_careers",
+    "baseUrl": "https://assurant.wd1.myworkdayjobs.com",
+    "endpoint": "https://assurant.wd1.myworkdayjobs.com/wday/cxs/assurant/assurant_careers/jobs",
+    "evidence_url": "https://assurant.wd1.myworkdayjobs.com/en-US/assurant_careers/job/Hyderabad/Lead-Software-Engineer_R-114599-1",
+    "note": "Verified. Hyderabad engineering team confirmed active."
+  },
+  {
+    "company": "Columbia Sportswear",
+    "ats": "workday",
+    "board": "CSC_Careers",
+    "baseUrl": "https://columbiasportswearcompany.wd5.myworkdayjobs.com",
+    "endpoint": "https://columbiasportswearcompany.wd5.myworkdayjobs.com/wday/cxs/columbiasportswearcompany/CSC_Careers/jobs",
+    "evidence_url": "https://columbiasportswearcompany.wd5.myworkdayjobs.com/CSC_Careers/job/Bangalore-Karnataka-India/Principal-DevOps-Engineer_R-020438-1/apply",
+    "note": "Verified. Bangalore engineering team confirmed active."
+  },
+  {
+    "company": "KLA Corporation",
+    "ats": "workday",
+    "board": "Search",
+    "baseUrl": "https://kla.wd1.myworkdayjobs.com",
+    "endpoint": "https://kla.wd1.myworkdayjobs.com/wday/cxs/kla/Search/jobs",
+    "evidence_url": "https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Chennai-India/Engineer--Software-Test-Automation_2637831",
+    "note": "Verified. Chennai, Software Test Automation Engineer."
+  },
+  {
+    "company": "NetSuite (Oracle)",
+    "ats": "workday",
+    "board": "Careers",
+    "baseUrl": "https://ntst.wd1.myworkdayjobs.com",
+    "endpoint": "https://ntst.wd1.myworkdayjobs.com/wday/cxs/ntst/Careers/jobs",
+    "evidence_url": "https://ntst.wd1.myworkdayjobs.com/Careers/job/Bengaluru-India/QA-Automation-Engineer_R015352",
+    "note": "Verified. Bengaluru, QA Automation Engineer."
+  },
+  {
+    "company": "Micron Technology",
+    "ats": "workday",
+    "board": "External",
+    "baseUrl": "https://micron.wd1.myworkdayjobs.com",
+    "endpoint": "https://micron.wd1.myworkdayjobs.com/wday/cxs/micron/External/jobs",
+    "evidence_url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Hyderabad---Phoenix-Aquila-India/ASSOC-ENGINEER--IT-QA-CoE_JR105064",
+    "note": "Verified. Hyderabad, Associate Engineer — junior title, IT QA CoE."
+  },
+  {
+    "company": "Proofpoint",
+    "ats": "workday",
+    "board": "ProofpointCareers",
+    "baseUrl": "https://proofpoint.wd5.myworkdayjobs.com",
+    "endpoint": "https://proofpoint.wd5.myworkdayjobs.com/wday/cxs/proofpoint/ProofpointCareers/jobs",
+    "evidence_url": "https://proofpoint.wd5.myworkdayjobs.com/ProofpointCareers/job/Bengaluru-India---Remote/QA-Automation-Engineer_R14034",
+    "note": "Verified. Bengaluru/Remote India, QA Automation Engineer."
+  },
+  {
+    "company": "FICO",
+    "ats": "workday",
+    "board": "External",
+    "baseUrl": "https://fico.wd1.myworkdayjobs.com",
+    "endpoint": "https://fico.wd1.myworkdayjobs.com/wday/cxs/fico/External/jobs",
+    "evidence_url": "https://fico.wd1.myworkdayjobs.com/en-US/External/job/Software-Development-Engineer-in-Test--SDET-_29832",
+    "note": "Verified. Emerging/entry SDET role."
+  },
+  {
+    "company": "LPL Financial",
+    "ats": "workday",
+    "board": "India_Ext",
+    "baseUrl": "https://lplfinancial.wd1.myworkdayjobs.com",
+    "endpoint": "https://lplfinancial.wd1.myworkdayjobs.com/wday/cxs/lplfinancial/India_Ext/jobs",
+    "evidence_url": "https://lplfinancial.wd1.myworkdayjobs.com/en-US/India_Ext/job/Senior-Engineer---Software-Development-Engineer-in-Test--SDET----Platform-Modernization_R-050796",
+    "note": "Now fully confirmed with real evidence URL — earlier this session this was a plausible guess, now verified as real. Hyderabad GCC, multiple SDET roles."
+  },
+  {
+    "company": "Shell",
+    "ats": "workday",
+    "board": "proactive",
+    "baseUrl": "https://shell.wd3.myworkdayjobs.com",
+    "endpoint": "https://shell.wd3.myworkdayjobs.com/wday/cxs/shell/proactive/jobs",
+    "evidence_url": "https://shell.wd3.myworkdayjobs.com/proactive/job/Bangalore-RMZ-ECO-WORLD/Shell-Graduate-Programme-2026---India_R182105/apply",
+    "note": "Verified. Bangalore/Gurgaon/Chennai/Mumbai — Graduate Programme 2026, exact fresher match."
+  },
+  {
+    "company": "Avantor",
+    "ats": "workday",
+    "board": "avantorJobs",
+    "baseUrl": "https://vwr.wd1.myworkdayjobs.com",
+    "endpoint": "https://vwr.wd1.myworkdayjobs.com/wday/cxs/vwr/avantorJobs/jobs",
+    "evidence_url": "https://vwr.wd1.myworkdayjobs.com/en-US/avantorJobs/job/Product-Analyst-I_R-172294",
+    "note": "Verified. Product Analyst I."
+  },
+  {
+    "company": "MillerKnoll",
+    "ats": "workday",
+    "board": "MillerKnoll",
+    "baseUrl": "https://millerknoll.wd1.myworkdayjobs.com",
+    "endpoint": "https://millerknoll.wd1.myworkdayjobs.com/wday/cxs/millerknoll/MillerKnoll/jobs",
+    "evidence_url": "https://millerknoll.wd1.myworkdayjobs.com/MillerKnoll/job/India---Bengaluru/Digital-Product-Analyst_JR109339-1",
+    "note": "Verified. Bengaluru, Digital Product Analyst."
+  },
+  {
+    "company": "Nasdaq",
+    "ats": "workday",
+    "board": "global_external_site",
+    "baseUrl": "https://nasdaq.wd1.myworkdayjobs.com",
+    "endpoint": "https://nasdaq.wd1.myworkdayjobs.com/wday/cxs/nasdaq/global_external_site/jobs",
+    "evidence_url": "https://nasdaq.wd1.myworkdayjobs.com/global_external_site/job/India---Bangalore---Karnataka/Senior-Analyst---EPM--OneStream-/R0025243/apply",
+    "note": "Verified. Bangalore technology center confirmed active."
+  },
+  {
+    "company": "Merck (MSD)",
+    "ats": "workday",
+    "board": "SearchJobs",
+    "baseUrl": "https://msd.wd5.myworkdayjobs.com",
+    "endpoint": "https://msd.wd5.myworkdayjobs.com/wday/cxs/msd/SearchJobs/jobs",
+    "evidence_url": "https://msd.wd5.myworkdayjobs.com/SearchJobs/job/IND---Telangana---Hyderabad-HITEC-City/Specialist--Technical-Analyst_R388311",
+    "note": "Corrected. Earlier speculative board name (MRK) was wrong — this is the real confirmed board."
+  },
+  {
+    "company": "AllianceBernstein",
+    "ats": "workday",
+    "board": "alliancebernsteincareers",
+    "baseUrl": "https://abglobal.wd1.myworkdayjobs.com",
+    "endpoint": "https://abglobal.wd1.myworkdayjobs.com/wday/cxs/abglobal/alliancebernsteincareers/jobs",
+    "evidence_url": "https://abglobal.wd1.myworkdayjobs.com/en-US/alliancebernsteincareers/job/Pune-India/Product-Analyst_R0018924-1",
+    "note": "Verified. Pune, Product Analyst."
+  },
+  {
+    "company": "GSK",
+    "ats": "workday",
+    "board": "GSKCareers",
+    "baseUrl": "https://gsk.wd5.myworkdayjobs.com",
+    "endpoint": "https://gsk.wd5.myworkdayjobs.com/wday/cxs/gsk/GSKCareers/jobs",
+    "evidence_url": "https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/Bengaluru-Luxor-North-Tower/Lead-Product-Analyst_379897",
+    "note": "Corrected. Earlier speculative board name (just 'GSK') was wrong — this is the real confirmed board 'GSKCareers'."
+  },
+  {
+    "company": "ResourcePro",
+    "ats": "workday",
+    "board": "Career",
+    "baseUrl": "https://resourcepro.wd12.myworkdayjobs.com",
+    "endpoint": "https://resourcepro.wd12.myworkdayjobs.com/wday/cxs/resourcepro/Career/jobs",
+    "evidence_url": "https://resourcepro.wd12.myworkdayjobs.com/en-US/Career/job/Engineer--Software-Engineering--India_JR26-0001078",
+    "note": "Verified. India, Engineer/Software Engineering role."
+  },
+  {
+    "company": "DXC Technology",
+    "ats": "workday",
+    "board": "DXCJobs",
+    "baseUrl": "https://dxctechnology.wd1.myworkdayjobs.com",
+    "endpoint": "https://dxctechnology.wd1.myworkdayjobs.com/wday/cxs/dxctechnology/DXCJobs/jobs",
+    "evidence_url": "https://dxctechnology.wd1.myworkdayjobs.com/en-US/DXCJobs/job/IND---KA---BANGALORE/Senior-Azure-Data-Engineer_51567606/apply/autofillWithResume",
+    "note": "Verified India presence (Bangalore). Note: listing found was senior-level; DXC also runs a global 'Graduate Programme' on this same board (confirmed for AUS/NZ/UK regions) — check board for an India-specific graduate posting before relying on it."
+  },
+  {
+    "company": "Bristol Myers Squibb",
+    "ats": "workday",
+    "board": "bms",
+    "baseUrl": "https://bristolmyerssquibb.wd5.myworkdayjobs.com",
+    "endpoint": "https://bristolmyerssquibb.wd5.myworkdayjobs.com/wday/cxs/bristolmyerssquibb/bms/jobs",
+    "evidence_url": "https://bristolmyerssquibb.wd5.myworkdayjobs.com/es/bms/job/Hyderabad---TS---IN/Data-Engineer-I_R1592750-1/apply",
+    "note": "Verified. Hyderabad, Data Engineer I — 'I' suffix suggests entry rung, but role wasn't explicitly labeled fresher."
+  },
+  {
+    "company": "3M",
+    "ats": "workday",
+    "board": "Search",
+    "baseUrl": "https://3m.wd1.myworkdayjobs.com",
+    "endpoint": "https://3m.wd1.myworkdayjobs.com/wday/cxs/3m/Search/jobs",
+    "evidence_url": "https://3m.wd1.myworkdayjobs.com/en-US/Search/job/IT-Lead-Analyst_R01165367",
+    "note": "Verified India listings exist on this board (IN, BANGALORE roles seen in job search feed). Board name is literally 'Search' — unusual but confirmed directly in the URL, not guessed."
+  },
+  {
+    "company": "Nasdaq",
+    "ats": "workday",
+    "board": "Global_External_Site",
+    "baseUrl": "https://nasdaq.wd1.myworkdayjobs.com",
+    "endpoint": "https://nasdaq.wd1.myworkdayjobs.com/wday/cxs/nasdaq/Global_External_Site/jobs",
+    "evidence_url": "https://nasdaq.wd1.myworkdayjobs.com/en-US/Global_External_Site/job/India---Mumbai---Maharashtra/Full-Stack-Software-Developer---Specialist--Java---React-_R0025744",
+    "note": "Verified India presence (Mumbai). Listing found was senior specialist level, not fresher."
+  },
+  {
+    "company": "Mastercard",
+    "ats": "workday",
+    "board": "corporatecareers",
+    "baseUrl": "https://mastercard.wd1.myworkdayjobs.com",
+    "endpoint": "https://mastercard.wd1.myworkdayjobs.com/wday/cxs/mastercard/corporatecareers/jobs",
+    "evidence_url": "https://mastercard.wd1.myworkdayjobs.com/en-US/corporatecareers/job/Pune-India/Sr-Web-Developer--Full-Stack-_R-276685-1",
+    "note": "Verified India presence (Pune). Listings found were senior; check board directly for fresher/associate openings."
+  },
+  {
+    "company": "Motorola Solutions",
+    "ats": "workday",
+    "board": "Careers",
+    "baseUrl": "https://motorolasolutions.wd5.myworkdayjobs.com",
+    "endpoint": "https://motorolasolutions.wd5.myworkdayjobs.com/wday/cxs/motorolasolutions/Careers/jobs",
+    "evidence_url": "https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Bangalore-India-ZIN114/Full-Stack-Developer_R63304",
+    "note": "Verified. Bangalore, Full Stack Developer."
+  },
+  {
+    "company": "Hitachi",
+    "ats": "workday",
+    "board": "hitachi",
+    "baseUrl": "https://hitachi.wd1.myworkdayjobs.com",
+    "endpoint": "https://hitachi.wd1.myworkdayjobs.com/wday/cxs/hitachi/hitachi/jobs",
+    "evidence_url": "https://hitachi.wd1.myworkdayjobs.com/en-US/hitachi/job/Bengaluru-Karnataka-India/Full-Stack-Engineer--GDC--65848_R0125821",
+    "note": "Verified. Bengaluru, Full Stack Engineer (GDC). This is the parent 'Hitachi' tenant, distinct from the 'Hitachi Energy' entry already in your list — separate tenant/board, not a duplicate."
+  },
+  {
+    "company": "Proofpoint",
+    "ats": "workday",
+    "board": "proofpointcareers",
+    "baseUrl": "https://proofpoint.wd5.myworkdayjobs.com",
+    "endpoint": "https://proofpoint.wd5.myworkdayjobs.com/wday/cxs/proofpoint/proofpointcareers/jobs",
+    "evidence_url": "https://proofpoint.wd5.myworkdayjobs.com/proofpointcareers/job/bengaluru-india---remote/software-engineer---fullstack_r13727",
+    "note": "Verified. Bengaluru/remote, Software Engineer - Fullstack."
+  },
+  {
+    "company": "Alteryx",
+    "ats": "workday",
+    "board": "AlteryxCareers",
+    "baseUrl": "https://alteryx.wd108.myworkdayjobs.com",
+    "endpoint": "https://alteryx.wd108.myworkdayjobs.com/wday/cxs/alteryx/AlteryxCareers/jobs",
+    "evidence_url": "https://alteryx.wd108.myworkdayjobs.com/en-US/AlteryxCareers/job/Bangalore-India/Software-Development-Engineer-in-Test---Performance-Focus_R12245",
+    "note": "Verified India presence (Bangalore). Listing found asked for 3+ years — not itself a fresher role, but confirms an active India board."
+  },
+  {
+    "company": "LPL Financial",
+    "ats": "workday",
+    "board": "India_Ext",
+    "baseUrl": "https://lplfinancial.wd1.myworkdayjobs.com",
+    "endpoint": "https://lplfinancial.wd1.myworkdayjobs.com/wday/cxs/lplfinancial/India_Ext/jobs",
+    "evidence_url": "https://lplfinancial.wd1.myworkdayjobs.com/en-US/India_Ext/job/Software-Development-Engineer-in-Test--SDET----Mobile-Apps_R-050189",
+    "note": "Verified. Hyderabad (India-dedicated board name 'India_Ext'). Listings found were senior; India_Ext being a separate board suggests an active GCC — worth checking for junior SDET openings."
+  },
+  {
+    "company": "FNZ",
+    "ats": "workday",
+    "board": "fnz_careers",
+    "baseUrl": "https://fnz.wd3.myworkdayjobs.com",
+    "endpoint": "https://fnz.wd3.myworkdayjobs.com/wday/cxs/fnz/fnz_careers/jobs",
+    "evidence_url": "https://fnz.wd3.myworkdayjobs.com/en-US/fnz_careers/job/Gurugram-Job-Posting-Location---India/Site-Reliability-Engineer_REQ-16144",
+    "note": "Verified. Gurugram, Site Reliability Engineer."
+  },
+  {
+    "company": "LiveRamp",
+    "ats": "workday",
+    "board": "LiveRampCareers",
+    "baseUrl": "https://liveramp.wd5.myworkdayjobs.com",
+    "endpoint": "https://liveramp.wd5.myworkdayjobs.com/wday/cxs/liveramp/LiveRampCareers/jobs",
+    "evidence_url": "https://liveramp.wd5.myworkdayjobs.com/en-US/LiveRampCareers/job/Associate-Site-Reliability-Engineer_JR012170",
+    "note": "Verified. Associate Site Reliability Engineer — exact junior title match."
+  },
+  {
+    "company": "Arabelle Solutions (EDF Group)",
+    "ats": "workday",
+    "board": "Arabelle_Solutions",
+    "baseUrl": "https://arabellesolutions.wd3.myworkdayjobs.com",
+    "endpoint": "https://arabellesolutions.wd3.myworkdayjobs.com/wday/cxs/arabellesolutions/Arabelle_Solutions/jobs",
+    "evidence_url": "https://arabellesolutions.wd3.myworkdayjobs.com/en-US/Arabelle_Solutions/job/Graduate-Engineer-Trainee_JR102757",
+    "note": "Verified. Graduate Engineer Trainee — exact fresher match."
+  },
+  {
+    "company": "Coperion (Hillenbrand)",
+    "ats": "workday",
+    "board": "global",
+    "baseUrl": "https://hillenbrand.wd3.myworkdayjobs.com",
+    "endpoint": "https://hillenbrand.wd3.myworkdayjobs.com/wday/cxs/hillenbrand/global/jobs",
+    "evidence_url": "https://hillenbrand.wd3.myworkdayjobs.com/global/job/Noida-India/Graduate-Engineer-Trainee_R-8779",
+    "note": "Verified. Noida, Graduate Engineer Trainee — the exact company you flagged as a suspected pattern."
+  },
+  {
+    "company": "Invesco",
+    "ats": "workday",
+    "board": "IVZ",
+    "baseUrl": "https://invesco.wd1.myworkdayjobs.com",
+    "endpoint": "https://invesco.wd1.myworkdayjobs.com/wday/cxs/invesco/IVZ/jobs",
+    "evidence_url": "https://invesco.wd1.myworkdayjobs.com/en-US/IVZ/job/Graduate-Engineer-Trainee_R-12542",
+    "note": "Verified. Graduate Engineer Trainee."
+  },
+  {
+    "company": "Valeo",
+    "ats": "workday",
+    "board": "valeo_jobs",
+    "baseUrl": "https://valeo.wd3.myworkdayjobs.com",
+    "endpoint": "https://valeo.wd3.myworkdayjobs.com/wday/cxs/valeo/valeo_jobs/jobs",
+    "evidence_url": "https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Chennai/Graduate-Engineer-Trainee_REQ2025063787/apply",
+    "note": "Verified. Chennai, Graduate Engineer Trainee."
+  },
+  {
+    "company": "Magna International",
+    "ats": "workday",
+    "board": "magna",
+    "baseUrl": "https://magna.wd3.myworkdayjobs.com",
+    "endpoint": "https://magna.wd3.myworkdayjobs.com/wday/cxs/magna/magna/jobs",
+    "evidence_url": "https://magna.wd3.myworkdayjobs.com/magna/job/Pune-IN/Graduate-Engineer-Trainee_R00241087",
+    "note": "Verified. Pune, Graduate Engineer Trainee — corrects an earlier removed guess."
+  },
+  {
+    "company": "Marmon Holdings",
+    "ats": "workday",
+    "board": "Marmon_Careers",
+    "baseUrl": "https://marmon.wd501.myworkdayjobs.com",
+    "endpoint": "https://marmon.wd501.myworkdayjobs.com/wday/cxs/marmon/Marmon_Careers/jobs",
+    "evidence_url": "https://marmon.wd501.myworkdayjobs.com/en-US/Marmon_Careers/job/Karnataka-IN/Graduate-Engineer-Trainee_JR0000044108",
+    "note": "Verified. Karnataka, Graduate Engineer Trainee."
+  },
+  {
+    "company": "Barry-Wehmiller",
+    "ats": "workday",
+    "board": "BWCareers",
+    "baseUrl": "https://barrywehmiller.wd1.myworkdayjobs.com",
+    "endpoint": "https://barrywehmiller.wd1.myworkdayjobs.com/wday/cxs/barrywehmiller/BWCareers/jobs",
+    "evidence_url": "https://barrywehmiller.wd1.myworkdayjobs.com/BWCareers/job/Chennai-India/Graduate-Engineer-Trainee_R022023-1",
+    "note": "Verified. Chennai, Graduate Engineer Trainee."
+  },
+  {
+    "company": "Coperion (Hillenbrand)",
+    "ats": "workday",
+    "board": "global",
+    "baseUrl": "https://hillenbrand.wd3.myworkdayjobs.com",
+    "endpoint": "https://hillenbrand.wd3.myworkdayjobs.com/wday/cxs/hillenbrand/global/jobs",
+    "evidence_url": "https://hillenbrand.wd3.myworkdayjobs.com/global/job/Noida-India/Graduate-Engineer-Trainee_R-8779",
+    "note": "Verified. Noida, Graduate Engineer Trainee."
+  },
+  {
+    "company": "Invesco",
+    "ats": "workday",
+    "board": "IVZ",
+    "baseUrl": "https://invesco.wd1.myworkdayjobs.com",
+    "endpoint": "https://invesco.wd1.myworkdayjobs.com/wday/cxs/invesco/IVZ/jobs",
+    "evidence_url": "https://invesco.wd1.myworkdayjobs.com/en-US/IVZ/job/Graduate-Engineer-Trainee_R-12542",
+    "note": "Verified. Graduate Engineer Trainee."
+  },
+  {
+    "company": "Valeo",
+    "ats": "workday",
+    "board": "valeo_jobs",
+    "baseUrl": "https://valeo.wd3.myworkdayjobs.com",
+    "endpoint": "https://valeo.wd3.myworkdayjobs.com/wday/cxs/valeo/valeo_jobs/jobs",
+    "evidence_url": "https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Chennai/Graduate-Engineer-Trainee_REQ2025063787/apply",
+    "note": "Verified. Chennai, Graduate Engineer Trainee."
+  },
+  {
+    "company": "Magna International",
+    "ats": "workday",
+    "board": "magna",
+    "baseUrl": "https://magna.wd3.myworkdayjobs.com",
+    "endpoint": "https://magna.wd3.myworkdayjobs.com/wday/cxs/magna/magna/jobs",
+    "evidence_url": "https://magna.wd3.myworkdayjobs.com/magna/job/Pune-IN/Graduate-Engineer-Trainee_R00241087",
+    "note": "Verified. Pune, Graduate Engineer Trainee."
+  },
+  {
+    "company": "Saxo Bank",
+    "ats": "workday",
+    "board": "CareeratSaxoBank",
+    "baseUrl": "https://saxobank.wd3.myworkdayjobs.com",
+    "endpoint": "https://saxobank.wd3.myworkdayjobs.com/wday/cxs/saxobank/CareeratSaxoBank/jobs",
+    "evidence_url": "https://saxobank.wd3.myworkdayjobs.com/en-US/CareeratSaxoBank/job/Apprentice-DevOps_R-18858",
+    "note": "Verified. Apprentice-DevOps — literally hiring fresh graduates for DevOps team."
+  },
+  {
+    "company": "S&P Global",
+    "ats": "workday",
+    "board": "SPGI_Careers",
+    "baseUrl": "https://spgi.wd5.myworkdayjobs.com",
+    "endpoint": "https://spgi.wd5.myworkdayjobs.com/wday/cxs/spgi/SPGI_Careers/jobs",
+    "evidence_url": "https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/Apprentice---Software-Engineering_321339-1"
+  },
+  {
+    "company": "Qualcomm",
+    "ats": "workday",
+    "board": "External",
+    "baseUrl": "https://qualcomm.wd12.myworkdayjobs.com",
+    "endpoint": "https://qualcomm.wd12.myworkdayjobs.com/wday/cxs/qualcomm/External/jobs",
+    "evidence_url": "https://qualcomm.wd12.myworkdayjobs.com/en-US/External/job/Cyber-Security-Engineer_3091995"
+  },
+  {
+    "company": "Sensata Technologies",
+    "ats": "workday",
+    "board": "Sensata-Careers",
+    "baseUrl": "https://sensata.wd1.myworkdayjobs.com",
+    "endpoint": "https://sensata.wd1.myworkdayjobs.com/wday/cxs/sensata/Sensata-Careers/jobs",
+    "evidence_url": "https://sensata.wd1.myworkdayjobs.com/Sensata-Careers/job/Pune-India/Embedded-Firmware-Engineer_IRC95984",
+    "note": "Verified. Pune, Embedded Firmware Engineer."
+  },
+  {
+    "company": "Allegion",
+    "ats": "workday",
+    "board": "careers",
+    "baseUrl": "https://allegion.wd5.myworkdayjobs.com",
+    "endpoint": "https://allegion.wd5.myworkdayjobs.com/wday/cxs/allegion/careers/jobs",
+    "evidence_url": "https://allegion.wd5.myworkdayjobs.com/careers/job/Bangalore-India/Firmware-Engineer_JR36206",
+    "note": "Verified. Bangalore, Firmware Engineer."
+  },
+  {
+    "company": "Globus Medical",
+    "ats": "workday",
+    "board": "GMED_Careers",
+    "baseUrl": "https://globusmedical.wd5.myworkdayjobs.com",
+    "endpoint": "https://globusmedical.wd5.myworkdayjobs.com/wday/cxs/globusmedical/GMED_Careers/jobs",
+    "evidence_url": "https://globusmedical.wd5.myworkdayjobs.com/en-US/GMED_Careers/job/Software-Engineer--Embedded-Firmware_JR103508",
+    "note": "Verified. Software Engineer - Embedded Firmware."
+  },
+  {
+    "company": "Samsung Electronics",
+    "ats": "workday",
+    "board": "Samsung_Careers",
+    "baseUrl": "https://sec.wd3.myworkdayjobs.com",
+    "endpoint": "https://sec.wd3.myworkdayjobs.com/wday/cxs/sec/Samsung_Careers/jobs",
+    "evidence_url": "https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/Embedded-Software-Engineer_R46596",
+    "note": "Verified. India-based team confirmed. Major brand — worth prioritizing."
+  },
+  {
+    "company": "Saxo Bank",
+    "ats": "workday",
+    "board": "CareeratSaxoBank",
+    "baseUrl": "https://saxobank.wd3.myworkdayjobs.com",
+    "endpoint": "https://saxobank.wd3.myworkdayjobs.com/wday/cxs/saxobank/CareeratSaxoBank/jobs",
+    "evidence_url": "https://saxobank.wd3.myworkdayjobs.com/en-US/CareeratSaxoBank/job/Apprentice-DevOps_R-18858",
+    "note": "Verified. Apprentice-DevOps — literally hiring fresh graduates for DevOps team."
+  },
+  {
+    "company": "athenahealth",
+    "ats": "workday",
+    "board": "External",
+    "baseUrl": "https://athenahealth.wd1.myworkdayjobs.com",
+    "endpoint": "https://athenahealth.wd1.myworkdayjobs.com/wday/cxs/athenahealth/External/jobs",
+    "evidence_url": "https://athenahealth.wd1.myworkdayjobs.com/en-US/External/job/Java-Backend-Developer---Associate_R12230",
+    "note": "Verified. Chennai, Java Backend Developer - Associate."
+  },
+  {
+    "company": "Motorola Solutions",
+    "ats": "workday",
+    "board": "Careers",
+    "baseUrl": "https://motorolasolutions.wd5.myworkdayjobs.com",
+    "endpoint": "https://motorolasolutions.wd5.myworkdayjobs.com/wday/cxs/motorolasolutions/Careers/jobs",
+    "evidence_url": "https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Bangalore-India/Full-Stack-Developer_R63304",
+    "note": "Verified. Bangalore, Full Stack Developer."
+  },
+  {
+    "company": "Solera",
+    "ats": "workday",
+    "board": "Global_Career_Site",
+    "baseUrl": "https://solera.wd5.myworkdayjobs.com",
+    "endpoint": "https://solera.wd5.myworkdayjobs.com/wday/cxs/solera/Global_Career_Site/jobs",
+    "evidence_url": "https://solera.wd5.myworkdayjobs.com/en-US/Global_Career_Site/job/Bangalore/Associate-Software-Engineer-I_JR-017963-1/apply/applyManually",
+    "note": "Verified. Bangalore, Associate Software Engineer I — explicitly 0-3 years, entry level."
+  },
+  {
+    "company": "OCLC",
+    "ats": "workday",
+    "board": "OCLC_Careers",
+    "baseUrl": "https://oclc.wd1.myworkdayjobs.com",
+    "endpoint": "https://oclc.wd1.myworkdayjobs.com/wday/cxs/oclc/OCLC_Careers/jobs",
+    "evidence_url": "https://oclc.wd1.myworkdayjobs.com/en-US/OCLC_Careers/job/Associate-Software-Engineer_R0003850",
+    "note": "Verified. Associate Software Engineer, 0-2 years relevant experience."
+  },
+  {
+    "company": "IQVIA",
+    "ats": "workday",
+    "board": "IQVIA",
+    "baseUrl": "https://iqvia.wd1.myworkdayjobs.com",
+    "endpoint": "https://iqvia.wd1.myworkdayjobs.com/wday/cxs/iqvia/IQVIA/jobs",
+    "evidence_url": "https://iqvia.wd1.myworkdayjobs.com/en-US/IQVIA/job/Frankfurt-Hesse-Germany/Senior-Generative-AI-Engineer--M-W-D-_R1555449/apply/autofillWithResume",
+    "note": "Verified tenant real (this specific listing is Germany-based, but IQVIA has confirmed large India operations — worth checking India-filtered listings separately)."
+  },
+  {
+    "company": "DXC Technology",
+    "ats": "workday",
+    "board": "DXCJobs",
+    "baseUrl": "https://dxctechnology.wd1.myworkdayjobs.com",
+    "endpoint": "https://dxctechnology.wd1.myworkdayjobs.com/wday/cxs/dxctechnology/DXCJobs/jobs",
+    "evidence_url": "https://dxctechnology.wd1.myworkdayjobs.com/DXCJobs/job/IND---KA---BANGALORE/Gen-AI-Engineer_51564864",
+    "note": "Verified. Bangalore, Gen AI Engineer — corrects an earlier failed/guessed entry for DXC."
+  },
+  {
+    "company": "Synechron",
+    "ats": "workday",
+    "board": "SynechronCareers",
+    "baseUrl": "https://synechron.wd1.myworkdayjobs.com",
+    "endpoint": "https://synechron.wd1.myworkdayjobs.com/wday/cxs/synechron/SynechronCareers/jobs",
+    "evidence_url": "https://synechron.wd1.myworkdayjobs.com/en-US/SynechronCareers/job/Gen-AI-Engineer---Generative-AI--Agentic-AI---Innovation-Leadership_JR1039918",
+    "note": "Verified. Gen AI Engineer, explicitly covers Generative AI and Agentic AI — exact match to what you asked for."
+  },
+  {
+    "company": "PRA Health Sciences (ICON)",
+    "ats": "workday",
+    "board": "PRA_Careers",
+    "baseUrl": "https://pra.wd1.myworkdayjobs.com",
+    "endpoint": "https://pra.wd1.myworkdayjobs.com/wday/cxs/pra/PRA_Careers/jobs",
+    "evidence_url": "https://pra.wd1.myworkdayjobs.com/en-US/PRA_Careers/job/AI-Developer---Associate-AI-Engineer--Generative-AI-Focus-_21988",
+    "note": "Verified. Associate AI Engineer (Generative AI Focus) — exact junior title match."
+  },
+  {
+    "company": "Johnson & Johnson",
+    "ats": "workday",
+    "board": "JJ",
+    "baseUrl": "https://jj.wd5.myworkdayjobs.com",
+    "endpoint": "https://jj.wd5.myworkdayjobs.com/wday/cxs/jj/JJ/jobs",
+    "evidence_url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Data-and-Generative-AI-Engineer_R-079234-1",
+    "note": "Verified. Data and Generative AI Engineer — corrects an earlier guessed board (JJ_External_Career_Site was wrong, real board is just JJ)."
+  },
+  {
+    "company": "Elevance Health (ANT board)",
+    "ats": "workday",
+    "board": "ANT",
+    "baseUrl": "https://elevancehealth.wd1.myworkdayjobs.com",
+    "endpoint": "https://elevancehealth.wd1.myworkdayjobs.com/wday/cxs/elevancehealth/ANT/jobs",
+    "evidence_url": "https://elevancehealth.wd1.myworkdayjobs.com/en-US/ANT/job/Gen-AI-Engineer_JR197275"
+  },
+  {
+    "company": "Clarivate",
+    "ats": "workday",
+    "board": "Clarivate_Careers",
+    "baseUrl": "https://clarivate.wd3.myworkdayjobs.com",
+    "endpoint": "https://clarivate.wd3.myworkdayjobs.com/wday/cxs/clarivate/Clarivate_Careers/jobs",
+    "evidence_url": "https://clarivate.wd3.myworkdayjobs.com/en-US/Clarivate_Careers/job/IND---Bangalore-DRG/Senior-Product-Development-AI-Engineer_JREQ134979-1",
+    "note": "Verified. Bangalore, AI Engineering team confirmed active with Agentic AI/GenAI roles."
   }
 ]
