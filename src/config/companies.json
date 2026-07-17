@@ -1547,5 +1547,255 @@
     "endpoint": "https://clarivate.wd3.myworkdayjobs.com/wday/cxs/clarivate/Clarivate_Careers/jobs",
     "evidence_url": "https://clarivate.wd3.myworkdayjobs.com/en-US/Clarivate_Careers/job/IND---Bangalore-DRG/Senior-Product-Development-AI-Engineer_JREQ134979-1",
     "note": "Verified. Bangalore, AI Engineering team confirmed active with Agentic AI/GenAI roles."
+  },
+   {
+    "company": "Databricks",
+    "ats": "greenhouse",
+    "endpoint": "https://boards-api.greenhouse.io/v1/boards/Databricks/jobs?content=true",
+    "baseUrl": "https://boards.greenhouse.io/Databricks",
+    "evidence_url": "https://boards.greenhouse.io/embed/job_board?for=Databricks",
+    "note": "Verified. Bengaluru presence confirmed (Senior Software Engineer L5, Technical Program Manager roles seen)."
+  },
+  {
+    "company": "Okta",
+    "ats": "greenhouse",
+    "endpoint": "https://boards-api.greenhouse.io/v1/boards/okta/jobs?content=true",
+    "baseUrl": "https://boards.greenhouse.io/okta",
+    "evidence_url": "https://boards.greenhouse.io/embed/job_board?for=okta",
+    "note": "Verified. Bengaluru presence confirmed (Senior Software Engineer - Security Engineering, Senior Analyst - People Systems)."
+  },
+  {
+    "company": "Figma",
+    "ats": "greenhouse",
+    "endpoint": "https://boards-api.greenhouse.io/v1/boards/figma/jobs?content=true",
+    "baseUrl": "https://boards.greenhouse.io/figma",
+    "evidence_url": "https://boards.greenhouse.io/figma",
+    "note": "Verified. Bengaluru presence confirmed (Enterprise Solutions Consultant). Roles seen were non-engineering; worth monitoring for engineering openings."
+  },
+  {
+    "company": "Bottomline Technologies",
+    "ats": "greenhouse",
+    "endpoint": "https://boards-api.greenhouse.io/v1/boards/bottomlinetechnologies/jobs?content=true",
+    "baseUrl": "https://boards.greenhouse.io/bottomlinetechnologies",
+    "evidence_url": "https://boards.greenhouse.io/bottomlinetechnologies/jobs/5079026002",
+    "note": "Verified. India office, Graduate Software Engineer — exact fresher match, explicit graduate scheme."
+  },
+  {
+    "company": "Archipelago Analytics",
+    "ats": "greenhouse",
+    "endpoint": "https://boards-api.greenhouse.io/v1/boards/onarchipelago/jobs?content=true",
+    "baseUrl": "https://boards.greenhouse.io/onarchipelago",
+    "evidence_url": "https://boards.greenhouse.io/onarchipelago/jobs/4437510006",
+    "note": "Verified. Noida, Graduate Software Engineer — exact fresher match."
+  },
+  {
+    "company": "Coupang",
+    "ats": "greenhouse",
+    "endpoint": "https://boards-api.greenhouse.io/v1/boards/coupang/jobs?content=true",
+    "baseUrl": "https://boards.greenhouse.io/coupang",
+    "evidence_url": "https://boards.greenhouse.io/coupang/jobs/7915407",
+    "note": "Verified. Bengaluru engineering presence confirmed."
+  },
+  {
+    "company": "Degreed",
+    "ats": "greenhouse",
+    "endpoint": "https://boards-api.greenhouse.io/v1/boards/degreed/jobs?content=true",
+    "baseUrl": "https://boards.greenhouse.io/degreed",
+    "evidence_url": "https://boards.greenhouse.io/degreed/jobs/4892900004",
+    "note": "Verified. Bengaluru, Software Engineer (Backend) — 1+ years listed, junior-adjacent."
+  },
+  {
+    "company": "Sigmoid",
+    "ats": "greenhouse",
+    "endpoint": "https://boards-api.greenhouse.io/v1/boards/sigmoid/jobs?content=true",
+    "baseUrl": "https://boards.greenhouse.io/sigmoid",
+    "evidence_url": "https://boards.greenhouse.io/sigmoid/jobs/7330052002",
+    "note": "Verified. Bengaluru/Hyderabad, SDE 1/2 - Python — SDE 1 explicitly junior."
+  },
+  {
+    "company": "HackerRank",
+    "ats": "greenhouse",
+    "endpoint": "https://boards-api.greenhouse.io/v1/boards/hackerrank/jobs?content=true",
+    "baseUrl": "https://boards.greenhouse.io/hackerrank",
+    "evidence_url": "https://boards.greenhouse.io/hackerrank/jobs/2311704",
+    "note": "Verified. Bangalore engineering presence confirmed."
+  },
+  {
+    "company": "Thena",
+    "ats": "greenhouse",
+    "endpoint": "https://boards-api.greenhouse.io/v1/boards/thena/jobs?content=true",
+    "baseUrl": "https://boards.greenhouse.io/thena",
+    "evidence_url": "https://boards.greenhouse.io/thena/jobs/4119888007",
+    "note": "Verified. Bengaluru, SDE 2 (Front-End) — startup, fast-growing India team."
+  },
+  {
+    "company": "Endor Labs",
+    "ats": "greenhouse",
+    "endpoint": "https://boards-api.greenhouse.io/v1/boards/endorlabs/jobs?content=true",
+    "baseUrl": "https://boards.greenhouse.io/endorlabs",
+    "evidence_url": "https://boards.greenhouse.io/endorlabs/jobs/4000732005",
+    "note": "Verified. Bengaluru, early-stage India R&D team confirmed."
+  },
+  {
+    "company": "Truecaller",
+    "ats": "greenhouse",
+    "endpoint": "https://boards-api.greenhouse.io/v1/boards/truecaller/jobs?content=true",
+    "baseUrl": "https://boards.greenhouse.io/truecaller",
+    "evidence_url": "https://boards.greenhouse.io/truecaller/jobs/4271149",
+    "note": "Verified. Bangalore, major India engineering hub confirmed (large international team)."
+  },
+  {
+    "company": "Syndigo",
+    "ats": "greenhouse",
+    "endpoint": "https://boards-api.greenhouse.io/v1/boards/syndigo/jobs?content=true",
+    "baseUrl": "https://boards.greenhouse.io/syndigo",
+    "evidence_url": "https://boards.greenhouse.io/syndigo/jobs/5454814004",
+    "note": "Verified. Bangalore, Software Engineer - Backend (Java/Big Data) roles listed alongside senior ones."
+  },
+  {
+    "company": "Saviynt",
+    "ats": "lever",
+    "endpoint": "https://api.lever.co/v0/postings/saviynt?mode=json",
+    "baseUrl": "https://jobs.lever.co/saviynt",
+    "evidence_url": "https://jobs.lever.co/saviynt/84a1db6f-6b4c-4915-a5f6-2759ee1b933e",
+    "note": "Verified. Associate Engineer, Software Engineering (New College Graduate) — exact fresher match."
+  },
+  {
+    "company": "SafetyCulture",
+    "ats": "lever",
+    "endpoint": "https://api.lever.co/v0/postings/safetyculture-2?mode=json",
+    "baseUrl": "https://jobs.lever.co/safetyculture-2",
+    "evidence_url": "https://jobs.lever.co/safetyculture-2/20fa05bd-05cf-4b61-ada1-d50a27457ddb",
+    "note": "Verified. Software Engineer Graduate Program Intake 2026 — structured grad programme."
+  },
+  {
+    "company": "Veeva Systems",
+    "ats": "lever",
+    "endpoint": "https://api.lever.co/v0/postings/veeva?mode=json",
+    "baseUrl": "https://jobs.lever.co/veeva",
+    "evidence_url": "https://jobs.lever.co/veeva/52ba79af-1086-457d-b5d2-8e184f111ffd",
+    "note": "Verified. Associate Software Engineer - Seeking 2026 Grads, plus a second listing confirming a new Hyderabad development center with multiple Test Automation openings — strong active India presence."
+  },
+  {
+    "company": "ShyftLabs",
+    "ats": "lever",
+    "endpoint": "https://api.lever.co/v0/postings/shyftlabs?mode=json",
+    "baseUrl": "https://jobs.lever.co/shyftlabs",
+    "evidence_url": "https://jobs.lever.co/shyftlabs/1a665cf5-1f3f-4610-be00-b46ffa13a675",
+    "note": "Verified. Associate AI Engineer (New Grad) — exact match to your GenAI/fresher criteria, India team confirmed."
+  },
+  {
+  "company": "Netsmart",
+  "ats": "workday",
+  "board": "Careers",
+  "baseUrl": "https://ntst.wd1.myworkdayjobs.com",
+  "endpoint": "https://ntst.wd1.myworkdayjobs.com/wday/cxs/ntst/Careers/jobs",
+  "evidence_url": "https://ntst.wd1.myworkdayjobs.com/en-US/Careers/job/Senior-Data-Scientist_R015344",
+  "note": "Corrected. This tenant is Netsmart, not NetSuite as earlier mislabeled — same underlying board, real company name confirmed via job posting content."
+},
+ {
+    "company": "JumpCloud",
+    "ats": "lever",
+    "endpoint": "https://api.lever.co/v0/postings/jumpcloud?mode=json",
+    "baseUrl": "https://jobs.lever.co/jumpcloud",
+    "evidence_url": "https://jobs.lever.co/jumpcloud/3cde05a3-b7e2-4aea-a5f0-e85f6974789c",
+    "note": "Verified. India-remote Data Analyst role — confirms active India-based remote hiring."
+  },
+  {
+    "company": "Brillio",
+    "ats": "lever",
+    "endpoint": "https://api.lever.co/v0/postings/brillio-2?mode=json",
+    "baseUrl": "https://jobs.lever.co/brillio-2",
+    "evidence_url": "https://jobs.lever.co/brillio-2/de7adbf1-0421-4a9d-a5f5-d443cdd29263",
+    "note": "Verified. Bangalore, Data Science/AI & Data Engineering team confirmed active."
+  },
+  {
+    "company": "Karat",
+    "ats": "lever",
+    "endpoint": "https://api.lever.co/v0/postings/karat?mode=json",
+    "baseUrl": "https://boards.greenhouse.io/karat",
+    "evidence_url": "https://boards.greenhouse.io/karat/jobs/7785527002",
+    "note": "Verified India-remote hiring, Data Analyst. Note: this posting URL is actually on Greenhouse, not Lever — see correction below."
+  },
+  {
+    "company": "Greenlight Financial Technology",
+    "ats": "lever",
+    "endpoint": "https://api.lever.co/v0/postings/greenlight?mode=json",
+    "baseUrl": "https://jobs.lever.co/greenlight",
+    "evidence_url": "https://jobs.lever.co/greenlight/88f4c640-68f0-45c6-9ed0-4b8897676824",
+    "note": "Verified. India office confirmed (cross-functional teams across US and India office)."
+  },
+  {
+  "company": "Karat",
+  "ats": "greenhouse",
+  "endpoint": "https://boards-api.greenhouse.io/v1/boards/karat/jobs?content=true",
+  "baseUrl": "https://boards.greenhouse.io/karat",
+  "evidence_url": "https://boards.greenhouse.io/karat/jobs/7785527002",
+  "note": "Verified. India-based Data Analyst role, hired via Deel PEO."
+},
+{
+    "company": "Research Partnership",
+    "ats": "greenhouse",
+    "endpoint": "https://boards-api.greenhouse.io/v1/boards/researchpartnership/jobs?content=true",
+    "baseUrl": "https://job-boards.greenhouse.io/researchpartnership",
+    "evidence_url": "https://job-boards.greenhouse.io/researchpartnership/jobs/6660116",
+    "note": "Verified. Gurugram, Data Delivery & Dashboard Executive, Data Processing Executive — junior-titled data roles."
+  },
+  {
+    "company": "Analytical Wizards (Definitive Healthcare)",
+    "ats": "greenhouse",
+    "endpoint": "https://boards-api.greenhouse.io/v1/boards/definitivehcindia/jobs?content=true",
+    "baseUrl": "https://boards.greenhouse.io/definitivehcindia",
+    "evidence_url": "https://boards.greenhouse.io/definitivehcindia/jobs/5250745004",
+    "note": "Verified. Bengaluru, Analyst - Data Science — India-specific board (definitivehcindia)."
+  },
+  {
+    "company": "Builder.io",
+    "ats": "greenhouse",
+    "endpoint": "https://boards-api.greenhouse.io/v1/boards/builder/jobs?content=true",
+    "baseUrl": "https://boards.greenhouse.io/builder",
+    "evidence_url": "https://boards.greenhouse.io/builder/jobs/4399900004",
+    "note": "Verified. India-based role explicitly (Technical Specialist reporting to Head of Support). Confirms real India-hiring startup."
+  },
+  {
+    "company": "Pure Storage",
+    "ats": "greenhouse",
+    "endpoint": "https://boards-api.greenhouse.io/v1/boards/purestorage/jobs?content=true",
+    "baseUrl": "https://boards.greenhouse.io/purestorage",
+    "evidence_url": "https://boards.greenhouse.io/purestorage/jobs/6442450",
+    "note": "Verified. Bangalore, Member of Technical Staff — exact MTS title match you asked for."
+  },
+  {
+    "company": "BOLD (India)",
+    "ats": "greenhouse",
+    "endpoint": "https://boards-api.greenhouse.io/v1/boards/indiareferral/jobs?content=true",
+    "baseUrl": "https://boards.greenhouse.io/indiareferral",
+    "evidence_url": "https://boards.greenhouse.io/indiareferral/jobs/5127647",
+    "note": "Verified. Associate Software Engineer-ETL — India-specific board (indiareferral)."
+  },
+  {
+    "company": "Fresh Prints",
+    "ats": "greenhouse",
+    "endpoint": "https://boards-api.greenhouse.io/v1/boards/freshprints/jobs?content=true",
+    "baseUrl": "https://boards.greenhouse.io/freshprints",
+    "evidence_url": "https://boards.greenhouse.io/freshprints/jobs/5365957004",
+    "note": "Verified. India-based technical support team, first employee of Fresh Prints India confirmed real operation."
+  },
+  {
+    "company": "PeopleGrove",
+    "ats": "lever",
+    "endpoint": "https://api.lever.co/v0/postings/peoplegrove?mode=json",
+    "baseUrl": "https://jobs.lever.co/peoplegrove",
+    "evidence_url": "https://jobs.lever.co/peoplegrove/99d300f6-9ea9-4834-b127-ecac7ff48df1",
+    "note": "Verified. India-based engineer role, 2-4 years — junior-adjacent."
+  },
+  {
+    "company": "Resilinc",
+    "ats": "lever",
+    "endpoint": "https://api.lever.co/v0/postings/resilinc?mode=json",
+    "baseUrl": "https://jobs.lever.co/resilinc",
+    "evidence_url": "https://jobs.lever.co/resilinc/46bc503f-3697-4d33-9d94-4de35ff35667",
+    "note": "Verified. India-remote, 2-5 years, applied AI/data engineering — junior-adjacent."
   }
+
 ]
