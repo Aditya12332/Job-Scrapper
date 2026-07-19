@@ -5,12 +5,15 @@ const parseLeverJobs = require("../ats/lever/parser");
 const { filterJobs } = require("./filter");
 const isNewJob = require("./deduplicate");
 const sendDiscord = require("../notifier/discord");
-
+const parseAshbyJobs = require("../ats/ashby/parser");
+const parseSmartRecruitersJobs = require("../ats/smartrecruiters/parser");
 function parseJobs(company, rawData) {
     switch (company.ats) {
         case "workday": return parseWorkdayJobs(company, rawData);
         case "greenhouse": return parseGreenhouseJobs(company, rawData);
         case "lever": return parseLeverJobs(company, rawData);
+        case "ashby": return parseAshbyJobs(company, rawData);
+        case "smartrecruiters": return parseSmartRecruitersJobs(company, rawData);
         default: return [];
     }
 }
