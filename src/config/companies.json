@@ -1796,6 +1796,1398 @@
     "baseUrl": "https://jobs.lever.co/resilinc",
     "evidence_url": "https://jobs.lever.co/resilinc/46bc503f-3697-4d33-9d94-4de35ff35667",
     "note": "Verified. India-remote, 2-5 years, applied AI/data engineering — junior-adjacent."
-  }
+  },
+  {
+    "company": "Libra AI",
+    "ats": "ashby",
+    "endpoint": "https://api.ashbyhq.com/posting-api/job-board/libra?includeCompensation=true",
+    "baseUrl": "https://jobs.ashbyhq.com/libra",
+    "evidence_url": "https://jobs.ashbyhq.com/libra",
+    "note": "Verified. Bengaluru, Software Engineering roles listed. Small board but confirmed active."
+  },
+  {
+    "company": "Sarvam AI",
+    "ats": "ashby",
+    "endpoint": "https://api.ashbyhq.com/posting-api/job-board/sarvam?includeCompensation=true",
+    "baseUrl": "https://jobs.ashbyhq.com/sarvam",
+    "evidence_url": "https://jobs.ashbyhq.com/sarvam",
+    "note": "Verified. Strong Bengaluru engineering presence (25 engineering roles), Indian AI company — high-value target for your GenAI/ML focus."
+  },
+  {
+    "company": "Almabase",
+    "ats": "ashby",
+    "endpoint": "https://api.ashbyhq.com/posting-api/job-board/almabase?includeCompensation=true",
+    "baseUrl": "https://jobs.ashbyhq.com/almabase",
+    "evidence_url": "https://jobs.ashbyhq.com/almabase/5c2eb299-b922-41ad-933f-728a0cb1f39d/application",
+    "note": "Verified. Bangalore, backend engineering. Listing found was 3-4 YOE senior-adjacent — worth monitoring board for junior openings."
+  },
+  {
+    "company": "NielsenIQ",
+    "ats": "smartrecruiters",
+    "endpoint": "https://api.smartrecruiters.com/v1/companies/NielsenIQ/postings?limit=100",
+    "baseUrl": "https://jobs.smartrecruiters.com/NielsenIQ",
+    "evidence_url": "https://jobs.smartrecruiters.com/NielsenIQ/744000126001529-associate-software-engineer",
+    "note": "Verified. Chennai, Associate Software Engineer — exact fresher title match."
+  },
+  {
+    "company": "Experian",
+    "ats": "smartrecruiters",
+    "endpoint": "https://api.smartrecruiters.com/v1/companies/Experian/postings?limit=100",
+    "baseUrl": "https://jobs.smartrecruiters.com/Experian",
+    "evidence_url": "https://jobs.smartrecruiters.com/Experian/744000127566305-software-engineer-associate",
+    "note": "Verified. Hyderabad, Software Engineer - Associate. Listing found was 3-5 years — worth monitoring board for true junior openings."
+  },
+  {
+    "company": "Endeavor IT Solution",
+    "ats": "smartrecruiters",
+    "endpoint": "https://api.smartrecruiters.com/v1/companies/EndeavorITSolution/postings?limit=100",
+    "baseUrl": "https://jobs.smartrecruiters.com/EndeavorITSolution",
+    "evidence_url": "https://jobs.smartrecruiters.com/EndeavorITSolution/743999658848597-software-engineer-php-fresher",
+    "note": "Verified. Indore, Software Engineer (PHP) Fresher — literally titled Fresher, small local India company."
+  },
+  {
+  "company": "Smartsheet",
+  "ats": "greenhouse",
+  "endpoint": "https://boards-api.greenhouse.io/v1/boards/smartsheet/jobs?content=true",
+  "baseUrl": "https://job-boards.greenhouse.io/smartsheet",
+  "evidence_url": "https://job-boards.greenhouse.io/smartsheet/jobs/7738684",
+  "note": "Verified. Bangalore, Associate Software Engineer (HPEL Program) — dedicated early-career India program for Class of 2025/2026 grads."
+},
+{
+  "company": "Gartner",
+  "ats": "workday",
+  "board": "EXT",
+  "baseUrl": "https://gartner.wd5.myworkdayjobs.com",
+  "endpoint": "https://gartner.wd5.myworkdayjobs.com/wday/cxs/gartner/EXT/jobs",
+  "evidence_url": "https://gartner.wd5.myworkdayjobs.com/en-US/EXT/job/Gurgaon/Sr-Software-Engineer--Python---Agentic-AI-_111599",
+  "note": "Verified. Gurgaon, active engineering team (also seen posting Digital Product Analyst roles) — from your own Discord log earlier, confirms real India presence."
+},
+{
+    "company": "Cleo (India)",
+    "ats": "greenhouse",
+    "endpoint": "https://boards-api.greenhouse.io/v1/boards/cleoindia/jobs?content=true",
+    "baseUrl": "https://boards.greenhouse.io/cleoindia",
+    "evidence_url": "https://boards.greenhouse.io/cleoindia/jobs/4234498005",
+    "note": "Verified. Bangalore, Associate Software Engineer - IE (Fresher) — literally titled Fresher, dedicated India board."
+  },
+  {
+    "company": "Twilio",
+    "ats": "greenhouse",
+    "endpoint": "https://boards-api.greenhouse.io/v1/boards/twilio/jobs?content=true",
+    "baseUrl": "https://boards.greenhouse.io/twilio",
+    "evidence_url": "https://boards.greenhouse.io/twilio/jobs/2269939",
+    "note": "Verified. Bangalore engineering office confirmed (multiple listings), though roles found were senior/staff level."
+  },
+  {
+    "company": "Shardeum Foundation",
+    "ats": "greenhouse",
+    "endpoint": "https://boards-api.greenhouse.io/v1/boards/shardeumfoundation/jobs?content=true",
+    "baseUrl": "https://boards.greenhouse.io/shardeumfoundation",
+    "evidence_url": "https://boards.greenhouse.io/shardeumfoundation/jobs/4243786005",
+    "note": "Verified. India-founded blockchain/Web3 company, Software Engineer roles confirmed active."
+  },
+  {
+    "company": "Altera Digital Health",
+    "ats": "greenhouse",
+    "endpoint": "https://boards-api.greenhouse.io/v1/boards/alteradigitalhealth/jobs?content=true",
+    "baseUrl": "https://boards.greenhouse.io/alteradigitalhealth",
+    "evidence_url": "https://boards.greenhouse.io/alteradigitalhealth/jobs/4024207007",
+    "note": "Verified. Pune, Associate Software Engineer — explicitly 0-3 years experience, exact fresher match."
+  },
+  {
+    "company": "Cockroach Labs",
+    "ats": "greenhouse",
+    "endpoint": "https://boards-api.greenhouse.io/v1/boards/cockroachlabs/jobs?content=true",
+    "baseUrl": "https://boards.greenhouse.io/cockroachlabs",
+    "evidence_url": "https://boards.greenhouse.io/embed/job_app?token=6361692",
+    "note": "Verified. SRE team explicitly confirmed to have 3 India-based members — active India engineering presence."
+  },
+  {
+    "company": "PDI Technologies",
+    "ats": "lever",
+    "endpoint": "https://api.lever.co/v0/postings/pditechnologies?mode=json",
+    "baseUrl": "https://jobs.lever.co/pditechnologies",
+    "evidence_url": "https://jobs.lever.co/pditechnologies/15b572e9-e6f6-4274-a326-ace967ac83cd",
+    "note": "Verified. Bangalore/Hyderabad, Software Engineer II."
+  },
+  {
+    "company": "Paytm",
+    "ats": "lever",
+    "endpoint": "https://api.lever.co/v0/postings/paytm?mode=json",
+    "baseUrl": "https://jobs.lever.co/paytm",
+    "evidence_url": "https://jobs.lever.co/paytm?department=Technology",
+    "note": "Verified. Major Indian fintech, huge multi-city presence across India — high-value target for your search."
+  },
+  {
+    "company": "Beghou Consulting",
+    "ats": "lever",
+    "endpoint": "https://api.lever.co/v0/postings/beghouconsulting?mode=json",
+    "baseUrl": "https://jobs.lever.co/beghouconsulting",
+    "evidence_url": "https://jobs.lever.co/beghouconsulting",
+    "note": "Verified. Bengaluru/Hyderabad/Pune, Data Engineering, QA, Software Development teams confirmed active."
+  },
+  {
+    "company": "ValGenesis",
+    "ats": "lever",
+    "endpoint": "https://api.lever.co/v0/postings/valgenesis?mode=json",
+    "baseUrl": "https://jobs.lever.co/valgenesis",
+    "evidence_url": "https://jobs.lever.co/valgenesis/e557a66b-69d2-437b-9cf1-80a37977f187",
+    "note": "Verified. Chennai/Hyderabad/Bangalore onsite offices, Software Engineer AI/ML role."
+  },
+  {
+    "company": "Warner Music Group",
+    "ats": "lever",
+    "endpoint": "https://api.lever.co/v0/postings/wmg?mode=json",
+    "baseUrl": "https://jobs.lever.co/wmg",
+    "evidence_url": "https://jobs.lever.co/wmg/4a5ad353-6b27-46b2-b9a0-6fde3f73c7e4",
+    "note": "Verified. Bangalore office confirmed, Software Engineer."
+  },
+  {
+    "company": "Weave",
+    "ats": "ashby",
+    "endpoint": "https://api.ashbyhq.com/posting-api/job-board/weave?includeCompensation=true",
+    "baseUrl": "https://jobs.ashbyhq.com/weave",
+    "evidence_url": "https://jobs.ashbyhq.com/weave/90d34f3d-2316-498b-a02c-a5cc545a9c0d",
+    "note": "Verified. India-remote healthcare tech team confirmed, US-India collaboration."
+  },
+  {
+    "company": "Finvest",
+    "ats": "ashby",
+    "endpoint": "https://api.ashbyhq.com/posting-api/job-board/finvest?includeCompensation=true",
+    "baseUrl": "https://jobs.ashbyhq.com/finvest",
+    "evidence_url": "https://jobs.ashbyhq.com/finvest/a0969a17-17c0-4ac1-a143-98c83419cb77",
+    "note": "Verified. India-based founding team, AI-powered wealth manager startup."
+  },
+  {
+    "company": "Soulside AI",
+    "ats": "ashby",
+    "endpoint": "https://api.ashbyhq.com/posting-api/job-board/soulside%20ai?includeCompensation=true",
+    "baseUrl": "https://jobs.ashbyhq.com/soulside%20ai",
+    "evidence_url": "https://jobs.ashbyhq.com/soulside%20ai/041401b5-bd04-4c78-aff4-4b713c3627ae",
+    "note": "Verified. India/Remote, AI healthtech startup."
+  },
+  {
+    "company": "Zapier",
+    "ats": "ashby",
+    "endpoint": "https://api.ashbyhq.com/posting-api/job-board/zapier?includeCompensation=true",
+    "baseUrl": "https://jobs.ashbyhq.com/zapier",
+    "evidence_url": "https://jobs.ashbyhq.com/zapier/423d1bb7-1c08-458e-8a17-29a63cf23d92",
+    "note": "Verified. India-based Enterprise Integrations engineering team confirmed active."
+  },
+  {
+    "company": "GigaML",
+    "ats": "ashby",
+    "endpoint": "https://api.ashbyhq.com/posting-api/job-board/GigaML?includeCompensation=true",
+    "baseUrl": "https://jobs.ashbyhq.com/GigaML",
+    "evidence_url": "https://jobs.ashbyhq.com/GigaML/208c19e2-07ac-4e37-b7e2-0f05cbffb742",
+    "note": "Verified. Conversational AI startup, India-relevant remote role."
+  },
+  {
+    "company": "Blitzy",
+    "ats": "ashby",
+    "endpoint": "https://api.ashbyhq.com/posting-api/job-board/blitzy?includeCompensation=true",
+    "baseUrl": "https://jobs.ashbyhq.com/blitzy",
+    "evidence_url": "https://jobs.ashbyhq.com/blitzy/8dc5c386-09f2-497c-ae76-e650f60330a2",
+    "note": "Verified. Pune (onsite), agentic AI software development platform — directly matches your Agentic AI interest."
+  },
+  {
+    "company": "Kaplan",
+    "ats": "workday",
+    "board": "Kaplan_Careers",
+    "baseUrl": "https://ghc.wd1.myworkdayjobs.com",
+    "endpoint": "https://ghc.wd1.myworkdayjobs.com/wday/cxs/ghc/Kaplan_Careers/jobs",
+    "evidence_url": "https://ghc.wd1.myworkdayjobs.com/en-US/Kaplan_Careers/job/Associate-Data-Engineer--Internship-Program-to-Full-time-Employee-_JR248716-1",
+    "note": "Verified. Bengaluru, 'Associate Data Engineer (Internship Program to Full-time Employee)' — exact fresher match. Note tenant slug is 'ghc', not 'kaplan'."
+  },
+  {
+    "company": "Shell",
+    "ats": "workday",
+    "board": "ShellCareers",
+    "baseUrl": "https://shell.wd3.myworkdayjobs.com",
+    "endpoint": "https://shell.wd3.myworkdayjobs.com/wday/cxs/shell/ShellCareers/jobs",
+    "evidence_url": "https://shell.wd3.myworkdayjobs.com/ShellCareers/job/Bangalore-RMZ-ECO-WORLD/Associate-Data-Engineer_R201514/",
+    "note": "Verified. Bangalore, Associate Data Engineer."
+  },
+  {
+    "company": "Genesys",
+    "ats": "workday",
+    "board": "Genesys",
+    "baseUrl": "https://genesys.wd1.myworkdayjobs.com",
+    "endpoint": "https://genesys.wd1.myworkdayjobs.com/wday/cxs/genesys/Genesys/jobs",
+    "evidence_url": "https://genesys.wd1.myworkdayjobs.com/en-US/Genesys/job/Associate-Data-Engineer_JR110876",
+    "note": "Verified. Associate Data Engineer (Python, SQL, AWS) — location not explicit in snippet, entry-level title; confirm India location on apply page before relying on it."
+  },
+  {
+    "company": "Monotype",
+    "ats": "workday",
+    "board": "Monotype",
+    "baseUrl": "https://monotype.wd1.myworkdayjobs.com",
+    "endpoint": "https://monotype.wd1.myworkdayjobs.com/wday/cxs/monotype/Monotype/jobs",
+    "evidence_url": "https://monotype.wd1.myworkdayjobs.com/en-US/Monotype/job/Noida/Software-Engineer-Trainee_R0003499-1",
+    "note": "Verified. Noida, Software Engineer Trainee — exact fresher match."
+  },
+  {
+    "company": "Invesco",
+    "ats": "workday",
+    "board": "IVZ",
+    "baseUrl": "https://invesco.wd1.myworkdayjobs.com",
+    "endpoint": "https://invesco.wd1.myworkdayjobs.com/wday/cxs/invesco/IVZ/jobs",
+    "evidence_url": "https://invesco.wd1.myworkdayjobs.com/en-US/IVZ/job/Hyderabad-Telangana/Graduate-Engineer-Trainee_R-12545",
+    "note": "Verified. Hyderabad, Graduate Engineer Trainee (ServiceNow track) — exact fresher match."
+  },
+  {
+    "company": "Equifax",
+    "ats": "workday",
+    "board": "External",
+    "baseUrl": "https://equifax.wd5.myworkdayjobs.com",
+    "endpoint": "https://equifax.wd5.myworkdayjobs.com/wday/cxs/equifax/External/jobs",
+    "evidence_url": "https://equifax.wd5.myworkdayjobs.com/en-US/External/job/IND-Bangalore-Equifax-Credit-Information-Services/Software-Engineer-Trainee_J00162427",
+    "note": "Verified. Bangalore, Software Engineer Trainee — exact fresher match."
+  },
+  {
+    "company": "Motorola Solutions",
+    "ats": "workday",
+    "board": "Careers",
+    "baseUrl": "https://motorolasolutions.wd5.myworkdayjobs.com",
+    "endpoint": "https://motorolasolutions.wd5.myworkdayjobs.com/wday/cxs/motorolasolutions/Careers/jobs",
+    "evidence_url": "https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Bangalore-India-ZIN114/Full-Stack-Developer_R63304",
+    "note": "Verified tenant/URL. Bangalore, Full Stack Developer — seniority not stated in the listing I could see, so confirm it's fresher-level before relying on it."
+  },
+  {
+    "company": "WEX Inc",
+    "ats": "workday",
+    "endpoint": "https://wexinc.wd5.myworkdayjobs.com/wday/cxs/wexinc/WEXInc/jobs",
+    "baseUrl": "https://wexinc.wd5.myworkdayjobs.com",
+    "evidence_url": "https://wexinc.wd5.myworkdayjobs.com/WEXInc/job/India---Bangalore-Office/Software-Development-Engineer-2-7_R18415",
+    "note": "Verified. Bangalore, Software Development Engineer 2-7 (backend, scalable systems)."
+  },
+  {
+    "company": "Alteryx",
+    "ats": "workday",
+    "endpoint": "https://alteryx.wd108.myworkdayjobs.com/wday/cxs/alteryx/AlteryxCareers/jobs",
+    "baseUrl": "https://alteryx.wd108.myworkdayjobs.com",
+    "evidence_url": "https://alteryx.wd108.myworkdayjobs.com/en-US/AlteryxCareers/job/Bangalore-India/Software-Development-Engineer-in-Test---Performance-Focus_R12245",
+    "note": "Verified. Bangalore, SDET (Performance Focus) — role wants 3+ yrs, but confirms active Bangalore SDET org worth monitoring for junior openings."
+  },
+  {
+    "company": "MillerKnoll",
+    "ats": "workday",
+    "endpoint": "https://millerknoll.wd1.myworkdayjobs.com/wday/cxs/millerknoll/MillerKnoll/jobs",
+    "baseUrl": "https://millerknoll.wd1.myworkdayjobs.com",
+    "evidence_url": "https://millerknoll.wd1.myworkdayjobs.com/MillerKnoll/job/India---Bengaluru/Digital-Product-Analyst_JR109339-1",
+    "note": "Verified. Bengaluru, Digital Product Analyst."
+  },
+  {
+    "company": "Agilent",
+    "ats": "workday",
+    "endpoint": "https://agilent.wd5.myworkdayjobs.com/wday/cxs/agilent/Agilent_Careers/jobs",
+    "baseUrl": "https://agilent.wd5.myworkdayjobs.com",
+    "evidence_url": "https://agilent.wd5.myworkdayjobs.com/en-US/Agilent_Careers/job/India-Remote-Location-Manesar/eCommerce-Digital-Product-Analyst_4034833/apply/applyManually",
+    "note": "Verified. India (Remote/Manesar), eCommerce Digital Product Analyst."
+  },
+  {
+    "company": "PTC",
+    "ats": "workday",
+    "endpoint": "https://ptc.wd1.myworkdayjobs.com/wday/cxs/ptc/PTC/jobs",
+    "baseUrl": "https://ptc.wd1.myworkdayjobs.com",
+    "evidence_url": "https://ptc.wd1.myworkdayjobs.com/PTC/job/Pune-India/Associate-Product-Analyst_JR111954",
+    "note": "Verified. Pune, Associate Product Analyst — entry-level 'Associate' title."
+  },
+  {
+    "company": "AllianceBernstein",
+    "ats": "workday",
+    "endpoint": "https://abglobal.wd1.myworkdayjobs.com/wday/cxs/abglobal/alliancebernsteincareers/jobs",
+    "baseUrl": "https://abglobal.wd1.myworkdayjobs.com",
+    "evidence_url": "https://abglobal.wd1.myworkdayjobs.com/en-US/alliancebernsteincareers/job/Pune-India/Product-Analyst_R0018924-1",
+    "note": "Verified. Pune, Product Analyst. Note tenant slug is 'abglobal', not 'alliancebernstein'."
+  },
+  {
+    "company": "Assurant",
+    "ats": "workday",
+    "endpoint": "https://assurant.wd1.myworkdayjobs.com/wday/cxs/assurant/Assurant_Careers/jobs",
+    "baseUrl": "https://assurant.wd1.myworkdayjobs.com",
+    "evidence_url": "https://assurant.wd1.myworkdayjobs.com/en-US/Assurant_Careers/job/Bengaluru/Associate-Data-Engineer--4--Yrs-of-data-warehousing-using-SQL---1--Yrs-of-exp-Azure-Data-Factory---Data-Bricks---SSIS---Power-BI-_R-111877-1/apply",
+    "note": "Verified. Bengaluru/Hyderabad/Chennai, Associate Data Engineer — role lists 4+ yrs so not fresher, but confirms an active India data engineering org (GCC-India) worth monitoring."
+  },
+  {
+    "company": "MSD (Merck)",
+    "ats": "workday",
+    "endpoint": "https://msd.wd5.myworkdayjobs.com/wday/cxs/msd/SearchJobs/jobs",
+    "baseUrl": "https://msd.wd5.myworkdayjobs.com",
+    "evidence_url": "https://msd.wd5.myworkdayjobs.com/SearchJobs/job/IND---Telangana---Hyderabad-HITEC-City/Associate-Manager---Data-Engineer_R338916-1",
+    "note": "Verified. Hyderabad, Associate Manager - Data Engineer — management-track title, but confirms active India data engineering team worth monitoring for junior openings."
+  },
+  {
+    "company": "Procter & Gamble",
+    "ats": "workday",
+    "endpoint": "https://pg.wd5.myworkdayjobs.com/wday/cxs/pg/1000/jobs",
+    "baseUrl": "https://pg.wd5.myworkdayjobs.com",
+    "evidence_url": "https://pg.wd5.myworkdayjobs.com/id-ID/1000/job/Senior-AI-Manager--GenAI-_R000135299",
+    "note": "Verified tenant/board exist (title text says 'HYDERABAD OFFICE INDIA' and role is Senior AI Manager, GenAI), but the URL locale prefix is /id-ID/ (Indonesia) which is inconsistent with the India text in the listing — confirm actual location on the apply page before relying on this one. Also senior-level, included per rule 7 to flag an active India GenAI org."
+  },
+  {
+    "company": "TransUnion",
+    "ats": "workday",
+    "endpoint": "https://transunion.wd5.myworkdayjobs.com/wday/cxs/transunion/TransUnion/jobs",
+    "baseUrl": "https://transunion.wd5.myworkdayjobs.com",
+    "evidence_url": "https://transunion.wd5.myworkdayjobs.com/en-US/TransUnion/job/Bengaluru/Sr-Developer--GenAI-Engineer_19038549-1",
+    "note": "Verified. Bengaluru, Sr Developer GenAI/LLMOps Engineer — senior, but confirms active India GenAI team worth monitoring."
+  },
+  {
+    "company": "Rimini Street",
+    "ats": "workday",
+    "endpoint": "https://riministreet.wd1.myworkdayjobs.com/wday/cxs/riministreet/RiminiStreet/jobs",
+    "baseUrl": "https://riministreet.wd1.myworkdayjobs.com",
+    "evidence_url": "https://riministreet.wd1.myworkdayjobs.com/RiminiStreet/job/Hyderabad/GenAI-Engineer---Agentic-ERP-Platform_R-102045",
+    "note": "Verified. Hyderabad, GenAI Engineer - Agentic ERP Platform."
+  },
+  {
+    "company": "Cleo",
+    "ats": "greenhouse",
+    "endpoint": "https://boards-api.greenhouse.io/v1/boards/cleoindia/jobs?content=true",
+    "baseUrl": "https://boards.greenhouse.io/cleoindia",
+    "evidence_url": "https://boards.greenhouse.io/cleoindia/jobs/4234498005?gh_src=a651609a5us",
+    "note": "Verified. Bangalore, 'Associate Software Engineer - IE (Fresher)' — exact fresher match, explicitly targets B.Tech/M.Tech/MCA freshers."
+  },
+  {
+    "company": "Archipelago Analytics",
+    "ats": "greenhouse",
+    "endpoint": "https://boards-api.greenhouse.io/v1/boards/onarchipelago/jobs?content=true",
+    "baseUrl": "https://boards.greenhouse.io/onarchipelago",
+    "evidence_url": "https://boards.greenhouse.io/onarchipelago/jobs/4437510006",
+    "note": "Verified. Noida (preferred), Graduate Software Engineer — exact fresher match. Note: posting says temporary-to-full-time transition."
+  },
+  {
+    "company": "Couchbase",
+    "ats": "greenhouse",
+    "endpoint": "https://boards-api.greenhouse.io/v1/boards/couchbaseinc/jobs?content=true",
+    "baseUrl": "https://boards.greenhouse.io/couchbaseinc",
+    "evidence_url": "https://boards.greenhouse.io/couchbaseinc/jobs/4123130006?gh_jid=4123130006",
+    "note": "Verified. Bangalore (Hybrid), Graduate Software Engineer — exact fresher match."
+  },
+  {
+    "company": "Bottomline Technologies",
+    "ats": "greenhouse",
+    "endpoint": "https://boards-api.greenhouse.io/v1/boards/bottomlinetechnologies/jobs?content=true",
+    "baseUrl": "https://boards.greenhouse.io/bottomlinetechnologies",
+    "evidence_url": "https://boards.greenhouse.io/bottomlinetechnologies/jobs/5079026002",
+    "note": "Verified board/token is real (Graduate Software Engineer scheme, India office), but the specific posting text references a '2021 Intake' — likely a stale/reused listing. Confirm current openings on the board directly."
+  },
+  {
+    "company": "IMC Trading",
+    "ats": "greenhouse",
+    "endpoint": "https://boards-api.greenhouse.io/v1/boards/imc/jobs?content=true",
+    "baseUrl": "https://boards.greenhouse.io/imc",
+    "evidence_url": "https://boards.greenhouse.io/imc/jobs/4383496101",
+    "note": "Verified board/token is real ('Graduate Software Engineer (2024)', final-year students), but this specific posting looks like a past recruitment season — confirm current cycle on the board directly."
+  },
+  {
+    "company": "Instawork",
+    "ats": "greenhouse",
+    "endpoint": "https://boards-api.greenhouse.io/v1/boards/instawork/jobs?content=true",
+    "baseUrl": "https://boards.greenhouse.io/instawork",
+    "evidence_url": "https://boards.greenhouse.io/instawork/jobs/4009755006",
+    "note": "Verified. Bengaluru, Senior QA Automation Engineer (SDET-3) — senior, but confirms active India QA org; posting itself notes it's a foundation role for future dev/QA careers."
+  },
+  {
+    "company": "Vonage",
+    "ats": "greenhouse",
+    "endpoint": "https://boards-api.greenhouse.io/v1/boards/vonage/jobs?content=true",
+    "baseUrl": "https://boards.greenhouse.io/vonage",
+    "evidence_url": "https://boards.greenhouse.io/vonage/jobs/5952103002",
+    "note": "Verified board is real (Principal SDET/QA role); India location not explicit in the snippet retrieved — confirm location on the apply page before relying on it. Included per rule 7 as a real, active SDET org."
+  },
+  {
+    "company": "JFrog",
+    "ats": "greenhouse",
+    "endpoint": "https://boards-api.greenhouse.io/v1/boards/jfrog/jobs?content=true",
+    "baseUrl": "https://boards.greenhouse.io/jfrog",
+    "evidence_url": "https://boards.greenhouse.io/embed/job_board?for=jfrog",
+    "note": "Verified. Bangalore, 'Automation Engineer (SDET)' listed on the board alongside other Bangalore R&D roles (Backend, Data Science & AI, Front-End)."
+  },
+  {
+    "company": "Encora",
+    "ats": "greenhouse",
+    "endpoint": "https://boards-api.greenhouse.io/v1/boards/encora10/jobs?content=true",
+    "baseUrl": "https://boards.greenhouse.io/encora10",
+    "evidence_url": "https://boards.greenhouse.io/embed/job_board?for=encora10",
+    "note": "Verified. Bangalore, 'Sr. Performance QA Engineer' listed on the board — senior, but confirms an active Bangalore QA org (IT services firm, many junior reqs likely rotate through)."
+  },
+  {
+    "company": "Kaseya",
+    "ats": "greenhouse",
+    "endpoint": "https://boards-api.greenhouse.io/v1/boards/kaseya/jobs?content=true",
+    "baseUrl": "https://boards.greenhouse.io/kaseya",
+    "evidence_url": "https://boards.greenhouse.io/embed/job_app?for=kaseya&token=5558705004",
+    "note": "Verified. Bengaluru, Senior SDET role but only requires 2 yrs QA / 1 yr automation experience — junior-adjacent."
+  },
+  {
+    "company": "TechHolding",
+    "ats": "greenhouse",
+    "endpoint": "https://boards-api.greenhouse.io/v1/boards/techholding/jobs?content=true",
+    "baseUrl": "https://job-boards.greenhouse.io/techholding",
+    "evidence_url": "https://job-boards.greenhouse.io/techholding/jobs/4584289005",
+    "note": "Verified. India (Remote) listed among board's open roles, including 'Senior Integration Engineer' and other engineering roles."
+  },
+  {
+    "company": "Databricks",
+    "ats": "greenhouse",
+    "endpoint": "https://boards-api.greenhouse.io/v1/boards/Databricks/jobs?content=true",
+    "baseUrl": "https://boards.greenhouse.io/Databricks",
+    "evidence_url": "https://boards.greenhouse.io/embed/job_board?for=Databricks",
+    "note": "Verified. Bengaluru, 'Sr. Software Engineer, Observability' and 'Big Data Manager, Professional Services (Remote - India)' listed — senior, but confirms an active India engineering org."
+  },
+  {
+    "company": "Bloomreach",
+    "ats": "greenhouse",
+    "endpoint": "https://boards-api.greenhouse.io/v1/boards/bloomreach/jobs?content=true",
+    "baseUrl": "https://boards.greenhouse.io/bloomreach",
+    "evidence_url": "https://boards.greenhouse.io/bloomreach/jobs/2969183",
+    "note": "Verified. Listing explicitly describes 'Our India team is a critical product development and innovation hub' (Machine Learning Engineer) — senior role but confirms a substantial India ML/search org."
+  },
+  {
+    "company": "Okta",
+    "ats": "greenhouse",
+    "endpoint": "https://boards-api.greenhouse.io/v1/boards/okta/jobs?content=true",
+    "baseUrl": "https://boards.greenhouse.io/okta",
+    "evidence_url": "https://boards.greenhouse.io/embed/job_board?for=okta",
+    "note": "Verified. Bengaluru, 'Senior Software Engineer, Security Engineering' listed on the board — senior, confirms active Bengaluru engineering presence."
+  },
+  {
+    "company": "CloudSEK",
+    "ats": "greenhouse",
+    "endpoint": "https://boards-api.greenhouse.io/v1/boards/cloudsek/jobs?content=true",
+    "baseUrl": "https://boards.greenhouse.io/cloudsek",
+    "evidence_url": "https://boards.greenhouse.io/cloudsek/jobs/4304025004",
+    "note": "Verified. Bangalore, Machine Learning Intern — exact fresher/entry match."
+  },
+  {
+    "company": "EarnIn",
+    "ats": "greenhouse",
+    "endpoint": "https://boards-api.greenhouse.io/v1/boards/earnin/jobs?content=true",
+    "baseUrl": "https://boards.greenhouse.io/earnin",
+    "evidence_url": "https://boards.greenhouse.io/earnin/jobs/6106970",
+    "note": "Verified. Bengaluru, Data Science Intern — exact fresher/entry match."
+  },
+  {
+    "company": "AlphaSense",
+    "ats": "greenhouse",
+    "endpoint": "https://boards-api.greenhouse.io/v1/boards/alphasenseindia/jobs?content=true",
+    "baseUrl": "https://job-boards.greenhouse.io/alphasenseindia",
+    "evidence_url": "https://job-boards.greenhouse.io/alphasenseindia/jobs/8420090002",
+    "note": "Verified — India-specific Greenhouse board (token 'alphasenseindia'). Sampled listing (Staff Full Stack Engineer) is senior, but the dedicated India board confirms an active local engineering org worth monitoring for junior roles."
+  },
+  {
+    "company": "Bolster",
+    "ats": "lever",
+    "endpoint": "https://api.lever.co/v0/postings/bolster?mode=json",
+    "baseUrl": "https://jobs.lever.co/bolster",
+    "evidence_url": "https://jobs.lever.co/bolster/cd85d0f8-51c4-467f-9e4d-cd04b2a3be47",
+    "note": "Verified. Fully remote from India, Sr. Software Engineer, Backend — senior (6+ yrs) but confirms active India-remote engineering hiring."
+  },
+  {
+    "company": "Everbridge",
+    "ats": "lever",
+    "endpoint": "https://api.lever.co/v0/postings/everbridge?mode=json",
+    "baseUrl": "https://jobs.lever.co/everbridge",
+    "evidence_url": "https://jobs.lever.co/everbridge/56ac8556-731d-48d8-b9cf-48ea10d0f3ab",
+    "note": "Verified. India, Remote, Senior Software Engineer - Backend."
+  },
+  {
+    "company": "doola",
+    "ats": "lever",
+    "endpoint": "https://api.lever.co/v0/postings/doola?mode=json",
+    "baseUrl": "https://jobs.lever.co/doola",
+    "evidence_url": "https://jobs.lever.co/doola/5d3e7097-1a5c-4868-aa94-053563c8a1a0/apply",
+    "note": "Verified. Software Engineer, Backend (India)."
+  },
+  {
+    "company": "Paytm",
+    "ats": "lever",
+    "endpoint": "https://api.lever.co/v0/postings/paytm?mode=json",
+    "baseUrl": "https://jobs.lever.co/paytm",
+    "evidence_url": "https://jobs.lever.co/paytm/2ae1f365-46d1-46da-acac-a0e9e892dee6",
+    "note": "Verified. Senior Software Engineer - Backend (Gold) — senior, but confirms active Paytm engineering hiring via Lever (India-headquartered company)."
+  },
+  {
+    "company": "Findem",
+    "ats": "lever",
+    "endpoint": "https://api.lever.co/v0/postings/findem?mode=json",
+    "baseUrl": "https://jobs.lever.co/findem",
+    "evidence_url": "https://jobs.lever.co/findem/2404fa11-071d-49da-b54a-c7c91ff66264",
+    "note": "Verified. Delhi, India, Senior Data Engineer (5-9 yrs) — senior, but confirms active India data engineering team."
+  },
+  {
+    "company": "Level AI",
+    "ats": "lever",
+    "endpoint": "https://api.lever.co/v0/postings/levelai?mode=json",
+    "baseUrl": "https://jobs.lever.co/levelai",
+    "evidence_url": "https://jobs.lever.co/levelai/55ba7aee-57ff-440c-91a4-58bcafcd10a8",
+    "note": "Verified. Bangalore/Noida, Senior Machine Learning Engineer (RAG/LLM) — one variant asks only 2+ yrs experience (Speech ML role), junior-adjacent; multiple open MLE reqs confirm active India AI team."
+  },
+  {
+    "company": "Apply Digital",
+    "ats": "lever",
+    "endpoint": "https://api.lever.co/v0/postings/applydigital?mode=json",
+    "baseUrl": "https://jobs.lever.co/applydigital",
+    "evidence_url": "https://jobs.lever.co/applydigital/c830bb71-441a-42b8-a0b2-6cefa66b9cab",
+    "note": "Verified. Delhi/NCR, India, Senior Data Engineer — senior, but confirms active India data engineering hiring."
+  },
+  {
+    "company": "Lingaro",
+    "ats": "lever",
+    "endpoint": "https://api.lever.co/v0/postings/lingarogroup?mode=json",
+    "baseUrl": "https://jobs.lever.co/lingarogroup",
+    "evidence_url": "https://jobs.lever.co/lingarogroup/7d57cc12-70c0-40a9-97be-cc9d275371fd",
+    "note": "Verified. India, Remote, ML/AI Engineer (GCP, Azure) — data science/AI competency center confirmed in India."
+  },
+  {
+    "company": "WisdomAI",
+    "ats": "ashby",
+    "endpoint": "https://api.ashbyhq.com/posting-api/job-board/Wisdom-AI?includeCompensation=true",
+    "baseUrl": "https://jobs.ashbyhq.com/Wisdom-AI",
+    "evidence_url": "https://jobs.ashbyhq.com/Wisdom-AI/6eab0b42-366e-499a-a364-e275fb459290/application",
+    "note": "Bengaluru, Software Engineer - Platforms & Software Engineer - Backend, both on-site listings confirmed."
+  },
+  {
+    "company": "SpotOn",
+    "ats": "ashby",
+    "endpoint": "https://api.ashbyhq.com/posting-api/job-board/Spoton?includeCompensation=true",
+    "baseUrl": "https://jobs.ashbyhq.com/Spoton",
+    "evidence_url": "https://jobs.ashbyhq.com/Spoton/483dad25-ec2b-4c28-8749-445b69341ce3/application",
+    "note": "Senior Software Engineer (Full Stack) - Hybrid Bengaluru — senior, but confirms active Bengaluru engineering hub."
+  },
+  {
+    "company": "Flagright",
+    "ats": "ashby",
+    "endpoint": "https://api.ashbyhq.com/posting-api/job-board/flagright.com?includeCompensation=true",
+    "baseUrl": "https://jobs.ashbyhq.com/flagright.com",
+    "evidence_url": "https://jobs.ashbyhq.com/flagright.com/59717db2-4b4c-4867-949e-6634c4022589",
+    "note": "Senior Software Engineer, Bangalore — senior (6+ yrs), but confirms real active Bangalore-hiring fintech startup."
+  },
+  {
+    "company": "Broccoli AI",
+    "ats": "ashby",
+    "endpoint": "https://api.ashbyhq.com/posting-api/job-board/broccoli?includeCompensation=true",
+    "baseUrl": "https://jobs.ashbyhq.com/broccoli",
+    "evidence_url": "https://jobs.ashbyhq.com/broccoli/e717ceb3-66b1-4db4-8820-6bd2de595ed4",
+    "note": "Senior Software Engineer, Bangalore — senior, confirms active India-hiring AI startup."
+  },
+  {
+    "company": "Fermi AI (Meraki Labs)",
+    "ats": "ashby",
+    "endpoint": "https://api.ashbyhq.com/posting-api/job-board/Fermi%20AI?includeCompensation=true",
+    "baseUrl": "https://jobs.ashbyhq.com/Fermi%20AI",
+    "evidence_url": "https://jobs.ashbyhq.com/Fermi%20AI/cb0afdca-2e2d-47ed-8cde-6277cb516888",
+    "note": "Literally titled 'Junior Full Stack Founding Engineer', HSR Bengaluru on-site — exact junior-title match, India deep-tech venture studio."
+  },
+  {
+    "company": "Onehouse",
+    "ats": "lever",
+    "endpoint": "https://api.lever.co/v0/postings/Onehouse?mode=json",
+    "baseUrl": "https://jobs.lever.co/Onehouse",
+    "evidence_url": "https://jobs.lever.co/Onehouse/2e0958a7-d86e-4b9e-9f81-b18bdf47f157/apply",
+    "note": "Backend Engineer - Distributed Systems (India) — data-lake infra company (Apache Hudi), explicit India role."
+  },
+  {
+    "company": "Drivetrain",
+    "ats": "lever",
+    "endpoint": "https://api.lever.co/v0/postings/drivetrain?mode=json",
+    "baseUrl": "https://jobs.lever.co/drivetrain",
+    "evidence_url": "https://jobs.lever.co/drivetrain/e2aafad8-a785-4515-9e3f-2b4981b727b8/apply",
+    "note": "Backend Engineer, India, Remote — India-based SaaS startup, role seniority not stated in snippet."
+  },
+  {
+    "company": "Tala",
+    "ats": "lever",
+    "endpoint": "https://api.lever.co/v0/postings/tala?mode=json",
+    "baseUrl": "https://jobs.lever.co/tala",
+    "evidence_url": "https://jobs.lever.co/tala/653aa0c7-fcb3-487f-b70c-00b461ebd725",
+    "note": "Senior Backend Engineer — senior, but posting explicitly confirms a Bangalore, India office hub alongside Nairobi/Manila/Mexico City."
+  },
+  {
+    "company": "Instawork",
+    "ats": "greenhouse",
+    "endpoint": "https://boards-api.greenhouse.io/v1/boards/instawork/jobs?content=true",
+    "baseUrl": "https://boards.greenhouse.io/instawork",
+    "evidence_url": "https://boards.greenhouse.io/instawork/jobs/4378893006",
+    "note": "QA Automation Engineer - SDET2, Bengaluru — posting explicitly says 'We welcome recent graduates to apply!' Exact fresher match, distinct from the SDET-3 senior posting already in your list."
+  },
+  {
+    "company": "Constructor TECH",
+    "ats": "greenhouse",
+    "endpoint": "https://boards-api.greenhouse.io/v1/boards/constructortech/jobs?content=true",
+    "baseUrl": "https://boards.greenhouse.io/constructortech",
+    "evidence_url": "https://boards.greenhouse.io/embed/job_app?for=constructortech&token=4671744101",
+    "note": "QA Engineer listing found requires 4+ yrs (senior), but confirms a real active board — worth monitoring for junior QA openings."
+  },
+  {
+    "company": "SingleStore",
+    "ats": "greenhouse",
+    "endpoint": "https://boards-api.greenhouse.io/v1/boards/singlestore/jobs?content=true",
+    "baseUrl": "https://boards.greenhouse.io/singlestore",
+    "evidence_url": "https://boards.greenhouse.io/singlestore/jobs/6304131",
+    "note": "SDET role explicitly confirms a Bangalore office among their global offices — database company, active India QA/engineering presence."
+  },
+  {
+    "company": "Nagarro",
+    "ats": "smartrecruiters",
+    "endpoint": "https://api.smartrecruiters.com/v1/companies/Nagarro1/postings?limit=100",
+    "baseUrl": "https://jobs.smartrecruiters.com/Nagarro1",
+    "evidence_url": "https://jobs.smartrecruiters.com/Nagarro1/743999907675488-staff-consultant-business-analyst",
+    "note": "Staff Consultant, Business Analyst, Remote India — senior (5+ yrs), but confirms large India-hiring digital engineering firm (18,000+ employees) worth monitoring for junior BA roles."
+  },
+  {
+    "company": "SGS",
+    "ats": "smartrecruiters",
+    "endpoint": "https://api.smartrecruiters.com/v1/companies/SGS/postings?limit=100",
+    "baseUrl": "https://jobs.smartrecruiters.com/SGS",
+    "evidence_url": "https://jobs.smartrecruiters.com/SGS/744000111116777--business-analyst-",
+    "note": "Business Analyst, Delhi — role wants Oracle EBS functional experience (senior-adjacent), confirms active India BA hiring."
+  },
+  {
+    "company": "Bosch Group",
+    "ats": "smartrecruiters",
+    "endpoint": "https://api.smartrecruiters.com/v1/companies/BoschGroup/postings?limit=100",
+    "baseUrl": "https://jobs.smartrecruiters.com/BoschGroup",
+    "evidence_url": "https://jobs.smartrecruiters.com/BoschGroup/744000119073167-in-rbai-business-analyst-product-controlling-in",
+    "note": "Business Analyst - Product Controlling, Bengaluru. Confirms Bosch uses SmartRecruiters for India roles (separate from any Workday presence they may also have)."
+  },
+  {
+    "company": "NECSWS",
+    "ats": "smartrecruiters",
+    "endpoint": "https://api.smartrecruiters.com/v1/companies/NECSWS/postings?limit=100",
+    "baseUrl": "https://jobs.smartrecruiters.com/NECSWS",
+    "evidence_url": "https://jobs.smartrecruiters.com/NECSWS/744000133000494-business-analyst",
+    "note": "Business Analyst, Mumbai — NEC Software Solutions, offshore support/tech services hub confirmed."
+  },
+  {
+  "company": "Visa (SmartRecruiters)",
+  "ats": "smartrecruiters",
+  "endpoint": "https://api.smartrecruiters.com/v1/companies/Visa/postings?limit=100",
+  "baseUrl": "https://jobs.smartrecruiters.com/Visa",
+  "evidence_url": "https://jobs.smartrecruiters.com/Visa/744000015045637-product-analyst-ai-ml-platform",
+  "note": "Bangalore, Product Analyst - AI/ML Platform. Visa posts some roles on SmartRecruiters in addition to their main Workday board."
+},
+ {
+    "company": "Zimperium",
+    "ats": "lever",
+    "endpoint": "https://api.lever.co/v0/postings/zimperium?mode=json",
+    "baseUrl": "https://jobs.lever.co/zimperium",
+    "evidence_url": "https://jobs.lever.co/zimperium/6e0239b1-9fa6-4967-89a3-f90889dde23b",
+    "note": "Senior Python/AI Engineer, Bangalore (Hybrid) — senior, but confirms mobile-security company with active Bangalore engineering team."
+  },
+  {
+    "company": "Orion Innovation",
+    "ats": "greenhouse",
+    "endpoint": "https://boards-api.greenhouse.io/v1/boards/orioninnovation/jobs?content=true",
+    "baseUrl": "https://boards.greenhouse.io/orioninnovation",
+    "evidence_url": "https://boards.greenhouse.io/embed/job_app?for=orioninnovation&token=4568647006",
+    "note": "GenAI Senior Project Manager, Mumbai — senior/PM track, but confirms active India GenAI delivery team at this digital engineering firm."
+  },
+  {
+    "company": "Copart",
+    "ats": "workday",
+    "endpoint": "https://copart.wd12.myworkdayjobs.com/wday/cxs/copart/Copart/jobs",
+    "baseUrl": "https://copart.wd12.myworkdayjobs.com/Copart",
+    "evidence_url": "https://copart.wd12.myworkdayjobs.com/en-US/Copart/job/Software-Engineer_JR107301",
+    "note": "Software Engineer posting in India confirmed the employer's active India engineering board."
+  },
+  {
+    "company": "NXP Semiconductors",
+    "ats": "workday",
+    "endpoint": "https://nxp.wd3.myworkdayjobs.com/wday/cxs/nxp/careers/jobs",
+    "baseUrl": "https://nxp.wd3.myworkdayjobs.com/careers",
+    "evidence_url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Sr-Software-Engineer_R-10063492",
+    "note": "Senior Software Engineer, Hyderabad; senior posting confirms an active India engineering team."
+  },
+  {
+    "company": "ResMed",
+    "ats": "workday",
+    "endpoint": "https://resmed.wd3.myworkdayjobs.com/wday/cxs/resmed/ResMed_External_Careers/jobs",
+    "baseUrl": "https://resmed.wd3.myworkdayjobs.com/ResMed_External_Careers",
+    "evidence_url": "https://resmed.wd3.myworkdayjobs.com/en-US/ResMed_External_Careers/job/Hyderabad-India/Software-Engineer---DotNet_JR_048434",
+    "note": "Software Engineer - .NET, Hyderabad, India."
+  },
+  {
+    "company": "Blackbaud",
+    "ats": "workday",
+    "endpoint": "https://blackbaud.wd1.myworkdayjobs.com/wday/cxs/blackbaud/ExternalCareers/jobs",
+    "baseUrl": "https://blackbaud.wd1.myworkdayjobs.com/ExternalCareers",
+    "evidence_url": "https://blackbaud.wd1.myworkdayjobs.com/en-US/ExternalCareers/job/Hyderabad---India/Software-Engineer--Senior-B_R0013486",
+    "note": "Senior Software Engineer, Hyderabad; confirms an active India product-engineering team."
+  },
+  {
+    "company": "Brookfield",
+    "ats": "workday",
+    "endpoint": "https://brookfield.wd5.myworkdayjobs.com/wday/cxs/brookfield/brookfield/jobs",
+    "baseUrl": "https://brookfield.wd5.myworkdayjobs.com/brookfield",
+    "evidence_url": "https://brookfield.wd5.myworkdayjobs.com/en-US/brookfield/job/AI-Engineer---Manager_R2044490-6",
+    "note": "AI Engineer - Manager, Mumbai; senior posting confirms an active India AI team."
+  },
+  {
+    "company": "Bread Financial",
+    "ats": "workday",
+    "endpoint": "https://alliancedata.wd5.myworkdayjobs.com/wday/cxs/alliancedata/breadfinancial_India/jobs",
+    "baseUrl": "https://alliancedata.wd5.myworkdayjobs.com/breadfinancial_India",
+    "evidence_url": "https://alliancedata.wd5.myworkdayjobs.com/en-US/breadfinancial_India/job/Bangalore-India/Senior-Data-Scientist_R1012433",
+    "note": "Senior Data Scientist, Bangalore, on an India-specific Workday board."
+  },
+  {
+    "company": "Advance Auto Parts",
+    "ats": "workday",
+    "endpoint": "https://advanceauto.wd5.myworkdayjobs.com/wday/cxs/advanceauto/AdvanceExternalCareers/jobs",
+    "baseUrl": "https://advanceauto.wd5.myworkdayjobs.com/AdvanceExternalCareers",
+    "evidence_url": "https://advanceauto.wd5.myworkdayjobs.com/en-US/AdvanceExternalCareers/job/Hyderabad-India/Data-Engineer_R-0583144-1",
+    "note": "Data Engineer, Hyderabad, India."
+  },
+  {
+    "company": "SS&C Technologies",
+    "ats": "workday",
+    "endpoint": "https://ssctech.wd1.myworkdayjobs.com/wday/cxs/ssctech/SSCTechnologies/jobs",
+    "baseUrl": "https://ssctech.wd1.myworkdayjobs.com/SSCTechnologies",
+    "evidence_url": "https://ssctech.wd1.myworkdayjobs.com/en-US/SSCTechnologies/job/Hyderabad-India/Data-Engineer_R44077",
+    "note": "Data Engineer, Hyderabad, India."
+  },
+  {
+    "company": "Northern Trust",
+    "ats": "workday",
+    "endpoint": "https://ntrs.wd1.myworkdayjobs.com/wday/cxs/ntrs/northerntrust/jobs",
+    "baseUrl": "https://ntrs.wd1.myworkdayjobs.com/northerntrust",
+    "evidence_url": "https://ntrs.wd1.myworkdayjobs.com/en-US/northerntrust/job/Pune-India/Associate--Software-Engineer_R154146",
+    "note": "Associate Software Engineer, Pune, India; directly relevant to entry-level filtering."
+  },
+  {
+    "company": "Light & Wonder",
+    "ats": "workday",
+    "endpoint": "https://lnw.wd5.myworkdayjobs.com/wday/cxs/lnw/LightWonderExternalCareers/jobs",
+    "baseUrl": "https://lnw.wd5.myworkdayjobs.com/LightWonderExternalCareers",
+    "evidence_url": "https://lnw.wd5.myworkdayjobs.com/LightWonderExternalCareers/job/Bangalore-India/ASSOCIATE-SOFTWARE-ENGINEER_R322507",
+    "note": "Associate Software Engineer, Bangalore, India; directly relevant to fresher filtering."
+  },
+  {
+    "company": "Diageo",
+    "ats": "workday",
+    "endpoint": "https://diageo.wd3.myworkdayjobs.com/wday/cxs/diageo/Diageo_Careers/jobs",
+    "baseUrl": "https://diageo.wd3.myworkdayjobs.com/Diageo_Careers",
+    "evidence_url": "https://diageo.wd3.myworkdayjobs.com/en-US/Diageo_Careers/job/Bangalore-India/Lead-Machine-Learning-Engineer_JR1105217",
+    "note": "Lead Machine Learning Engineer, Bangalore; senior posting confirms an active India ML team."
+  },
+  {
+    "company": "Illumina",
+    "ats": "workday",
+    "endpoint": "https://illumina.wd1.myworkdayjobs.com/wday/cxs/illumina/illumina-careers/jobs",
+    "baseUrl": "https://illumina.wd1.myworkdayjobs.com/illumina-careers",
+    "evidence_url": "https://illumina.wd1.myworkdayjobs.com/en-US/illumina-careers/job/Senior-Software-Engineer_42096-JOB",
+    "note": "Senior Software Engineer listing surfaced for India-Bengaluru; confirms an active India engineering team."
+  },
+  {
+    "company": "Johnson Controls",
+    "ats": "workday",
+    "endpoint": "https://jci.wd5.myworkdayjobs.com/wday/cxs/jci/JCI/jobs",
+    "baseUrl": "https://jci.wd5.myworkdayjobs.com/JCI",
+    "evidence_url": "https://jci.wd5.myworkdayjobs.com/en-US/JCI/job/Pune-Maharashtra-India/Software-Engineer---Data-Scientist_WD30271443",
+    "note": "Software Engineer - Data Scientist, Pune, Maharashtra, India."
+  },
+  {
+    "company": "Poshmark",
+    "ats": "workday",
+    "endpoint": "https://poshmark.wd503.myworkdayjobs.com/wday/cxs/poshmark/Poshmark_Careers/jobs",
+    "baseUrl": "https://poshmark.wd503.myworkdayjobs.com/Poshmark_Careers",
+    "evidence_url": "https://poshmark.wd503.myworkdayjobs.com/en-US/Poshmark_Careers/job/Senior-Software-Engineer-II--Data-Engineering_R-200343",
+    "note": "Senior Software Engineer II - Data Engineering, Chennai; confirms active India engineering."
+  },
+  {
+    "company": "Synchrony Financial",
+    "ats": "workday",
+    "endpoint": "https://synchronyfinancial.wd5.myworkdayjobs.com/wday/cxs/synchronyfinancial/careers/jobs",
+    "baseUrl": "https://synchronyfinancial.wd5.myworkdayjobs.com/careers",
+    "evidence_url": "https://synchronyfinancial.wd5.myworkdayjobs.com/en-US/careers/job/AVP-Data-Engineer--L10-_2601903-1",
+    "note": "Data Engineer opening covering Hyderabad, Bengaluru, Pune, Kolkata and Delhi/NCR; senior level but broad India tech presence confirmed."
+  },
+  {
+    "company": "Lynx Analytics",
+    "ats": "greenhouse",
+    "endpoint": "https://boards-api.greenhouse.io/v1/boards/lynxanalytics/jobs?content=true",
+    "baseUrl": "https://job-boards.greenhouse.io/lynxanalytics",
+    "evidence_url": "https://job-boards.greenhouse.io/lynxanalytics/jobs/8467259002",
+    "note": "Software Engineer posting in India."
+  },
+  {
+    "company": "Ensono",
+    "ats": "greenhouse",
+    "endpoint": "https://boards-api.greenhouse.io/v1/boards/ensono/jobs?content=true",
+    "baseUrl": "https://boards.greenhouse.io/ensono",
+    "evidence_url": "https://boards.greenhouse.io/ensono/jobs/4701467005",
+    "note": "Senior Java Software Engineer listing on a board with Bengaluru, Chennai, Hyderabad, Pune and Remote-India tech roles."
+  },
+  {
+    "company": "Apollo.io",
+    "ats": "greenhouse",
+    "endpoint": "https://boards-api.greenhouse.io/v1/boards/apolloio/jobs?content=true",
+    "baseUrl": "https://job-boards.greenhouse.io/apolloio",
+    "evidence_url": "https://job-boards.greenhouse.io/apolloio/jobs/6110329004",
+    "note": "Engineering posting explicitly available Remote-India."
+  },
+  {
+    "company": "Roku",
+    "ats": "greenhouse",
+    "endpoint": "https://boards-api.greenhouse.io/v1/boards/roku/jobs?content=true",
+    "baseUrl": "https://job-boards.greenhouse.io/roku",
+    "evidence_url": "https://job-boards.greenhouse.io/roku/jobs/7546375",
+    "note": "Software engineering posting in Bengaluru; senior role confirms active India engineering."
+  },
+  {
+    "company": "WEKA",
+    "ats": "greenhouse",
+    "endpoint": "https://boards-api.greenhouse.io/v1/boards/wekatest/jobs?content=true",
+    "baseUrl": "https://boards.greenhouse.io/wekatest",
+    "evidence_url": "https://boards.greenhouse.io/wekatest/jobs/5126500007",
+    "note": "Engineering posting in Bengaluru confirmed the exact Greenhouse token."
+  },
+  {
+    "company": "Unity",
+    "ats": "greenhouse",
+    "endpoint": "https://boards-api.greenhouse.io/v1/boards/unity3d/jobs?content=true",
+    "baseUrl": "https://boards.greenhouse.io/unity3d",
+    "evidence_url": "https://boards.greenhouse.io/unity3d/jobs/7875195",
+    "note": "Technical role in Bengaluru confirmed an active India engineering office."
+  },
+  {
+    "company": "Cambridge Mobile Telematics",
+    "ats": "greenhouse",
+    "endpoint": "https://boards-api.greenhouse.io/v1/boards/cambridgemobiletelematics/jobs?content=true",
+    "baseUrl": "https://job-boards.greenhouse.io/cambridgemobiletelematics",
+    "evidence_url": "https://job-boards.greenhouse.io/cambridgemobiletelematics/jobs/7055266",
+    "note": "Engineering posting in Chennai, India."
+  },
+  {
+    "company": "Nirmata",
+    "ats": "greenhouse",
+    "endpoint": "https://boards-api.greenhouse.io/v1/boards/nirmata/jobs?content=true",
+    "baseUrl": "https://job-boards.greenhouse.io/nirmata",
+    "evidence_url": "https://job-boards.greenhouse.io/nirmata/jobs/5040355008",
+    "note": "Software Engineer Intern, India; directly relevant to fresher filtering."
+  },
+  {
+    "company": "Graviton Research Capital",
+    "ats": "greenhouse",
+    "endpoint": "https://boards-api.greenhouse.io/v1/boards/gravitonresearchcapital/jobs?content=true",
+    "baseUrl": "https://job-boards.greenhouse.io/gravitonresearchcapital",
+    "evidence_url": "https://job-boards.greenhouse.io/gravitonresearchcapital/jobs/8630807002",
+    "note": "Technology internship in Gurugram; directly relevant to fresher filtering."
+  },
+  {
+    "company": "Speechify",
+    "ats": "greenhouse",
+    "endpoint": "https://boards-api.greenhouse.io/v1/boards/speechify/jobs?content=true",
+    "baseUrl": "https://job-boards.greenhouse.io/speechify",
+    "evidence_url": "https://job-boards.greenhouse.io/speechify/jobs/5975078004",
+    "note": "Software engineering posting in Ahmedabad, India."
+  },
+  {
+    "company": "Sauce Labs",
+    "ats": "greenhouse",
+    "endpoint": "https://boards-api.greenhouse.io/v1/boards/saucelabs/jobs?content=true",
+    "baseUrl": "https://job-boards.greenhouse.io/saucelabs",
+    "evidence_url": "https://job-boards.greenhouse.io/saucelabs/jobs/7527282",
+    "note": "Engineering posting in Gurgaon, India."
+  },
+  {
+    "company": "GoDaddy",
+    "ats": "greenhouse",
+    "endpoint": "https://boards-api.greenhouse.io/v1/boards/godaddy/jobs?content=true",
+    "baseUrl": "https://job-boards.greenhouse.io/godaddy",
+    "evidence_url": "https://job-boards.greenhouse.io/godaddy/jobs/4427018003",
+    "note": "Engineering posting available in India/Remote-India."
+  },
+  {
+    "company": "Inovalon",
+    "ats": "greenhouse",
+    "endpoint": "https://boards-api.greenhouse.io/v1/boards/inovalon/jobs?content=true",
+    "baseUrl": "https://job-boards.greenhouse.io/inovalon",
+    "evidence_url": "https://job-boards.greenhouse.io/inovalon/jobs/7617928003",
+    "note": "Application Security Engineer, Hyderabad, India."
+  },
+  {
+    "company": "Redwood Software",
+    "ats": "greenhouse",
+    "endpoint": "https://boards-api.greenhouse.io/v1/boards/redwoodsoftware/jobs?content=true",
+    "baseUrl": "https://job-boards.greenhouse.io/redwoodsoftware",
+    "evidence_url": "https://job-boards.greenhouse.io/redwoodsoftware/jobs/4164400009",
+    "note": "Software/SRE posting in Hyderabad confirmed the employer's active India engineering board."
+  },
+  {
+    "company": "Definian",
+    "ats": "greenhouse",
+    "endpoint": "https://boards-api.greenhouse.io/v1/boards/definian/jobs?content=true",
+    "baseUrl": "https://job-boards.greenhouse.io/definian",
+    "evidence_url": "https://job-boards.greenhouse.io/definian/jobs/5041108007",
+    "note": "Technology posting in Hyderabad, India."
+  },
+  {
+    "company": "Yext",
+    "ats": "greenhouse",
+    "endpoint": "https://boards-api.greenhouse.io/v1/boards/yext/jobs?content=true",
+    "baseUrl": "https://job-boards.greenhouse.io/yext",
+    "evidence_url": "https://job-boards.greenhouse.io/yext/jobs/8010707",
+    "note": "Engineering posting in Hyderabad, India."
+  },
+  {
+    "company": "Envoy Global",
+    "ats": "greenhouse",
+    "endpoint": "https://boards-api.greenhouse.io/v1/boards/envoyglobalinc/jobs?content=true",
+    "baseUrl": "https://job-boards.greenhouse.io/envoyglobalinc",
+    "evidence_url": "https://job-boards.greenhouse.io/envoyglobalinc/jobs/6030165004",
+    "note": "Technology posting in Hyderabad, India."
+  },
+  {
+    "company": "Agoda",
+    "ats": "greenhouse",
+    "endpoint": "https://boards-api.greenhouse.io/v1/boards/agoda/jobs?content=true",
+    "baseUrl": "https://job-boards.greenhouse.io/agoda",
+    "evidence_url": "https://job-boards.greenhouse.io/agoda/jobs/7640823",
+    "note": "Backend engineering posting in Gurugram, India."
+  },
+  {
+    "company": "ChargePoint",
+    "ats": "greenhouse",
+    "endpoint": "https://boards-api.greenhouse.io/v1/boards/chargepoint/jobs?content=true",
+    "baseUrl": "https://job-boards.greenhouse.io/chargepoint",
+    "evidence_url": "https://job-boards.greenhouse.io/chargepoint/jobs/8490671002",
+    "note": "Software Engineer posting in Gurugram, India."
+  },
+  {
+    "company": "Samsara",
+    "ats": "greenhouse",
+    "endpoint": "https://boards-api.greenhouse.io/v1/boards/samsara/jobs?content=true",
+    "baseUrl": "https://job-boards.greenhouse.io/samsara",
+    "evidence_url": "https://job-boards.greenhouse.io/samsara/jobs/8020028",
+    "note": "Remote-India engineering posting; senior level but confirms India eligibility."
+  },
+  {
+    "company": "Appian",
+    "ats": "greenhouse",
+    "endpoint": "https://boards-api.greenhouse.io/v1/boards/appian/jobs?content=true",
+    "baseUrl": "https://job-boards.greenhouse.io/appian",
+    "evidence_url": "https://job-boards.greenhouse.io/appian/jobs/7947832",
+    "note": "Software Engineer posting in Chennai, India."
+  },
+  {
+    "company": "Arcadia",
+    "ats": "greenhouse",
+    "endpoint": "https://boards-api.greenhouse.io/v1/boards/arcadiacareers/jobs?content=true",
+    "baseUrl": "https://job-boards.greenhouse.io/arcadiacareers",
+    "evidence_url": "https://job-boards.greenhouse.io/arcadiacareers/jobs/8620708002",
+    "note": "Security engineering posting in Chennai, India."
+  },
+  {
+    "company": "Epic Kids",
+    "ats": "greenhouse",
+    "endpoint": "https://boards-api.greenhouse.io/v1/boards/epickids/jobs?content=true",
+    "baseUrl": "https://job-boards.greenhouse.io/epickids",
+    "evidence_url": "https://job-boards.greenhouse.io/epickids/jobs/7806493003",
+    "note": "QA engineering posting available Remote-India."
+  },
+  {
+    "company": "Episode Six",
+    "ats": "greenhouse",
+    "endpoint": "https://boards-api.greenhouse.io/v1/boards/episodesixlinkedin/jobs?content=true",
+    "baseUrl": "https://job-boards.greenhouse.io/episodesixlinkedin",
+    "evidence_url": "https://job-boards.greenhouse.io/episodesixlinkedin/jobs/6105157004",
+    "note": "Software Engineer posting in Chennai, India."
+  },
+  {
+    "company": "DevRev",
+    "ats": "greenhouse",
+    "endpoint": "https://boards-api.greenhouse.io/v1/boards/devrev/jobs?content=true",
+    "baseUrl": "https://job-boards.greenhouse.io/devrev",
+    "evidence_url": "https://job-boards.greenhouse.io/devrev/jobs/5668939004",
+    "note": "AI/platform engineering posting for Bangalore/Chennai."
+  },
+  {
+    "company": "Nerdy",
+    "ats": "greenhouse",
+    "endpoint": "https://boards-api.greenhouse.io/v1/boards/nerdy/jobs?content=true",
+    "baseUrl": "https://job-boards.greenhouse.io/nerdy",
+    "evidence_url": "https://job-boards.greenhouse.io/nerdy/jobs/7931311",
+    "note": "AI-native engineering contractor role explicitly available Remote-India."
+  },
+  {
+    "company": "Stripe",
+    "ats": "greenhouse",
+    "endpoint": "https://boards-api.greenhouse.io/v1/boards/stripe/jobs?content=true",
+    "baseUrl": "https://job-boards.greenhouse.io/stripe",
+    "evidence_url": "https://job-boards.greenhouse.io/stripe/jobs/7867389",
+    "note": "Cloud Security Engineer, Bengaluru; confirms active India engineering hiring."
+  },
+  {
+    "company": "Airbnb",
+    "ats": "greenhouse",
+    "endpoint": "https://boards-api.greenhouse.io/v1/boards/airbnb/jobs?content=true",
+    "baseUrl": "https://job-boards.greenhouse.io/airbnb",
+    "evidence_url": "https://job-boards.greenhouse.io/airbnb/jobs/8053132",
+    "note": "Technical/AI solutions role in Bangalore confirms an active India technology team."
+  },
+  {
+    "company": "Redpin",
+    "ats": "greenhouse",
+    "endpoint": "https://boards-api.greenhouse.io/v1/boards/currenciesdirect/jobs?content=true",
+    "baseUrl": "https://boards.greenhouse.io/currenciesdirect",
+    "evidence_url": "https://boards.greenhouse.io/currenciesdirect/jobs/4683134101",
+    "note": "Employer board lists data engineering, backend and DevOps roles in Hyderabad; exact token retained from the real posting URL."
+  },
+  {
+    "company": "Stable Money",
+    "ats": "lever",
+    "endpoint": "https://api.lever.co/v0/postings/stable-money1?mode=json",
+    "baseUrl": "https://jobs.lever.co/stable-money1",
+    "evidence_url": "https://jobs.lever.co/stable-money1/bfcb73b0-353c-4b78-b489-02db4ccaa637",
+    "note": "Software Engineer I (Backend), Bengaluru; directly relevant to entry-level filtering."
+  },
+  {
+    "company": "Kobie Marketing",
+    "ats": "lever",
+    "endpoint": "https://api.lever.co/v0/postings/kobie?mode=json",
+    "baseUrl": "https://jobs.lever.co/kobie",
+    "evidence_url": "https://jobs.lever.co/kobie/e117ba1f-965f-4096-8ae2-ddaf243c1ae1",
+    "note": "Software Engineer, Bengaluru, for the employer's India Tech Hub."
+  },
+  {
+    "company": "Keyloop",
+    "ats": "lever",
+    "endpoint": "https://api.lever.co/v0/postings/keyloop?mode=json",
+    "baseUrl": "https://jobs.lever.co/keyloop",
+    "evidence_url": "https://jobs.lever.co/keyloop/3d0a45e9-86c8-424c-b4e0-89ed55a70da6",
+    "note": "Principal Network Engineer, Hyderabad; senior role confirms a growing India engineering location."
+  },
+  {
+    "company": "Hevo Data",
+    "ats": "lever",
+    "endpoint": "https://api.lever.co/v0/postings/hevodata?mode=json",
+    "baseUrl": "https://jobs.lever.co/hevodata",
+    "evidence_url": "https://jobs.lever.co/hevodata/a7f26742-f965-4a59-840d-f7afa0a28176",
+    "note": "AI Solution Engineer, Bangalore; board also shows SDE and internship tracks in India."
+  },
+  {
+    "company": "Yuno",
+    "ats": "lever",
+    "endpoint": "https://api.lever.co/v0/postings/yuno?mode=json",
+    "baseUrl": "https://jobs.lever.co/yuno",
+    "evidence_url": "https://jobs.lever.co/yuno/11c53d1c-9bf0-41c7-8547-35ad174dacb2",
+    "note": "Senior AI Engineer, Hyderabad; confirms an active India AI/backend team."
+  },
+  {
+    "company": "Aeva",
+    "ats": "lever",
+    "endpoint": "https://api.lever.co/v0/postings/aeva?mode=json",
+    "baseUrl": "https://jobs.lever.co/aeva",
+    "evidence_url": "https://jobs.lever.co/aeva/511bda52-6282-46a0-a06c-79785669e6e0",
+    "note": "Senior Embedded Software Engineer, Bangalore; confirms active India software and testing teams."
+  },
+  {
+    "company": "Crypto.com",
+    "ats": "lever",
+    "endpoint": "https://api.lever.co/v0/postings/crypto?mode=json",
+    "baseUrl": "https://jobs.lever.co/crypto",
+    "evidence_url": "https://jobs.lever.co/crypto/1edb4f86-713f-44a9-8e9c-489c662d810c",
+    "note": "Application Support Engineer, Bangalore, India, Remote; asks for 2+ years and includes Linux, SQL, Python and DevOps skills."
+  },
+  {
+    "company": "Extreme Networks",
+    "ats": "lever",
+    "endpoint": "https://api.lever.co/v0/postings/extremenetworks?mode=json",
+    "baseUrl": "https://jobs.lever.co/extremenetworks",
+    "evidence_url": "https://jobs.lever.co/extremenetworks/7e5b6e4c-faef-44ab-8208-36e95e8542f4",
+    "note": "AI Staff Software Systems Engineer (GenAI/Big Data), Bangalore; senior role confirms broad India AI, QA and engineering hiring."
+  },
+  {
+    "company": "Supa",
+    "ats": "ashby",
+    "endpoint": "https://api.ashbyhq.com/posting-api/job-board/supa?includeCompensation=true",
+    "baseUrl": "https://jobs.ashbyhq.com/supa",
+    "evidence_url": "https://jobs.ashbyhq.com/supa/2469490c-2025-4f67-8bc1-f75dbf75be68",
+    "note": "Product Engineer, Bangalore."
+  },
+  {
+    "company": "Emergence Software",
+    "ats": "ashby",
+    "endpoint": "https://api.ashbyhq.com/posting-api/job-board/emergence?includeCompensation=true",
+    "baseUrl": "https://jobs.ashbyhq.com/emergence",
+    "evidence_url": "https://jobs.ashbyhq.com/emergence/c72a7952-5d8a-4b2e-b0b2-0e349152fefd",
+    "note": "Software Development Engineer I, Remote-India; directly relevant to entry-level filtering."
+  },
+  {
+    "company": "Notion",
+    "ats": "ashby",
+    "endpoint": "https://api.ashbyhq.com/posting-api/job-board/notion?includeCompensation=true",
+    "baseUrl": "https://jobs.ashbyhq.com/notion",
+    "evidence_url": "https://jobs.ashbyhq.com/notion/49bdf081-6e20-4323-8c73-6d6b19544ff5",
+    "note": "Software Engineer, Developer Experience, Hyderabad; board also exposes an Early Career department."
+  },
+  {
+    "company": "Outmarket AI",
+    "ats": "ashby",
+    "endpoint": "https://api.ashbyhq.com/posting-api/job-board/outmarket?includeCompensation=true",
+    "baseUrl": "https://jobs.ashbyhq.com/outmarket",
+    "evidence_url": "https://jobs.ashbyhq.com/outmarket/10a2487a-1594-4400-8404-9ad2e96eb253",
+    "note": "Software Engineer available Remote-India, building AI-powered product features."
+  },
+  {
+    "company": "Kantiv",
+    "ats": "ashby",
+    "endpoint": "https://api.ashbyhq.com/posting-api/job-board/kantiv?includeCompensation=true",
+    "baseUrl": "https://jobs.ashbyhq.com/kantiv",
+    "evidence_url": "https://jobs.ashbyhq.com/kantiv/d28a422f-970b-4ad8-869f-a8d02deda68f",
+    "note": "Agentic Systems Engineer, Remote-India."
+  },
+  {
+    "company": "Cartesia",
+    "ats": "ashby",
+    "endpoint": "https://api.ashbyhq.com/posting-api/job-board/cartesia?includeCompensation=true",
+    "baseUrl": "https://jobs.ashbyhq.com/cartesia",
+    "evidence_url": "https://jobs.ashbyhq.com/cartesia/9d9c6cc0-218c-4fd4-a478-3e4b37de1d76",
+    "note": "Software Engineer, Platform (India), Bangalore/Remote; active India AI engineering office confirmed."
+  },
+  {
+    "company": "Playpower Labs",
+    "ats": "ashby",
+    "endpoint": "https://api.ashbyhq.com/posting-api/job-board/playpowerlabs?includeCompensation=true",
+    "baseUrl": "https://jobs.ashbyhq.com/playpowerlabs",
+    "evidence_url": "https://jobs.ashbyhq.com/playpowerlabs/6087e852-9d62-4103-aa77-c3773974549a",
+    "note": "Software Engineer, Fully Remote - India Only."
+  },
+  {
+    "company": "Granica",
+    "ats": "ashby",
+    "endpoint": "https://api.ashbyhq.com/posting-api/job-board/granica?includeCompensation=true",
+    "baseUrl": "https://jobs.ashbyhq.com/granica",
+    "evidence_url": "https://jobs.ashbyhq.com/granica/7aaa13dc-df48-446f-8df6-1554158b84f1",
+    "note": "Software Engineer, Infrastructure, Bengaluru; senior requirements but active India data/AI infrastructure team confirmed."
+  },
+  {
+    "company": "HackerOne",
+    "ats": "ashby",
+    "endpoint": "https://api.ashbyhq.com/posting-api/job-board/hackerone?includeCompensation=true",
+    "baseUrl": "https://jobs.ashbyhq.com/hackerone",
+    "evidence_url": "https://jobs.ashbyhq.com/hackerone/f5f1f2a7-46ee-4f3c-92f6-b82d1df9f888",
+    "note": "Senior Software Engineer, Pune; senior posting confirms active India product/AI engineering."
+  },
+  {
+    "company": "Eurofins",
+    "ats": "smartrecruiters",
+    "endpoint": "https://api.smartrecruiters.com/v1/companies/Eurofins/postings?limit=100",
+    "baseUrl": "https://jobs.smartrecruiters.com/Eurofins",
+    "evidence_url": "https://jobs.smartrecruiters.com/Eurofins/744000083386435-it-test-automation-engineer",
+    "note": "IT Test Automation Engineer, Bengaluru; accepts 0-4 years and is directly relevant to fresher QA/SDET filtering."
+  },
+  {
+    "company": "LinkedIn",
+    "ats": "smartrecruiters",
+    "endpoint": "https://api.smartrecruiters.com/v1/companies/LinkedIn3/postings?limit=100",
+    "baseUrl": "https://jobs.smartrecruiters.com/LinkedIn3",
+    "evidence_url": "https://jobs.smartrecruiters.com/LinkedIn3/744000124342519-enterprise-engineer",
+    "note": "Enterprise Engineer, Bengaluru, India."
+  },
+  {
+    "company": "Arista Networks",
+    "ats": "smartrecruiters",
+    "endpoint": "https://api.smartrecruiters.com/v1/companies/AristaNetworks/postings?limit=100",
+    "baseUrl": "https://jobs.smartrecruiters.com/AristaNetworks",
+    "evidence_url": "https://jobs.smartrecruiters.com/AristaNetworks/744000132384634-software-engineer-wifi-embedded-",
+    "note": "Software Engineer - WiFi Embedded, Chennai, India."
+  },
+  {
+    "company": "Sectigo",
+    "ats": "smartrecruiters",
+    "endpoint": "https://api.smartrecruiters.com/v1/companies/Sectigo/postings?limit=100",
+    "baseUrl": "https://jobs.smartrecruiters.com/Sectigo",
+    "evidence_url": "https://jobs.smartrecruiters.com/Sectigo/3743990013531516-senior-full-stack-software-engineer",
+    "note": "Senior Full-Stack Software Engineer, Chennai; confirms an active India SaaS engineering team."
+  },
+  {
+    "company": "SanDisk",
+    "ats": "smartrecruiters",
+    "endpoint": "https://api.smartrecruiters.com/v1/companies/Sandisk/postings?limit=100",
+    "baseUrl": "https://jobs.smartrecruiters.com/Sandisk",
+    "evidence_url": "https://jobs.smartrecruiters.com/Sandisk/744000136728890-software-engineer-software-development-engineering-apps-3-6-years",
+    "note": "DevOps-focused Software Engineer, Bangalore, India."
+  },
+  {
+    "company": "BlueOptima",
+    "ats": "smartrecruiters",
+    "endpoint": "https://api.smartrecruiters.com/v1/companies/BlueOptima/postings?limit=100",
+    "baseUrl": "https://jobs.smartrecruiters.com/BlueOptima",
+    "evidence_url": "https://jobs.smartrecruiters.com/BlueOptima/744000125808289-associate-machine-learning-data-engineer",
+    "note": "Associate Machine Learning Data Engineer, Bangalore; directly relevant to entry-level filtering."
+  },
+  {
+    "company": "The Nielsen Company",
+    "ats": "smartrecruiters",
+    "endpoint": "https://api.smartrecruiters.com/v1/companies/TheNielsenCompany/postings?limit=100",
+    "baseUrl": "https://jobs.smartrecruiters.com/TheNielsenCompany",
+    "evidence_url": "https://jobs.smartrecruiters.com/TheNielsenCompany/3743990012609246--data-engineer-",
+    "note": "Data Engineer posting for Bangalore/Gurgaon, India."
+  },
+  {
+    "company": "Mattel",
+    "ats": "smartrecruiters",
+    "endpoint": "https://api.smartrecruiters.com/v1/companies/MattelInc/postings?limit=100",
+    "baseUrl": "https://jobs.smartrecruiters.com/MattelInc",
+    "evidence_url": "https://jobs.smartrecruiters.com/MattelInc/744000138173139-data-engineer",
+    "note": "Data Engineer, Hyderabad, India."
+  },
+  {
+    "company": "Freshworks",
+    "ats": "smartrecruiters",
+    "endpoint": "https://api.smartrecruiters.com/v1/companies/Freshworks/postings?limit=100",
+    "baseUrl": "https://jobs.smartrecruiters.com/Freshworks",
+    "evidence_url": "https://jobs.smartrecruiters.com/Freshworks/744000132139255-lead-software-engineer-machine-learning",
+    "note": "Lead Software Engineer - Machine Learning, Chennai; senior role confirms active India software, data and ML hiring."
+  },
+  {
+    "company": "Shippeo",
+    "ats": "smartrecruiters",
+    "endpoint": "https://api.smartrecruiters.com/v1/companies/Shippeo/postings?limit=100",
+    "baseUrl": "https://jobs.smartrecruiters.com/Shippeo",
+    "evidence_url": "https://jobs.smartrecruiters.com/Shippeo/744000136209449-senior-data-integration-engineer-bangalore",
+    "note": "Senior Data Integration Engineer, Bangalore; confirms active India data engineering."
+  },
+  {
+    "company": "Sopra Steria",
+    "ats": "smartrecruiters",
+    "endpoint": "https://api.smartrecruiters.com/v1/companies/SopraSteria1/postings?limit=100",
+    "baseUrl": "https://jobs.smartrecruiters.com/SopraSteria1",
+    "evidence_url": "https://jobs.smartrecruiters.com/SopraSteria1/744000135726595-associate-engineer-for-robotics-students-",
+    "note": "Associate Engineer for Robotics Students, Chennai; directly relevant to fresher filtering."
+  },
+  {
+    "company": "T-Systems ICT India",
+    "ats": "smartrecruiters",
+    "endpoint": "https://api.smartrecruiters.com/v1/companies/T-SystemsICTIndiaPvtLtd1/postings?limit=100",
+    "baseUrl": "https://jobs.smartrecruiters.com/T-SystemsICTIndiaPvtLtd1",
+    "evidence_url": "https://jobs.smartrecruiters.com/T-SystemsICTIndiaPvtLtd1/744000102020885-data-engineer",
+    "note": "Data Engineer posting on the employer's India-specific SmartRecruiters company board."
+  },
+  {
+    "company": "Wise",
+    "ats": "smartrecruiters",
+    "endpoint": "https://api.smartrecruiters.com/v1/companies/wise/postings?limit=100",
+    "baseUrl": "https://jobs.smartrecruiters.com/wise",
+    "evidence_url": "https://jobs.smartrecruiters.com/wise/744000127361079",
+    "note": "Principal Architect/Product Engineer, Hyderabad; posting says Hyderabad is a new full-stack engineering hub."
+  },
+  {
+    "company": "Sutherland",
+    "ats": "smartrecruiters",
+    "endpoint": "https://api.smartrecruiters.com/v1/companies/Sutherland/postings?limit=100",
+    "baseUrl": "https://jobs.smartrecruiters.com/Sutherland",
+    "evidence_url": "https://jobs.smartrecruiters.com/Sutherland/744000129503041-lead-software-engineer",
+    "note": "Lead Software Engineer, Hyderabad; senior posting confirms active India AI/cloud engineering."
+  },
+  {
+    "company": "Western Digital",
+    "ats": "smartrecruiters",
+    "endpoint": "https://api.smartrecruiters.com/v1/companies/WesternDigital/postings?limit=100",
+    "baseUrl": "https://jobs.smartrecruiters.com/WesternDigital",
+    "evidence_url": "https://jobs.smartrecruiters.com/WesternDigital/744000135711559-principal-engineer-data-analytics-engineering-8-years-",
+    "note": "Principal Engineer, Data Analytics Engineering, Bengaluru; senior role confirms broad active India technical hiring."
+  },
+  {
+    "company": "Telefonica Tech",
+    "ats": "smartrecruiters",
+    "endpoint": "https://api.smartrecruiters.com/v1/companies/TelefonicaTech/postings?limit=100",
+    "baseUrl": "https://jobs.smartrecruiters.com/TelefonicaTech",
+    "evidence_url": "https://jobs.smartrecruiters.com/TelefonicaTech/744000137098379-data-engineer-net-specialist-",
+    "note": "Data Engineer (.NET Specialist), Pune, India."
+  },
+  {
+    "company": "Netomi",
+    "ats": "lever",
+    "endpoint": "https://api.lever.co/v0/postings/netomi?mode=json",
+    "baseUrl": "https://jobs.lever.co/netomi",
+    "evidence_url": "https://jobs.lever.co/netomi/d61510b5-44ea-44c9-8441-097a48bf5e77",
+    "note": "SDE I - Backend, Remote-India; directly relevant to entry-level filtering."
+  },
+  {
+    "company": "Sardine",
+    "ats": "ashby",
+    "endpoint": "https://api.ashbyhq.com/posting-api/job-board/sardine?includeCompensation=true",
+    "baseUrl": "https://jobs.ashbyhq.com/sardine",
+    "evidence_url": "https://jobs.ashbyhq.com/sardine/122f0715-0d0a-42b3-94f5-0a59d4169d69",
+    "note": "Software Backend Engineer, Remote-India; applicants must reside in India."
+  },
+  {
+    "company": "Confluent",
+    "ats": "ashby",
+    "endpoint": "https://api.ashbyhq.com/posting-api/job-board/confluent?includeCompensation=true",
+    "baseUrl": "https://jobs.ashbyhq.com/confluent",
+    "evidence_url": "https://jobs.ashbyhq.com/confluent/a93ac05b-0ba3-41a9-aa42-a6258c5c5584",
+    "note": "Staff Software Engineer I - Confluent Platform, IN Remote India; senior posting confirms India-remote engineering hiring."
+  },
+  {
+    "company": "Salary Finance",
+    "ats": "greenhouse",
+    "endpoint": "https://boards-api.greenhouse.io/v1/boards/salaryfinance/jobs?content=true",
+    "baseUrl": "https://job-boards.greenhouse.io/salaryfinance",
+    "evidence_url": "https://job-boards.greenhouse.io/salaryfinance/jobs/7511701",
+    "note": "Senior Software Engineer, Remote-India; confirms India-remote product engineering hiring."
+  },
+  {
+    "company": "HighLevel",
+    "ats": "lever",
+    "endpoint": "https://api.lever.co/v0/postings/gohighlevel?mode=json",
+    "baseUrl": "https://jobs.lever.co/gohighlevel",
+    "evidence_url": "https://jobs.lever.co/gohighlevel/b497d5c0-1f46-4862-a814-5f4969675712",
+    "note": "Software Development Engineer III - Backend, Remote-India; board also shows remote SDET, data and AI teams across India."
+  },
+  {
+    "company": "3Pillar",
+    "ats": "lever",
+    "endpoint": "https://api.lever.co/v0/postings/3pillarglobal?mode=json",
+    "baseUrl": "https://jobs.lever.co/3pillarglobal",
+    "evidence_url": "https://jobs.lever.co/3pillarglobal/43035257-6a08-4e1e-ac04-88c04188af29",
+    "note": "Senior Software Engineer - Java, Remote-India; confirms India-wide remote software, data and DevOps hiring."
+  },
+  {"company":"Skylo Technologies","ats":"ashby","endpoint":"https://api.ashbyhq.com/posting-api/job-board/skylo?includeCompensation=true","baseUrl":"https://jobs.ashbyhq.com/skylo","evidence_url":"https://jobs.ashbyhq.com/skylo/e64aefde-48a0-4210-a570-1f872c4f5701","note":"Senior Software Engineer, Full Stack; Bangalore, India; hybrid. Senior role confirms an active India product-engineering team."},
+  {"company":"Wisdom AI","ats":"ashby","endpoint":"https://api.ashbyhq.com/posting-api/job-board/Wisdom-AI?includeCompensation=true","baseUrl":"https://jobs.ashbyhq.com/Wisdom-AI","evidence_url":"https://jobs.ashbyhq.com/Wisdom-AI/a590329c-488f-4382-944e-bb70d04bb674/application","note":"Agentic Context Engineer, Bengaluru; onsite Agentic AI role."},
+  {"company":"d-Matrix","ats":"ashby","endpoint":"https://api.ashbyhq.com/posting-api/job-board/d-Matrix?includeCompensation=true","baseUrl":"https://jobs.ashbyhq.com/d-Matrix","evidence_url":"https://jobs.ashbyhq.com/d-Matrix/804cd4e2-6f04-4b46-ad89-e251fdbc58ce","note":"Sr. Staff Software Machine Learning Test Engineer, Bangalore; hybrid. Senior role confirms an active India ML-test team."},
+  {"company":"kAIgentic","ats":"ashby","endpoint":"https://api.ashbyhq.com/posting-api/job-board/kaigentic?includeCompensation=true","baseUrl":"https://jobs.ashbyhq.com/kaigentic","evidence_url":"https://jobs.ashbyhq.com/kaigentic/b4eeeb6c-2eb2-4ece-9665-fdaa97f657d8","note":"SDE III - DevOps, Bengaluru; hybrid. Confirms an active India engineering team."},
+  {"company":"Kong","ats":"ashby","endpoint":"https://api.ashbyhq.com/posting-api/job-board/kong?includeCompensation=true","baseUrl":"https://jobs.ashbyhq.com/kong","evidence_url":"https://jobs.ashbyhq.com/kong/1ad3f9b8-9d2b-46e6-9891-7109b3bb4b0e","note":"Software Engineer II, Managed Gateways; Bangalore; onsite."},
+  {"company":"LG Ad Solutions","ats":"ashby","endpoint":"https://api.ashbyhq.com/posting-api/job-board/lgads?includeCompensation=true","baseUrl":"https://jobs.ashbyhq.com/lgads","evidence_url":"https://jobs.ashbyhq.com/lgads/57f48091-6bf5-4dff-9e16-5f856f6c0b20","note":"Software Engineer II - Data Engineer, Bangalore."},
+  {"company":"Sarvam","ats":"ashby","endpoint":"https://api.ashbyhq.com/posting-api/job-board/sarvam?includeCompensation=true","baseUrl":"https://jobs.ashbyhq.com/sarvam","evidence_url":"https://jobs.ashbyhq.com/sarvam/64776762-9f78-4c13-83d7-435c593aa48b","note":"DevOps Engineer - Studio Platform, Bengaluru; onsite India AI startup role."},
+  {"company":"Aspora","ats":"ashby","endpoint":"https://api.ashbyhq.com/posting-api/job-board/Aspora?includeCompensation=true","baseUrl":"https://jobs.ashbyhq.com/Aspora","evidence_url":"https://jobs.ashbyhq.com/Aspora/2315ceee-2b8a-4c94-8866-39a4ec49d5f0","note":"Senior DevOps Engineer, Bangalore; senior role confirms an active India platform team."},
+  {"company":"SentiLink","ats":"ashby","endpoint":"https://api.ashbyhq.com/posting-api/job-board/sentilink?includeCompensation=true","baseUrl":"https://jobs.ashbyhq.com/sentilink","evidence_url":"https://jobs.ashbyhq.com/sentilink/b4d3c23a-0b75-4749-ad5d-ef243d38a298","note":"Senior Infrastructure Engineer, Bengaluru, India; senior role confirms an active India infrastructure team."},
+  {"company":"Ema","ats":"ashby","endpoint":"https://api.ashbyhq.com/posting-api/job-board/ema?includeCompensation=true","baseUrl":"https://jobs.ashbyhq.com/ema","evidence_url":"https://jobs.ashbyhq.com/ema/6d5f59a2-68c0-49ea-b575-478f0ae3b75c","note":"Site Reliability Engineer, Bengaluru, India."},
+  {"company":"Parspec","ats":"ashby","endpoint":"https://api.ashbyhq.com/posting-api/job-board/parspec?includeCompensation=true","baseUrl":"https://jobs.ashbyhq.com/parspec","evidence_url":"https://jobs.ashbyhq.com/parspec/e6ef5033-1497-4272-abee-5358ee6340c3/application","note":"Senior Machine Learning Engineer, Bangalore; hybrid. Senior role confirms an active India ML team."},
+  {"company":"Tempo","ats":"ashby","endpoint":"https://api.ashbyhq.com/posting-api/job-board/tempo?includeCompensation=true","baseUrl":"https://jobs.ashbyhq.com/tempo","evidence_url":"https://jobs.ashbyhq.com/tempo/374cb123-0dde-427f-a907-e59b66d14624","note":"Full-Stack Engineer; India (Remote)."},
+  {"company":"Credo AI","ats":"ashby","endpoint":"https://api.ashbyhq.com/posting-api/job-board/credo.ai?includeCompensation=true","baseUrl":"https://jobs.ashbyhq.com/credo.ai","evidence_url":"https://jobs.ashbyhq.com/credo.ai/73f15a77-9b84-46de-bd9e-bf76f70b6d84","note":"Senior AI Engineer, AI Systems; India Remote. Senior role confirms an active India-remote AI team."},
+  {"company":"Hopper","ats":"ashby","endpoint":"https://api.ashbyhq.com/posting-api/job-board/hopper?includeCompensation=true","baseUrl":"https://jobs.ashbyhq.com/hopper","evidence_url":"https://jobs.ashbyhq.com/hopper/7f75acea-bc29-4213-b981-f5679ab3415b","note":"Forward Deployed Engineer, Full Stack - Fintech Airlines APAC; India, 100% remote."},
+  {"company":"Atlan","ats":"ashby","endpoint":"https://api.ashbyhq.com/posting-api/job-board/atlan?includeCompensation=true","baseUrl":"https://jobs.ashbyhq.com/atlan","evidence_url":"https://jobs.ashbyhq.com/atlan/aea0a9e5-6555-4e35-9753-3a443bcf2624","note":"Senior Engineering Manager - Data Platform; India Remote. Senior posting confirms a substantial India-remote data-platform team."},
+  {"company":"OpenAI","ats":"ashby","endpoint":"https://api.ashbyhq.com/posting-api/job-board/openai?includeCompensation=true","baseUrl":"https://jobs.ashbyhq.com/openai","evidence_url":"https://jobs.ashbyhq.com/openai/1a4befe6-a438-40b2-863e-d4843fb3f90a","note":"AI Deployment Engineer, Codex; Delhi or Remote India."},
+  {"company":"Tolken","ats":"ashby","endpoint":"https://api.ashbyhq.com/posting-api/job-board/tolken?includeCompensation=true","baseUrl":"https://jobs.ashbyhq.com/tolken","evidence_url":"https://jobs.ashbyhq.com/tolken/4d20e930-c496-4c80-bbb6-faee103f951d","note":"Senior Full Stack Engineer; India (Remote). Senior role confirms an active India-remote engineering team."},
+  {"company":"Sprinto","ats":"lever","endpoint":"https://api.lever.co/v0/postings/Sprinto?mode=json","baseUrl":"https://jobs.lever.co/Sprinto","evidence_url":"https://jobs.lever.co/Sprinto/cc9fc7a2-b2c7-4181-a9cf-4e00d64927d5","note":"Senior Full-stack Engineer; Remote Bengaluru / India. Senior role confirms an active India-remote startup engineering team."},
+  {"company":"Acceldata","ats":"lever","endpoint":"https://api.lever.co/v0/postings/acceldata?mode=json","baseUrl":"https://jobs.lever.co/acceldata","evidence_url":"https://jobs.lever.co/acceldata/0c47e882-83ff-471e-ba75-5543796aa34a","note":"Software Engineer - Open Data Platform, Bengaluru, India; onsite."},
+  {"company":"Alif Semiconductor","ats":"lever","endpoint":"https://api.lever.co/v0/postings/alifsemi?mode=json","baseUrl":"https://jobs.lever.co/alifsemi","evidence_url":"https://jobs.lever.co/alifsemi/1f921624-cee6-43b6-9374-8c871ab2abf2","note":"Software Engineer - RTOS, Bangalore; onsite."},
+  {"company":"RapidAI","ats":"lever","endpoint":"https://api.lever.co/v0/postings/rapidai?mode=json","baseUrl":"https://jobs.lever.co/rapidai","evidence_url":"https://jobs.lever.co/rapidai/469cd281-07bd-4b85-a773-a773adc1f83a","note":"Senior Software Engineer, Bangalore; hybrid. Senior role confirms an active India clinical-AI engineering team."},
+  {"company":"Wing Assistant","ats":"lever","endpoint":"https://api.lever.co/v0/postings/getwingapp?mode=json","baseUrl":"https://jobs.lever.co/getwingapp","evidence_url":"https://jobs.lever.co/getwingapp/9e5987e1-2bb6-4956-9cdb-773762c0570c/apply","note":"Full Stack Developer - MERN and LLMs, New Delhi, India; remote."},
+  {"company":"AHEAD","ats":"lever","endpoint":"https://api.lever.co/v0/postings/thinkahead?mode=json","baseUrl":"https://jobs.lever.co/thinkahead","evidence_url":"https://jobs.lever.co/thinkahead/fe847bf5-1230-46ac-9917-3015ec58652f","note":"Full Stack Engineer; Gurugram, Hyderabad or Bangalore; hybrid."},
+  {"company":"Endpoint Clinical","ats":"lever","endpoint":"https://api.lever.co/v0/postings/endpointclinical?mode=json","baseUrl":"https://jobs.lever.co/endpointclinical","evidence_url":"https://jobs.lever.co/endpointclinical/820b0188-3545-4b1f-8624-56592b85f898/apply","note":"AI and Prompt Engineering Intern, Bengaluru; onsite and directly relevant to fresher/GenAI filtering."},
+  {"company":"project44","ats":"greenhouse","endpoint":"https://boards-api.greenhouse.io/v1/boards/project44/jobs?content=true","baseUrl":"https://boards.greenhouse.io/project44","evidence_url":"https://boards.greenhouse.io/project44/jobs/8014962","note":"Staff Machine Learning Engineer, Bangalore; hybrid three days in office. Role covers GenAI, LLMs and agentic systems and confirms a major Bengaluru AI team."},
+  {"company":"Point72","ats":"greenhouse","endpoint":"https://boards-api.greenhouse.io/v1/boards/point72/jobs?content=true","baseUrl":"https://boards.greenhouse.io/point72","evidence_url":"https://boards.greenhouse.io/point72/jobs/8487494002?gh_jid=8487494002","note":"Machine Learning Engineer, GenAI Technology, Bengaluru, India; senior role confirms an active India GenAI team."},
+  {"company":"Graphcore","ats":"greenhouse","endpoint":"https://boards-api.greenhouse.io/v1/boards/graphcore/jobs?content=true","baseUrl":"https://boards.greenhouse.io/graphcore","evidence_url":"https://boards.greenhouse.io/graphcore/jobs/8591764002","note":"Principal Execution and QA Validation Engineer, Bengaluru, India; confirms an active India AI-compute validation and test-automation team."},
+  {"company":"Celonis","ats":"greenhouse","endpoint":"https://boards-api.greenhouse.io/v1/boards/celonis/jobs?content=true","baseUrl":"https://boards.greenhouse.io/celonis","evidence_url":"https://boards.greenhouse.io/celonis/jobs/7791291003","note":"Senior Software Engineer - Java, Bangalore, India; hybrid. Senior role confirms an active India backend and data-platform team."},
+  {"company":"Cermati.com","ats":"smartrecruiters","endpoint":"https://api.smartrecruiters.com/v1/companies/Cermaticom/postings?limit=100","baseUrl":"https://jobs.smartrecruiters.com/Cermaticom","evidence_url":"https://jobs.smartrecruiters.com/Cermaticom/744000123361045-seit-software-engineer-in-test-","note":"SEIT - Software Engineer in Test; Bangalore; non-remote; 2-6 years."},
+  {"company":"Typeset.io","ats":"smartrecruiters","endpoint":"https://api.smartrecruiters.com/v1/companies/Typesetio/postings?limit=100","baseUrl":"https://jobs.smartrecruiters.com/Typesetio","evidence_url":"https://jobs.smartrecruiters.com/Typesetio/743999657258868-sr-frontend-engineer","note":"Senior Frontend Engineer, Bengaluru; 2-5 years at a product startup."},
+  {"company":"OneDirect","ats":"smartrecruiters","endpoint":"https://api.smartrecruiters.com/v1/companies/Onedirect1/postings?limit=100","baseUrl":"https://jobs.smartrecruiters.com/Onedirect1","evidence_url":"https://jobs.smartrecruiters.com/Onedirect1/743999815693746-software-development-engineer-sde-3-","note":"Software Development Engineer - SDE III; Bengaluru with a remote-work option; confirms an active India SaaS engineering team."},
+  {"company":"QAD","ats":"smartrecruiters","endpoint":"https://api.smartrecruiters.com/v1/companies/QADInc/postings?limit=100","baseUrl":"https://jobs.smartrecruiters.com/QADInc","evidence_url":"https://jobs.smartrecruiters.com/QADInc/744000132157765-staff-software-engineer-8-12-years-","note":"Staff Software Engineer, Pune; onsite. Agentic ERP and full-stack role confirms an active India engineering team."},
+  {"company":"Xplor","ats":"smartrecruiters","endpoint":"https://api.smartrecruiters.com/v1/companies/Xplor/postings?limit=100","baseUrl":"https://jobs.smartrecruiters.com/Xplor","evidence_url":"https://jobs.smartrecruiters.com/Xplor/744000137897009-senior-software-engineer-full-stack-","note":"Senior Software Engineer - Full Stack, Pune, India; works with a 100% remote team and confirms India full-stack hiring."},
+  {"company":"Mindtickle","ats":"smartrecruiters","endpoint":"https://api.smartrecruiters.com/v1/companies/MindTickle/postings?limit=100","baseUrl":"https://jobs.smartrecruiters.com/MindTickle","evidence_url":"https://jobs.smartrecruiters.com/MindTickle/88535231-software-engineer-in-test-automation","note":"Software Engineer in Infrastructure - Automation QA, Pune; 2-5 years."},
+  {"company":"Oetiker","ats":"smartrecruiters","endpoint":"https://api.smartrecruiters.com/v1/companies/Oetiker/postings?limit=100","baseUrl":"https://jobs.smartrecruiters.com/Oetiker","evidence_url":"https://jobs.smartrecruiters.com/Oetiker/744000102506585-r-d-software-test-engineer","note":"R&D Software Test Engineer, Pune; posting confirms a new India R&D team covering software, firmware, AI/ML testing and automation."},
+  {"company":"NEC Software Solutions","ats":"smartrecruiters","endpoint":"https://api.smartrecruiters.com/v1/companies/NECSWS/postings?limit=100","baseUrl":"https://jobs.smartrecruiters.com/NECSWS","evidence_url":"https://jobs.smartrecruiters.com/NECSWS/744000127139179-senior-software-engineer-java-node-and-aws","note":"Senior Software Engineer - Java, Node and AWS, Bengaluru; hybrid. Senior role confirms an active India cloud-engineering team."},
+  {"company":"Hy-Vee","ats":"workday","endpoint":"https://hyvee.wd1.myworkdayjobs.com/wday/cxs/hyvee/HSTGlobalCareers/jobs","baseUrl":"https://hyvee.wd1.myworkdayjobs.com/HSTGlobalCareers","evidence_url":"https://hyvee.wd1.myworkdayjobs.com/en-US/HSTGlobalCareers/job/Associate-Software-Engineer_R234035/apply","note":"Associate Software Engineer on the Hy-Vee India Careers board; directly relevant to entry-level filtering."},
+  {"company":"Semtech","ats":"workday","endpoint":"https://semtech.wd1.myworkdayjobs.com/wday/cxs/semtech/SemtechCareers/jobs","baseUrl":"https://semtech.wd1.myworkdayjobs.com/SemtechCareers","evidence_url":"https://semtech.wd1.myworkdayjobs.com/en-US/SemtechCareers/job/IND---Hyderabad/Engineer-I---Software-Engineer_REQ3458?q=India&source=LinkedIn","note":"Engineer I - Software Engineer, Hyderabad, India; directly relevant to entry-level filtering."},
+  {"company":"Zelis","ats":"workday","endpoint":"https://zelis.wd1.myworkdayjobs.com/wday/cxs/zelis/ZelisCareers/jobs","baseUrl":"https://zelis.wd1.myworkdayjobs.com/ZelisCareers","evidence_url":"https://zelis.wd1.myworkdayjobs.com/en-US/ZelisCareers/job/Software-Engineer_JR110791","note":"Software Engineer, Hyderabad, India; active India product-engineering posting."},
+  {"company":"Microchip Technology","ats":"workday","endpoint":"https://microchiphr.wd5.myworkdayjobs.com/wday/cxs/microchiphr/External/jobs","baseUrl":"https://microchiphr.wd5.myworkdayjobs.com/External","evidence_url":"https://microchiphr.wd5.myworkdayjobs.com/en-US/External/job/India---Hyderabad/Software-Engineer---II_R2087-26/apply/applyManually","note":"Software Engineer II, Hyderabad, India; role asks for 5 years and confirms an active India software team."}
 
 ]
